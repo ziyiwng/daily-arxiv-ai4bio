@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.02.02
+## Updated on 2026.02.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**Repurposing Protein Language Models for Latent Flow-Based Fitness Optimization**|Amaru Caceres Arroyo et.al.|[2602.02425](http://arxiv.org/abs/2602.02425)|null|
+|**2026-02-02**|**Extending the Law of Intersegmental Coordination: Implications for Powered Prosthetic Controls**|Elad Siman Tov et.al.|[2602.02181](http://arxiv.org/abs/2602.02181)|null|
+|**2026-02-02**|**No Generation without Representation: Efficient Causal Protein Language Models Enable Zero-Shot Fitness Estimation**|Furkan Eris et.al.|[2602.01845](http://arxiv.org/abs/2602.01845)|null|
+|**2026-01-31**|**Controlling Repetition in Protein Language Models**|Jiahao Zhang et.al.|[2602.00782](http://arxiv.org/abs/2602.00782)|null|
+|**2026-01-30**|**Rank-and-Reason: Multi-Agent Collaboration Accelerates Zero-Shot Protein Mutation Prediction**|Yang Tan et.al.|[2602.00197](http://arxiv.org/abs/2602.00197)|null|
+|**2026-01-29**|**Minimal-Action Discrete Schrödinger Bridge Matching for Peptide Sequence Design**|Shrey Goel et.al.|[2601.22408](http://arxiv.org/abs/2601.22408)|null|
 |**2026-01-29**|**Rethinking Federated Graph Foundation Models: A Graph-Language Alignment-based Approach**|Yinlin Zhu et.al.|[2601.21369](http://arxiv.org/abs/2601.21369)|null|
 |**2026-01-28**|**CM-GAI: Continuum Mechanistic Generative Artificial Intelligence Theory for Data Dynamics**|Shan Tang et.al.|[2601.20462](http://arxiv.org/abs/2601.20462)|null|
 |**2026-01-27**|**Structure-based RNA Design by Step-wise Optimization of Latent Diffusion Model**|Qi Si et.al.|[2601.19232](http://arxiv.org/abs/2601.19232)|null|
@@ -36,6 +42,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**Automated Multiple Mini Interview (MMI) Scoring**|Ryan Huynh et.al.|[2602.02360](http://arxiv.org/abs/2602.02360)|null|
 |**2026-01-29**|**GeoRC: A Benchmark for Geolocation Reasoning Chains**|Mohit Talreja et.al.|[2601.21278](http://arxiv.org/abs/2601.21278)|null|
 |**2026-01-24**|**WarrantScore: Modeling Warrants between Claims and Evidence for Substantiation Evaluation in Peer Reviews**|Kiyotada Mori et.al.|[2601.17377](http://arxiv.org/abs/2601.17377)|null|
 |**2026-01-22**|**Machine-Assisted Grading of Nationwide School-Leaving Essay Exams with LLMs and Statistical NLP**|Andres Karjus et.al.|[2601.16314](http://arxiv.org/abs/2601.16314)|null|
@@ -56,6 +63,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**Rethinking Genomic Modeling Through Optical Character Recognition**|Hongxin Xiang et.al.|[2602.02014](http://arxiv.org/abs/2602.02014)|null|
+|**2026-02-02**|**DOGMA: Weaving Structural Information into Data-centric Single-cell Transcriptomics Analysis**|Ru Zhang et.al.|[2602.01839](http://arxiv.org/abs/2602.01839)|null|
+|**2026-02-02**|**Thermodynamic cost-controllability tradeoff in metabolic currency coupling**|Jumpei F. Yamagishi et.al.|[2602.01604](http://arxiv.org/abs/2602.01604)|null|
+|**2026-02-01**|**Toward Interpretable and Generalizable AI in Regulatory Genomics**|Masayuki Nagai et.al.|[2602.01230](http://arxiv.org/abs/2602.01230)|null|
+|**2026-02-01**|**SwiftRepertoire: Few-Shot Immune-Signature Synthesis via Dynamic Kernel Codes**|Rong Fu et.al.|[2602.01051](http://arxiv.org/abs/2602.01051)|null|
+|**2026-01-31**|**IDEM Enough? Evolving Highly Nonlinear Idempotent Boolean Functions**|Claude Carlet et.al.|[2602.00837](http://arxiv.org/abs/2602.00837)|null|
+|**2026-01-30**|**Games on deBruijn Graphs and Cycle Means**|Nadejda Drenska et.al.|[2602.00362](http://arxiv.org/abs/2602.00362)|null|
+|**2026-01-29**|**Accelerating De Novo Genome Assembly via Quantum-Assisted Graph Optimization with Bitstring Recovery**|Jaya Vasavi Pamidimukkala et.al.|[2602.00156](http://arxiv.org/abs/2602.00156)|null|
+|**2026-01-30**|**Classification of SARS-CoV-2 Variants through The Epistatical Circos Plots with Convolutional Neural Networks**|Bo Jing et.al.|[2601.22866](http://arxiv.org/abs/2601.22866)|null|
+|**2026-01-29**|**Beyond Conditional Computation: Retrieval-Augmented Genomic Foundation Models with Gengram**|Huinan Xu et.al.|[2601.22203](http://arxiv.org/abs/2601.22203)|null|
 |**2026-01-28**|**Deep Semi-Supervised Survival Analysis for Predicting Cancer Prognosis**|Anchen Sun et.al.|[2601.20729](http://arxiv.org/abs/2601.20729)|null|
 |**2026-01-28**|**Sparse clustering via the Deterministic Information Bottleneck algorithm**|Efthymios Costa et.al.|[2601.20628](http://arxiv.org/abs/2601.20628)|null|
 |**2026-01-28**|**WFR-MFM: One-Step Inference for Dynamic Unbalanced Optimal Transport**|Xinyu Wang et.al.|[2601.20606](http://arxiv.org/abs/2601.20606)|null|
@@ -91,6 +108,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**MoLF: Mixture-of-Latent-Flow for Pan-Cancer Spatial Gene Expression Prediction from Histology**|Susu Hu et.al.|[2602.02282](http://arxiv.org/abs/2602.02282)|null|
+|**2026-01-30**|**SplineFlow: Flow Matching for Dynamical Systems with B-Spline Interpolants**|Santanu Subhash Rathod et.al.|[2601.23072](http://arxiv.org/abs/2601.23072)|null|
+|**2026-01-30**|**Epigenetic state inheritance drivers drug-tolerant persister-induced resistance in solid tumors: A stochastic agent-based model**|Xiyin Liang et.al.|[2601.22619](http://arxiv.org/abs/2601.22619)|null|
 |**2026-01-27**|**Rethinking Divisive Hierarchical Clustering from a Distributional Perspective**|Kaifeng Zhang et.al.|[2601.19718](http://arxiv.org/abs/2601.19718)|null|
 |**2026-01-27**|**TwinPurify: Purifying gene expression data to reveal tumor-intrinsic transcriptional programs via self-supervised learning**|Zhiwei Zheng et.al.|[2601.18640](http://arxiv.org/abs/2601.18640)|null|
 |**2026-01-23**|**Modeling tumor progression in heterogeneous microenvironments: A cellular automata approach**|Yue Deng et.al.|[2601.16384](http://arxiv.org/abs/2601.16384)|null|
@@ -115,6 +135,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**Prediction-Powered Risk Monitoring of Deployed Models for Detecting Harmful Distribution Shifts**|Guangyi Zhang et.al.|[2602.02229](http://arxiv.org/abs/2602.02229)|null|
+|**2026-02-02**|**Cardinality-Preserving Structured Sparse Graph Transformers for Molecular Property Prediction**|Abhijit Gupta et.al.|[2602.02201](http://arxiv.org/abs/2602.02201)|null|
+|**2026-01-31**|**Harnessing the Peripheral Surface Information Entropy from Globular Protein-Peptide Complexes**|Tyler Grear et.al.|[2602.00498](http://arxiv.org/abs/2602.00498)|null|
 |**2026-01-29**|**Measuring node similarity using minimum cycles in networks**|Bo Yang et.al.|[2601.21783](http://arxiv.org/abs/2601.21783)|null|
 |**2026-01-29**|**Computational investigation of single herbal drugs in Ayurveda for diabetes and obesity using knowledge graph and network pharmacology**|Priyotosh Sil et.al.|[2601.21643](http://arxiv.org/abs/2601.21643)|null|
 |**2026-01-29**|**PPI-SVRG: Unifying Prediction-Powered Inference and Variance Reduction for Semi-Supervised Optimization**|Ruicheng Ao et.al.|[2601.21470](http://arxiv.org/abs/2601.21470)|null|
@@ -146,6 +169,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**Flow Policy Gradients for Robot Control**|Brent Yi et.al.|[2602.02481](http://arxiv.org/abs/2602.02481)|null|
+|**2026-02-02**|**Repurposing Protein Language Models for Latent Flow-Based Fitness Optimization**|Amaru Caceres Arroyo et.al.|[2602.02425](http://arxiv.org/abs/2602.02425)|null|
+|**2026-02-02**|**Masked Autoencoders as Universal Speech Enhancer**|Rajalaxmi Rajagopalan et.al.|[2602.02413](http://arxiv.org/abs/2602.02413)|null|
+|**2026-02-02**|**PRISM: Performer RS-IMLE for Single-pass Multisensory Imitation Learning**|Amisha Bhaskar et.al.|[2602.02396](http://arxiv.org/abs/2602.02396)|null|
+|**2026-02-02**|**Self-Supervised Learning from Structural Invariance**|Yipeng Zhang et.al.|[2602.02381](http://arxiv.org/abs/2602.02381)|null|
+|**2026-02-02**|**MoLF: Mixture-of-Latent-Flow for Pan-Cancer Spatial Gene Expression Prediction from Histology**|Susu Hu et.al.|[2602.02282](http://arxiv.org/abs/2602.02282)|null|
+|**2026-02-02**|**Unlocking the Duality between Flow and Field Matching**|Daniil Shlenskii et.al.|[2602.02261](http://arxiv.org/abs/2602.02261)|null|
+|**2026-02-02**|**LiFlow: Flow Matching for 3D LiDAR Scene Completion**|Andrea Matteazzi et.al.|[2602.02232](http://arxiv.org/abs/2602.02232)|null|
+|**2026-02-02**|**HPE: Hallucinated Positive Entanglement for Backdoor Attacks in Federated Self-Supervised Learning**|Jiayao Wang et.al.|[2602.02147](http://arxiv.org/abs/2602.02147)|null|
+|**2026-02-02**|**Logic-Guided Vector Fields for Constrained Generative Modeling**|Ali Baheri et.al.|[2602.02009](http://arxiv.org/abs/2602.02009)|null|
 |**2026-01-29**|**Value-Based Pre-Training with Downstream Feedback**|Shuqi Ke et.al.|[2601.22108](http://arxiv.org/abs/2601.22108)|null|
 |**2026-01-29**|**Prior-Informed Flow Matching for Graph Reconstruction**|Harvey Chen et.al.|[2601.22107](http://arxiv.org/abs/2601.22107)|null|
 |**2026-01-29**|**Holographic generative flows with AdS/CFT**|Ehsan Mirafzali et.al.|[2601.22033](http://arxiv.org/abs/2601.22033)|null|
@@ -191,6 +224,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**DOGMA: Weaving Structural Information into Data-centric Single-cell Transcriptomics Analysis**|Ru Zhang et.al.|[2602.01839](http://arxiv.org/abs/2602.01839)|null|
+|**2026-02-02**|**ChemDCAT-AP: Enabling Semantic Interoperability with a Contextual Extension of DCAT-AP**|Philip Stroemert et.al.|[2602.01822](http://arxiv.org/abs/2602.01822)|null|
+|**2026-02-02**|**LingLanMiDian: Systematic Evaluation of LLMs on TCM Knowledge and Clinical Reasoning**|Rui Hua et.al.|[2602.01779](http://arxiv.org/abs/2602.01779)|null|
+|**2026-02-02**|**DIA-CLIP: a universal representation learning framework for zero-shot DIA proteomics**|Yucheng Liao et.al.|[2602.01772](http://arxiv.org/abs/2602.01772)|null|
+|**2026-02-01**|**Towards knowledge-based workflows: a semantic approach to atomistic simulations for mechanical and thermodynamic properties**|Abril Azocar Guzman et.al.|[2602.01358](http://arxiv.org/abs/2602.01358)|null|
+|**2026-02-01**|**LLM-Driven Ontology Construction for Enterprise Knowledge Graphs**|Abdulsobur Oyewale et.al.|[2602.01276](http://arxiv.org/abs/2602.01276)|null|
+|**2026-02-01**|**INDIGENA: inductive prediction of disease-gene associations using phenotype ontologies**|Fernando Zhapa-Camacho et.al.|[2602.01088](http://arxiv.org/abs/2602.01088)|null|
+|**2026-02-01**|**A Deflationary Account of Quantum Theory and its Implications for the Complex Numbers**|Jacob A. Barandes et.al.|[2602.01043](http://arxiv.org/abs/2602.01043)|null|
+|**2026-01-31**|**From Prompt to Graph: Comparing LLM-Based Information Extraction Strategies in Domain-Specific Ontology Development**|Xuan Liu et.al.|[2602.00699](http://arxiv.org/abs/2602.00699)|null|
+|**2026-01-31**|**Ermakov-Lewis Invariants in Stationary Bohm-Madelung Quantum Mechanics**|Anand Aruna Kumar et.al.|[2602.00507](http://arxiv.org/abs/2602.00507)|null|
 |**2026-01-29**|**Liquid Interfaces: A Dynamic Ontology for the Interoperability of Autonomous Systems**|Dhiogo de Sá et.al.|[2601.21993](http://arxiv.org/abs/2601.21993)|null|
 |**2026-01-29**|**Toward Culturally Aligned LLMs through Ontology-Guided Multi-Agent Reasoning**|Wonduk Seo et.al.|[2601.21700](http://arxiv.org/abs/2601.21700)|null|
 |**2026-01-29**|**Computational investigation of single herbal drugs in Ayurveda for diabetes and obesity using knowledge graph and network pharmacology**|Priyotosh Sil et.al.|[2601.21643](http://arxiv.org/abs/2601.21643)|null|
@@ -231,6 +274,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**Visualizing the Odd-parity Superconducting Order Parameter and its Quasiparticle Surface Band in UTe2**|Shuqiu Wang et.al.|[2602.02490](http://arxiv.org/abs/2602.02490)|null|
+|**2026-02-02**|**Uncertainty-Aware Image Classification In Biomedical Imaging Using Spectral-normalized Neural Gaussian Processes**|Uma Meleti et.al.|[2602.02370](http://arxiv.org/abs/2602.02370)|null|
+|**2026-02-02**|**A spatial random forest algorithm for population-level epidemiological risk assessment**|Duncan Lee et.al.|[2602.02277](http://arxiv.org/abs/2602.02277)|null|
+|**2026-02-02**|**Toxicity Assessment in Preclinical Histopathology via Class-Aware Mahalanobis Distance for Known and Novel Anomalies**|Olga Graf et.al.|[2602.02124](http://arxiv.org/abs/2602.02124)|null|
+|**2026-02-02**|**Deep Multivariate Models with Parametric Conditionals**|Dmitrij Schlesinger et.al.|[2602.01953](http://arxiv.org/abs/2602.01953)|null|
+|**2026-02-02**|**Fe-DCA Metal-Organic Frameworks on the Bi2Se3(0001) Topological Insulator Surface**|Anna Kurowská et.al.|[2602.01940](http://arxiv.org/abs/2602.01940)|null|
+|**2026-02-02**|**Bayesian Integration of Nonlinear Incomplete Clinical Data**|Lucía González-Zamorano et.al.|[2602.01924](http://arxiv.org/abs/2602.01924)|null|
+|**2026-02-02**|**DOGMA: Weaving Structural Information into Data-centric Single-cell Transcriptomics Analysis**|Ru Zhang et.al.|[2602.01839](http://arxiv.org/abs/2602.01839)|null|
+|**2026-02-02**|**LDRNet: Large Deformation Registration Model for Chest CT Registration**|Cheng Wang et.al.|[2602.01812](http://arxiv.org/abs/2602.01812)|null|
+|**2026-02-02**|**Physics Informed Generative AI Enabling Labour Free Segmentation For Microscopy Analysis**|Salma Zahran et.al.|[2602.01710](http://arxiv.org/abs/2602.01710)|null|
 |**2026-01-29**|**Value-Based Pre-Training with Downstream Feedback**|Shuqi Ke et.al.|[2601.22108](http://arxiv.org/abs/2601.22108)|null|
 |**2026-01-29**|**BLO-Inst: Bi-Level Optimization Based Alignment of YOLO and SAM for Robust Instance Segmentation**|Li Zhang et.al.|[2601.22061](http://arxiv.org/abs/2601.22061)|null|
 |**2026-01-29**|**AIRPET: Virtual Positron Emission Tomography**|J. Renner et.al.|[2601.22059](http://arxiv.org/abs/2601.22059)|null|
