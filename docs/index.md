@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.10
+## Updated on 2026.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
@@ -75,6 +75,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**Population-scale Ancestral Recombination Graphs with tskit 1.0**|Ben Jeffery et.al.|[2602.09649](http://arxiv.org/abs/2602.09649)|null|
+|**2026-02-09**|**AntigenLM: Structure-Aware DNA Language Modeling for Influenza**|Yue Pei et.al.|[2602.09067](http://arxiv.org/abs/2602.09067)|null|
+|**2026-02-09**|**scBench: Evaluating AI Agents on Single-Cell RNA-seq Analysis**|Kenny Workman et.al.|[2602.09063](http://arxiv.org/abs/2602.09063)|null|
 |**2026-02-09**|**Central Dogma Transformer II: An AI Microscope for Understanding Cellular Regulatory Mechanisms**|Nobuyuki Ota et.al.|[2602.08751](http://arxiv.org/abs/2602.08751)|null|
 |**2026-02-09**|**Deep Learning-Based Fixation Type Prediction for Quality Assurance in Digital Pathology**|Oskar Thaeter et.al.|[2602.08652](http://arxiv.org/abs/2602.08652)|null|
 |**2026-02-09**|**ClusterChirp: A GPU-accelerated Web Server for Natural Language-Guided Interactive Visualization and Analysis of Large Omics Data**|Osho Rawal et.al.|[2602.08280](http://arxiv.org/abs/2602.08280)|null|
@@ -141,7 +144,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-02-07**|**Scalable Mean-Field Variational Inference via Preconditioned Primal-Dual Optimization**|Jinhua Lyu et.al.|[2602.07632](http://arxiv.org/abs/2602.07632)|null|
+|**2026-02-09**|**scBench: Evaluating AI Agents on Single-Cell RNA-seq Analysis**|Kenny Workman et.al.|[2602.09063](http://arxiv.org/abs/2602.09063)|null|
+|**2026-02-10**|**Scalable Mean-Field Variational Inference via Preconditioned Primal-Dual Optimization**|Jinhua Lyu et.al.|[2602.07632](http://arxiv.org/abs/2602.07632)|null|
 |**2026-02-07**|**Bipartite Graph Attention-based Clustering for Large-scale scRNA-seq Data**|Zhuomin Liang et.al.|[2602.07475](http://arxiv.org/abs/2602.07475)|null|
 |**2026-02-05**|**Sparse Video Generation Propels Real-World Beyond-the-View Vision-Language Navigation**|Hai Zhang et.al.|[2602.05827](http://arxiv.org/abs/2602.05827)|null|
 |**2026-02-05**|**STProtein: predicting spatial protein expression from multi-omics data**|Zhaorui Jiang et.al.|[2602.05811](http://arxiv.org/abs/2602.05811)|null|
@@ -214,9 +218,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**Learning on the Manifold: Unlocking Standard Diffusion Transformers with Representation Encoders**|Amandeep Kumar et.al.|[2602.10099](http://arxiv.org/abs/2602.10099)|null|
+|**2026-02-10**|**BioME: A Resource-Efficient Bioacoustic Foundational Model for IoT Applications**|Heitor R. Guimarães et.al.|[2602.09970](http://arxiv.org/abs/2602.09970)|null|
+|**2026-02-10**|**Kelix Technique Report**|Boyang Ding et.al.|[2602.09843](http://arxiv.org/abs/2602.09843)|null|
+|**2026-02-10**|**Self-Supervised Learning as Discrete Communication**|Kawtar Zaher et.al.|[2602.09764](http://arxiv.org/abs/2602.09764)|null|
+|**2026-02-10**|**Rethinking Visual-Language-Action Model Scaling: Alignment, Mixture, and Regularization**|Ye Wang et.al.|[2602.09722](http://arxiv.org/abs/2602.09722)|null|
+|**2026-02-10**|**Look-Ahead and Look-Back Flows: Training-Free Image Generation with Trajectory Smoothing**|Yan Luo et.al.|[2602.09449](http://arxiv.org/abs/2602.09449)|null|
+|**2026-02-10**|**Reward-Guided Discrete Diffusion via Clean-Sample Markov Chain for Molecule and Biological Sequence Design**|Prin Phunyaphibarn et.al.|[2602.09424](http://arxiv.org/abs/2602.09424)|null|
 |**2026-02-09**|**Joint Channel Sounding and Source-Channel Coding for MIMO-OFDM Systems: Deep Unified Encoding and Parallel Flow-Matching Decoding**|Hao Jiang et.al.|[2602.08795](http://arxiv.org/abs/2602.08795)|null|
 |**2026-02-09**|**Synergistic cross-modal learning for experimental NMR-based structure elucidation**|Fanjie Xu et.al.|[2602.08752](http://arxiv.org/abs/2602.08752)|null|
-|**2026-02-09**|**Shifting the Breaking Point of Flow Matching for Multi-Instance Editing**|Carmine Zaccagnino et.al.|[2602.08749](http://arxiv.org/abs/2602.08749)|null|
+|**2026-02-10**|**Shifting the Breaking Point of Flow Matching for Multi-Instance Editing**|Carmine Zaccagnino et.al.|[2602.08749](http://arxiv.org/abs/2602.08749)|null|
 |**2026-02-09**|**Is Flow Matching Just Trajectory Replay for Sequential Data?**|Soon Hoe Lim et.al.|[2602.08318](http://arxiv.org/abs/2602.08318)|null|
 |**2026-02-09**|**Fast Flow Matching based Conditional Independence Tests for Causal Discovery**|Shunyu Zhao et.al.|[2602.08315](http://arxiv.org/abs/2602.08315)|null|
 |**2026-02-09**|**PTS-SNN: A Prompt-Tuned Temporal Shift Spiking Neural Networks for Efficient Speech Emotion Recognition**|Xun Su et.al.|[2602.08240](http://arxiv.org/abs/2602.08240)|null|
@@ -317,6 +328,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**Historical Debates over the Physical Reality of the Wave Function**|Jacob A. Barandes et.al.|[2602.09397](http://arxiv.org/abs/2602.09397)|null|
+|**2026-02-10**|**AgentSkiller: Scaling Generalist Agent Intelligence through Semantically Integrated Cross-Domain Data Synthesis**|Zexu Sun et.al.|[2602.09372](http://arxiv.org/abs/2602.09372)|null|
+|**2026-02-09**|**FlyAOC: Evaluating Agentic Ontology Curation of Drosophila Scientific Knowledge Bases**|Xingjian Zhang et.al.|[2602.09163](http://arxiv.org/abs/2602.09163)|null|
 |**2026-02-09**|**Spacetime singularities and incompleteness: epistemic and ontological remarks**|Gustavo E. Romero et.al.|[2602.08931](http://arxiv.org/abs/2602.08931)|null|
 |**2026-02-09**|**Grounding Generative Planners in Verifiable Logic: A Hybrid Architecture for Trustworthy Embodied AI**|Feiyu Wu et.al.|[2602.08373](http://arxiv.org/abs/2602.08373)|null|
 |**2026-02-08**|**Student sensemaking on electrostatics problems involving the method of images through the lens of epistemic game framework**|Jaya Shivangani Kashyap et.al.|[2602.08139](http://arxiv.org/abs/2602.08139)|null|
@@ -383,6 +397,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**PySlice: Routine Vibrational Electron Energy Loss Spectroscopy Prediction with Universal Interatomic Potentials**|Harrison A. Walker et.al.|[2602.10064](http://arxiv.org/abs/2602.10064)|null|
+|**2026-02-10**|**Efficient Special Stain Classification**|Oskar Thaeter et.al.|[2602.09989](http://arxiv.org/abs/2602.09989)|null|
+|**2026-02-10**|**Intensity-based Segmentation of Tissue Images Using a U-Net with a Pretrained ResNet-34 Encoder: Application to Mueller Microscopy**|Sooyong Chae et.al.|[2602.09787](http://arxiv.org/abs/2602.09787)|null|
+|**2026-02-10**|**Explainability in Generative Medical Diffusion Models: A Faithfulness-Based Analysis on MRI Synthesis**|Surjo Dey et.al.|[2602.09781](http://arxiv.org/abs/2602.09781)|null|
+|**2026-02-10**|**The mixture of glycerin with tartrazine: a solution to reversibly increase tissue transparency for in vitro quantitative phase imaging**|Mikolaj Krysa et.al.|[2602.09732](http://arxiv.org/abs/2602.09732)|null|
+|**2026-02-10**|**GenSeg-R1: RL-Driven Vision-Language Grounding for Fine-Grained Referring Segmentation**|Sandesh Hegde et.al.|[2602.09701](http://arxiv.org/abs/2602.09701)|null|
+|**2026-02-10**|**Microstructural origin of the simultaneous enhancements in strength and ductility of a nitrogen-doped high-entropy alloy**|Xiaoxiang Wu et.al.|[2602.09693](http://arxiv.org/abs/2602.09693)|null|
+|**2026-02-10**|**Semi-supervised Liver Segmentation and Patch-based Fibrosis Staging with Registration-aided Multi-parametric MRI**|Boya Wang et.al.|[2602.09686](http://arxiv.org/abs/2602.09686)|null|
+|**2026-02-10**|**Direct Visualization of Room-temperature Stair-stepped Quantum Spin Hall States in Bi4Br4**|Zhiqiang Hu et.al.|[2602.09660](http://arxiv.org/abs/2602.09660)|null|
+|**2026-02-10**|**MieDB-100k: A Comprehensive Dataset for Medical Image Editing**|Yongfan Lai et.al.|[2602.09587](http://arxiv.org/abs/2602.09587)|null|
 |**2026-02-09**|**Tailoring Ultrathin Magnetic Multilayers at Terraced Topologically Insulating Interfaces for Perpendicularly Magnetized Domains**|Benjamin A. Brereton et.al.|[2602.08950](http://arxiv.org/abs/2602.08950)|null|
 |**2026-02-09**|**Efficient Brain Extraction of MRI Scans with Mild to Moderate Neuropathology**|Hjalti Thrastarson et.al.|[2602.08764](http://arxiv.org/abs/2602.08764)|null|
 |**2026-02-09**|**Zero-shot System for Automatic Body Region Detection for Volumetric CT and MR Images**|Farnaz Khun Jush et.al.|[2602.08717](http://arxiv.org/abs/2602.08717)|null|
