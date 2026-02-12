@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.02.11
+## Updated on 2026.02.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Note on the trace of random walks on pseudorandom graphs**|Yaobin Chen et.al.|[2602.10970](http://arxiv.org/abs/2602.10970)|null|
+|**2026-02-10**|**Beyond SMILES: Evaluating Agentic Systems for Drug Discovery**|Edward Wijaya et.al.|[2602.10163](http://arxiv.org/abs/2602.10163)|null|
 |**2026-02-08**|**TerraBind: Fast and Accurate Binding Affinity Prediction through Coarse Structural Representations**|Matteo Rossi et.al.|[2602.07735](http://arxiv.org/abs/2602.07735)|null|
 |**2026-02-07**|**ComPass: Contrastive Learning for Automated Patch Correctness Assessment in Program Repair**|Quanjun Zhang et.al.|[2602.07561](http://arxiv.org/abs/2602.07561)|null|
 |**2026-02-05**|**Know Your Scientist: KYC as Biosecurity Infrastructure**|Jonathan Feldman et.al.|[2602.06172](http://arxiv.org/abs/2602.06172)|null|
@@ -49,6 +51,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Navigating heterogeneous protein landscapes through geometry-aware smoothing**|Srinivas Anumasa et.al.|[2602.10422](http://arxiv.org/abs/2602.10422)|null|
 |**2026-02-09**|**CausalT5K: Diagnosing and Informing Refusal for Trustworthy Causal Reasoning of Skepticism, Sycophancy, Detection-Correction, and Rung Collapse**|Longling Geng et.al.|[2602.08939](http://arxiv.org/abs/2602.08939)|null|
 |**2026-02-08**|**Thinking in Structures: Evaluating Spatial Intelligence through Reasoning on Constrained Manifolds**|Chen Yang et.al.|[2602.07864](http://arxiv.org/abs/2602.07864)|null|
 |**2026-02-06**|**AbFlow : End-to-end Paratope-Centric Antibody Design by Interaction Enhanced Flow Matching**|Wenda Wang et.al.|[2602.07084](http://arxiv.org/abs/2602.07084)|null|
@@ -75,7 +78,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-02-10**|**Population-scale Ancestral Recombination Graphs with tskit 1.0**|Ben Jeffery et.al.|[2602.09649](http://arxiv.org/abs/2602.09649)|null|
+|**2026-02-11**|**Bounding the Average Move Structure Query for Faster and Smaller RLBWT Permutations**|Nathaniel K. Brown et.al.|[2602.11029](http://arxiv.org/abs/2602.11029)|null|
+|**2026-02-11**|**dnaHNet: A Scalable and Hierarchical Foundation Model for Genomic Sequence Learning**|Arnav Shah et.al.|[2602.10603](http://arxiv.org/abs/2602.10603)|null|
+|**2026-02-10**|**STRAND: Sequence-Conditioned Transport for Single-Cell Perturbations**|Boyang Fu et.al.|[2602.10156](http://arxiv.org/abs/2602.10156)|null|
+|**2026-02-09**|**Validating Interpretability in siRNA Efficacy Prediction: A Perturbation-Based, Dataset-Aware Protocol**|Zahra Khodagholi et.al.|[2602.10152](http://arxiv.org/abs/2602.10152)|null|
+|**2026-02-11**|**Population-scale Ancestral Recombination Graphs with tskit 1.0**|Ben Jeffery et.al.|[2602.09649](http://arxiv.org/abs/2602.09649)|null|
 |**2026-02-09**|**AntigenLM: Structure-Aware DNA Language Modeling for Influenza**|Yue Pei et.al.|[2602.09067](http://arxiv.org/abs/2602.09067)|null|
 |**2026-02-09**|**scBench: Evaluating AI Agents on Single-Cell RNA-seq Analysis**|Kenny Workman et.al.|[2602.09063](http://arxiv.org/abs/2602.09063)|null|
 |**2026-02-09**|**Central Dogma Transformer II: An AI Microscope for Understanding Cellular Regulatory Mechanisms**|Nobuyuki Ota et.al.|[2602.08751](http://arxiv.org/abs/2602.08751)|null|
@@ -144,6 +151,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Towards Universal Spatial Transcriptomics Super-Resolution: A Generalist Physically Consistent Flow Matching Framework**|Xinlei Huang et.al.|[2602.10644](http://arxiv.org/abs/2602.10644)|null|
 |**2026-02-09**|**scBench: Evaluating AI Agents on Single-Cell RNA-seq Analysis**|Kenny Workman et.al.|[2602.09063](http://arxiv.org/abs/2602.09063)|null|
 |**2026-02-10**|**Scalable Mean-Field Variational Inference via Preconditioned Primal-Dual Optimization**|Jinhua Lyu et.al.|[2602.07632](http://arxiv.org/abs/2602.07632)|null|
 |**2026-02-07**|**Bipartite Graph Attention-based Clustering for Large-scale scRNA-seq Data**|Zhuomin Liang et.al.|[2602.07475](http://arxiv.org/abs/2602.07475)|null|
@@ -179,10 +187,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**Generalized Prediction-Powered Inference, with Application to Binary Classifier Evaluation**|Runjia Zou et.al.|[2602.10332](http://arxiv.org/abs/2602.10332)|null|
 |**2026-02-09**|**DrugR: Optimizing Molecular Drugs through LLM-based Explicit Reasoning**|Haoran Liu et.al.|[2602.08213](http://arxiv.org/abs/2602.08213)|null|
 |**2026-02-08**|**Fast Model Selection and Stable Optimization for Softmax-Gated Multinomial-Logistic Mixture of Experts Models**|TrungKhang Tran et.al.|[2602.07997](http://arxiv.org/abs/2602.07997)|null|
 |**2026-02-08**|**TerraBind: Fast and Accurate Binding Affinity Prediction through Coarse Structural Representations**|Matteo Rossi et.al.|[2602.07735](http://arxiv.org/abs/2602.07735)|null|
-|**2026-02-05**|**SpARCD: A Spectral Graph Framework for Revealing Differential Functional Connectivity in fMRI Data**|Shira Yoffe et.al.|[2602.05807](http://arxiv.org/abs/2602.05807)|null|
+|**2026-02-11**|**SpARCD: A Spectral Graph Framework for Revealing Differential Functional Connectivity in fMRI Data**|Shira Yoffe et.al.|[2602.05807](http://arxiv.org/abs/2602.05807)|null|
 |**2026-02-05**|**Phi-Former: A Pairwise Hierarchical Approach for Compound-Protein Interactions Prediction**|Zhe Wang et.al.|[2602.05479](http://arxiv.org/abs/2602.05479)|null|
 |**2026-02-02**|**Prediction-Powered Risk Monitoring of Deployed Models for Detecting Harmful Distribution Shifts**|Guangyi Zhang et.al.|[2602.02229](http://arxiv.org/abs/2602.02229)|null|
 |**2026-02-05**|**Cardinality-Preserving Structured Sparse Graph Transformers for Molecular Property Prediction**|Abhijit Gupta et.al.|[2602.02201](http://arxiv.org/abs/2602.02201)|null|
@@ -218,6 +227,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling**|Gongye Liu et.al.|[2602.11146](http://arxiv.org/abs/2602.11146)|null|
+|**2026-02-11**|**FastFlow: Accelerating The Generative Flow Matching Models with Bandit Inference**|Divya Jyoti Bajpai et.al.|[2602.11105](http://arxiv.org/abs/2602.11105)|null|
+|**2026-02-11**|**Self-Supervised Learning for Speaker Recognition: A study and review**|Theo Lepage et.al.|[2602.10829](http://arxiv.org/abs/2602.10829)|null|
+|**2026-02-11**|**Transport, Don't Generate: Deterministic Geometric Flows for Combinatorial Optimization**|Benjy Friedmann et.al.|[2602.10794](http://arxiv.org/abs/2602.10794)|null|
+|**2026-02-11**|**Dual-End Consistency Model**|Linwei Dong et.al.|[2602.10764](http://arxiv.org/abs/2602.10764)|null|
+|**2026-02-11**|**Self-Supervised Image Super-Resolution Quality Assessment based on Content-Free Multi-Model Oriented Representation Learning**|Kian Majlessi et.al.|[2602.10744](http://arxiv.org/abs/2602.10744)|null|
+|**2026-02-11**|**A solvable high-dimensional model where nonlinear autoencoders learn structure invisible to PCA while test loss misaligns with generalization**|Vicente Conde Mendes et.al.|[2602.10680](http://arxiv.org/abs/2602.10680)|null|
+|**2026-02-11**|**Towards Universal Spatial Transcriptomics Super-Resolution: A Generalist Physically Consistent Flow Matching Framework**|Xinlei Huang et.al.|[2602.10644](http://arxiv.org/abs/2602.10644)|null|
+|**2026-02-11**|**3DXTalker: Unifying Identity, Lip Sync, Emotion, and Spatial Dynamics in Expressive 3D Talking Avatars**|Zhongju Wang et.al.|[2602.10516](http://arxiv.org/abs/2602.10516)|null|
+|**2026-02-11**|**Driving Reaction Trajectories via Latent Flow Matching**|Yili Shen et.al.|[2602.10476](http://arxiv.org/abs/2602.10476)|null|
 |**2026-02-10**|**Learning on the Manifold: Unlocking Standard Diffusion Transformers with Representation Encoders**|Amandeep Kumar et.al.|[2602.10099](http://arxiv.org/abs/2602.10099)|null|
 |**2026-02-10**|**BioME: A Resource-Efficient Bioacoustic Foundational Model for IoT Applications**|Heitor R. Guimarães et.al.|[2602.09970](http://arxiv.org/abs/2602.09970)|null|
 |**2026-02-10**|**Kelix Technique Report**|Boyang Ding et.al.|[2602.09843](http://arxiv.org/abs/2602.09843)|null|
@@ -328,6 +347,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Pilot-Wave Theories as Hidden Markov Models**|Jacob A. Barandes et.al.|[2602.10569](http://arxiv.org/abs/2602.10569)|null|
+|**2026-02-11**|**An Ontology-driven Dynamic Knowledge Base for Uninhabited Ground Vehicles**|Hsan Sandar Win et.al.|[2602.10555](http://arxiv.org/abs/2602.10555)|null|
 |**2026-02-10**|**Historical Debates over the Physical Reality of the Wave Function**|Jacob A. Barandes et.al.|[2602.09397](http://arxiv.org/abs/2602.09397)|null|
 |**2026-02-10**|**AgentSkiller: Scaling Generalist Agent Intelligence through Semantically Integrated Cross-Domain Data Synthesis**|Zexu Sun et.al.|[2602.09372](http://arxiv.org/abs/2602.09372)|null|
 |**2026-02-09**|**FlyAOC: Evaluating Agentic Ontology Curation of Drosophila Scientific Knowledge Bases**|Xingjian Zhang et.al.|[2602.09163](http://arxiv.org/abs/2602.09163)|null|
@@ -397,6 +418,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Spatial homogeneity of superconducting order parameter in NbN films grown by atomic layer deposition**|J. Lorenz et.al.|[2602.10839](http://arxiv.org/abs/2602.10839)|null|
+|**2026-02-11**|**Establishing the Magnetoelastic Origin of Spin-Wave Routing through Focused Ion Beam Patterning**|Felix Naunheimer et.al.|[2602.10797](http://arxiv.org/abs/2602.10797)|null|
+|**2026-02-11**|**Reinforced Curriculum Pre-Alignment for Domain-Adaptive VLMs**|Yuming Yan et.al.|[2602.10740](http://arxiv.org/abs/2602.10740)|null|
+|**2026-02-11**|**AMAP-APP: Efficient Segmentation and Morphometry Quantification of Fluorescent Microscopy Images of Podocytes**|Arash Fatehi et.al.|[2602.10663](http://arxiv.org/abs/2602.10663)|null|
+|**2026-02-11**|**Nonlinear dynamics in magnonic Fabry-Pérot resonators: Low-power neuron-like activation and transmission suppression**|Anton Lutsenko et.al.|[2602.10650](http://arxiv.org/abs/2602.10650)|null|
+|**2026-02-11**|**Improving Medical Visual Reinforcement Fine-Tuning via Perception and Reasoning Augmentation**|Guangjing Yang et.al.|[2602.10619](http://arxiv.org/abs/2602.10619)|null|
+|**2026-02-11**|**Probing Plasmonic Oscillations in 2D Moiré Nanocrystal Superlattices by Low-Loss EELS**|Swarnendu Das et.al.|[2602.10534](http://arxiv.org/abs/2602.10534)|null|
+|**2026-02-11**|**From Collapse to Improvement: Statistical Perspectives on the Evolutionary Dynamics of Iterative Training on Contaminated Sources**|Soham Bakshi et.al.|[2602.10531](http://arxiv.org/abs/2602.10531)|null|
+|**2026-02-11**|**Med-SegLens: Latent-Level Model Diffing for Interpretable Medical Image Segmentation**|Salma J. Ahmed et.al.|[2602.10508](http://arxiv.org/abs/2602.10508)|null|
+|**2026-02-10**|**Comp2Comp: Open-Source Software with FDA-Cleared Artificial Intelligence Algorithms for Computed Tomography Image Analysis**|Adrit Rao et.al.|[2602.10364](http://arxiv.org/abs/2602.10364)|null|
 |**2026-02-10**|**PySlice: Routine Vibrational Electron Energy Loss Spectroscopy Prediction with Universal Interatomic Potentials**|Harrison A. Walker et.al.|[2602.10064](http://arxiv.org/abs/2602.10064)|null|
 |**2026-02-10**|**Efficient Special Stain Classification**|Oskar Thaeter et.al.|[2602.09989](http://arxiv.org/abs/2602.09989)|null|
 |**2026-02-10**|**Intensity-based Segmentation of Tissue Images Using a U-Net with a Pretrained ResNet-34 Encoder: Application to Mueller Microscopy**|Sooyong Chae et.al.|[2602.09787](http://arxiv.org/abs/2602.09787)|null|
