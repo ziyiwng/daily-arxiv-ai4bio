@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.02.18
+## Updated on 2026.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Factorization Machine with Quadratic-Optimization Annealing for RNA Inverse Folding and Evaluation of Binary-Integer Encoding and Nucleotide Assignment**|Shuta Kikuchi et.al.|[2602.16643](http://arxiv.org/abs/2602.16643)|null|
+|**2026-02-18**|**Enhanced Diffusion Sampling: Efficient Rare Event Sampling and Free Energy Calculation with Diffusion Models**|Yu Xie et.al.|[2602.16634](http://arxiv.org/abs/2602.16634)|null|
+|**2026-02-17**|**Examining Fast Radiative Feedbacks Using Machine-Learning Weather Emulators**|Ankur Mahesh et.al.|[2602.16090](http://arxiv.org/abs/2602.16090)|null|
 |**2026-02-17**|**Semantics-Aware Denoising: A PLM-Guided Sample Reweighting Strategy for Robust Recommendation**|Xikai Yang et.al.|[2602.15359](http://arxiv.org/abs/2602.15359)|null|
 |**2026-02-16**|**Exploring the limits of pre-trained embeddings in machine-guided protein design: a case study on predicting AAV vector viability**|Ana F. Rodrigues et.al.|[2602.14828](http://arxiv.org/abs/2602.14828)|null|
 |**2026-02-15**|**Physical principles of building protein megacomplexes in a crowded milieu**|Jiayi Wang et.al.|[2602.14005](http://arxiv.org/abs/2602.14005)|null|
@@ -87,6 +90,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Parameter-free representations outperform single-cell foundation models on downstream benchmarks**|Huan Souza et.al.|[2602.16696](http://arxiv.org/abs/2602.16696)|null|
+|**2026-02-18**|**Synthetic-Powered Multiple Testing with FDR Control**|Yonghoon Lee et.al.|[2602.16690](http://arxiv.org/abs/2602.16690)|null|
+|**2026-02-18**|**Evolutionary Advantage of Diversity-Generating Retroelements in Switching Environments**|Léo Régnier et.al.|[2602.16447](http://arxiv.org/abs/2602.16447)|null|
+|**2026-02-18**|**Guide-Guard: Off-Target Predicting in CRISPR Applications**|Joseph Bingham et.al.|[2602.16327](http://arxiv.org/abs/2602.16327)|null|
+|**2026-02-17**|**Edge-Local and Qubit-Efficient Quantum Graph Learning for the NISQ Era**|Armin Ahmadkhaniha et.al.|[2602.16018](http://arxiv.org/abs/2602.16018)|null|
 |**2026-02-16**|**Scaling Laws for Masked-Reconstruction Transformers on Single-Cell Transcriptomics**|Ihor Kendiukhov et.al.|[2602.15253](http://arxiv.org/abs/2602.15253)|null|
 |**2026-02-16**|**Measuring the relatedness between scientific publications using controlled vocabularies**|Emil Dolmer Alnor et.al.|[2602.14755](http://arxiv.org/abs/2602.14755)|null|
 |**2026-02-15**|**Physical principles of building protein megacomplexes in a crowded milieu**|Jiayi Wang et.al.|[2602.14005](http://arxiv.org/abs/2602.14005)|null|
@@ -170,6 +178,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Parameter-free representations outperform single-cell foundation models on downstream benchmarks**|Huan Souza et.al.|[2602.16696](http://arxiv.org/abs/2602.16696)|null|
 |**2026-02-16**|**Scaling Laws for Masked-Reconstruction Transformers on Single-Cell Transcriptomics**|Ihor Kendiukhov et.al.|[2602.15253](http://arxiv.org/abs/2602.15253)|null|
 |**2026-02-15**|**Towards Spatial Transcriptomics-driven Pathology Foundation Models**|Konstantin Hemker et.al.|[2602.14177](http://arxiv.org/abs/2602.14177)|null|
 |**2026-02-15**|**Fusing Pixels and Genes: Spatially-Aware Learning in Computational Pathology**|Minghao Han et.al.|[2602.13944](http://arxiv.org/abs/2602.13944)|null|
@@ -257,6 +266,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**A Self-Supervised Approach for Enhanced Feature Representations in Object Detection Tasks**|Santiago C. Vilabella et.al.|[2602.16322](http://arxiv.org/abs/2602.16322)|null|
+|**2026-02-18**|**BAT: Better Audio Transformer Guided by Convex Gated Probing**|Houtan Ghaffari et.al.|[2602.16305](http://arxiv.org/abs/2602.16305)|null|
+|**2026-02-17**|**MolCrystalFlow: Molecular Crystal Structure Prediction via Flow Matching**|Cheng Zeng et.al.|[2602.16020](http://arxiv.org/abs/2602.16020)|null|
+|**2026-02-17**|**Non-Contact Physiological Monitoring in Pediatric Intensive Care Units via Adaptive Masking and Self-Supervised Learning**|Mohamed Khalil Ben Salah et.al.|[2602.15967](http://arxiv.org/abs/2602.15967)|null|
 |**2026-02-17**|**Bottleneck Transformer-Based Approach for Improved Automatic STOI Score Prediction**|Amartyaveer et.al.|[2602.15484](http://arxiv.org/abs/2602.15484)|null|
 |**2026-02-17**|**Benchmarking Self-Supervised Models for Cardiac Ultrasound View Classification**|Youssef Megahed et.al.|[2602.15339](http://arxiv.org/abs/2602.15339)|null|
 |**2026-02-17**|**What Do Neurons Listen To? A Neuron-level Dissection of a General-purpose Audio Model**|Takao Kawamura et.al.|[2602.15307](http://arxiv.org/abs/2602.15307)|null|
@@ -412,6 +425,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**What Kind of World Supports Darwinian Evolution? Quantum Foundational Options**|Partha Ghose et.al.|[2602.16286](http://arxiv.org/abs/2602.16286)|null|
+|**2026-02-18**|**Oscillation Criteria in Large-Scale Gene Regulatory Networks with Intrinsic Fluctuations**|Manuel Eduardo Hernández-García et.al.|[2602.16129](http://arxiv.org/abs/2602.16129)|null|
+|**2026-02-17**|**The large cores of dark matter and globular clusters in AS1063. Possible evidence of self-interacting dark matter. Or not**|Jose M. Diego et.al.|[2602.15940](http://arxiv.org/abs/2602.15940)|null|
 |**2026-02-17**|**Criteria-first, semantics-later: reproducible structure discovery in image-based sciences**|Jan Bumberger et.al.|[2602.15712](http://arxiv.org/abs/2602.15712)|null|
 |**2026-02-17**|**Relating biomarkers and phenotypes using dynamical trap spaces**|Samuel Pastva et.al.|[2602.15691](http://arxiv.org/abs/2602.15691)|null|
 |**2026-02-17**|**Onto-DP: Constructing Neighborhoods for Differential Privacy on Ontological Databases**|Yasmine Hayder et.al.|[2602.15614](http://arxiv.org/abs/2602.15614)|null|
@@ -501,6 +517,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Unpaired Image-to-Image Translation via a Self-Supervised Semantic Bridge**|Jiaming Liu et.al.|[2602.16664](http://arxiv.org/abs/2602.16664)|null|
+|**2026-02-18**|**Growth and crystallographic structure of TiTe $_2$ on Au(111): From sub-monolayer structures to single- and multi-layer films**|Andreas Raabgrund et.al.|[2602.16647](http://arxiv.org/abs/2602.16647)|null|
+|**2026-02-18**|**Behavioral change models for infectious disease transmission: a systematic review (2020-2025)**|Youngji Jo et.al.|[2602.16633](http://arxiv.org/abs/2602.16633)|null|
+|**2026-02-18**|**The rise and fall of an oxide: insights into the phase diagram of bismuth oxide on Au(111)**|Alberto Turoldo et.al.|[2602.16552](http://arxiv.org/abs/2602.16552)|null|
+|**2026-02-18**|**Confinement Epitaxy of Large-Area Two-Dimensional Sn at the Graphene/SiC Interface**|Zamin Mamiyev et.al.|[2602.16451](http://arxiv.org/abs/2602.16451)|null|
+|**2026-02-18**|**Mapping tuberculosis fatalities by region and age group in South Korea: A dataset for targeted health policy optimization**|Yongsung Kwon et.al.|[2602.16437](http://arxiv.org/abs/2602.16437)|null|
+|**2026-02-18**|**Automated Histopathology Report Generation via Pyramidal Feature Extraction and the UNI Foundation Model**|Ahmet Halici et.al.|[2602.16422](http://arxiv.org/abs/2602.16422)|null|
+|**2026-02-18**|**Photophysical properties of Eu3+ complexes approaching electronic contact to a metal surface**|Adrian Ebert et.al.|[2602.16377](http://arxiv.org/abs/2602.16377)|null|
+|**2026-02-18**|**Machine Learning in Epidemiology**|Marvin N. Wright et.al.|[2602.16352](http://arxiv.org/abs/2602.16352)|null|
+|**2026-02-18**|**RefineFormer3D: Efficient 3D Medical Image Segmentation via Adaptive Multi-Scale Transformer with Cross Attention Fusion**|Kavyansh Tyagi et.al.|[2602.16320](http://arxiv.org/abs/2602.16320)|null|
 |**2026-02-17**|**NeRFscopy: Neural Radiance Fields for in-vivo Time-Varying Tissues from Endoscopy**|Laura Salort-Benejam et.al.|[2602.15775](http://arxiv.org/abs/2602.15775)|null|
 |**2026-02-17**|**Intracoronary Optical Coherence Tomography Image Processing and Vessel Classification Using Machine Learning**|Amal Lahchim et.al.|[2602.15579](http://arxiv.org/abs/2602.15579)|null|
 |**2026-02-17**|**Bayesian Nonparametrics for Gene-Gene and Gene-Environment Interactions in Case-Control Studies: A Synthesis and Extension**|Durba Bhattacharya et.al.|[2602.15387](http://arxiv.org/abs/2602.15387)|null|
