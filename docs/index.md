@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.02.19
+## Updated on 2026.02.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**Shortcut learning in geometric knot classification**|Djordje Mihajlovic et.al.|[2602.17350](http://arxiv.org/abs/2602.17350)|null|
 |**2026-02-18**|**Factorization Machine with Quadratic-Optimization Annealing for RNA Inverse Folding and Evaluation of Binary-Integer Encoding and Nucleotide Assignment**|Shuta Kikuchi et.al.|[2602.16643](http://arxiv.org/abs/2602.16643)|null|
 |**2026-02-18**|**Enhanced Diffusion Sampling: Efficient Rare Event Sampling and Free Energy Calculation with Diffusion Models**|Yu Xie et.al.|[2602.16634](http://arxiv.org/abs/2602.16634)|null|
 |**2026-02-17**|**Examining Fast Radiative Feedbacks Using Machine-Learning Weather Emulators**|Ankur Mahesh et.al.|[2602.16090](http://arxiv.org/abs/2602.16090)|null|
@@ -90,6 +91,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**Systematic Evaluation of Single-Cell Foundation Model Interpretability Reveals Attention Captures Co-Expression Rather Than Unique Regulatory Signal**|Ihor Kendiukhov et.al.|[2602.17532](http://arxiv.org/abs/2602.17532)|null|
+|**2026-02-19**|**JEPA-DNA: Grounding Genomic Foundation Models through Joint-Embedding Predictive Architectures**|Ariel Larey et.al.|[2602.17162](http://arxiv.org/abs/2602.17162)|null|
+|**2026-02-17**|**Exploring the Utility of MALDI-TOF Mass Spectrometry and Antimicrobial Resistance in Hospital Outbreak Detection**|Chang Liu et.al.|[2602.16737](http://arxiv.org/abs/2602.16737)|null|
+|**2026-02-17**|**FUNGAR: a pipeline for detecting antifungal resistance mutations directly from metagenomic short reads**|Henrique RM Antoniolli et.al.|[2602.16728](http://arxiv.org/abs/2602.16728)|null|
+|**2026-02-17**|**Tracing protein and proteome history with chronologies and networks: folding recapitulates evolution**|Gustavo Caetano-Anollés et.al.|[2602.16724](http://arxiv.org/abs/2602.16724)|null|
 |**2026-02-18**|**Parameter-free representations outperform single-cell foundation models on downstream benchmarks**|Huan Souza et.al.|[2602.16696](http://arxiv.org/abs/2602.16696)|null|
 |**2026-02-18**|**Synthetic-Powered Multiple Testing with FDR Control**|Yonghoon Lee et.al.|[2602.16690](http://arxiv.org/abs/2602.16690)|null|
 |**2026-02-18**|**Evolutionary Advantage of Diversity-Generating Retroelements in Switching Environments**|Léo Régnier et.al.|[2602.16447](http://arxiv.org/abs/2602.16447)|null|
@@ -222,6 +228,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**Systematic Evaluation of Single-Cell Foundation Model Interpretability Reveals Attention Captures Co-Expression Rather Than Unique Regulatory Signal**|Ihor Kendiukhov et.al.|[2602.17532](http://arxiv.org/abs/2602.17532)|null|
 |**2026-02-16**|**BindCLIP: A Unified Contrastive-Generative Representation Learning Framework for Virtual Screening**|Anjie Qiao et.al.|[2602.15236](http://arxiv.org/abs/2602.15236)|null|
 |**2026-02-13**|**Hermes: Large DEL Datasets Train Generalizable Protein-Ligand Binding Prediction Models**|Maxwell Kleinsasser et.al.|[2602.13503](http://arxiv.org/abs/2602.13503)|null|
 |**2026-02-11**|**Enhanced Portable Ultra Low-Field Diffusion Tensor Imaging with Bayesian Artifact Correction and Deep Learning-Based Super-Resolution**|Mark D. Olchanyi et.al.|[2602.11446](http://arxiv.org/abs/2602.11446)|null|
@@ -266,6 +273,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**Conditional Flow Matching for Continuous Anomaly Detection in Autonomous Driving on a Manifold-Aware Spectral Space**|Antonio Guillen-Perez et.al.|[2602.17586](http://arxiv.org/abs/2602.17586)|null|
+|**2026-02-19**|**Tracing Copied Pixels and Regularizing Patch Affinity in Copy Detection**|Yichen Lu et.al.|[2602.17484](http://arxiv.org/abs/2602.17484)|null|
+|**2026-02-19**|**Variational Grey-Box Dynamics Matching**|Gurjeet Sangra Singh et.al.|[2602.17477](http://arxiv.org/abs/2602.17477)|null|
+|**2026-02-19**|**MGD: Moment Guided Diffusion for Maximum Entropy Generation**|Etienne Lempereur et.al.|[2602.17211](http://arxiv.org/abs/2602.17211)|null|
+|**2026-02-19**|**Grasp Synthesis Matching From Rigid To Soft Robot Grippers Using Conditional Flow Matching**|Tanisha Parulekar et.al.|[2602.17110](http://arxiv.org/abs/2602.17110)|null|
+|**2026-02-19**|**Synergizing Transport-Based Generative Models and Latent Geometry for Stochastic Closure Modeling**|Xinghao Dong et.al.|[2602.17089](http://arxiv.org/abs/2602.17089)|null|
 |**2026-02-18**|**A Self-Supervised Approach for Enhanced Feature Representations in Object Detection Tasks**|Santiago C. Vilabella et.al.|[2602.16322](http://arxiv.org/abs/2602.16322)|null|
 |**2026-02-18**|**BAT: Better Audio Transformer Guided by Convex Gated Probing**|Houtan Ghaffari et.al.|[2602.16305](http://arxiv.org/abs/2602.16305)|null|
 |**2026-02-17**|**MolCrystalFlow: Molecular Crystal Structure Prediction via Flow Matching**|Cheng Zeng et.al.|[2602.16020](http://arxiv.org/abs/2602.16020)|null|
@@ -425,6 +438,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**Systematic Evaluation of Single-Cell Foundation Model Interpretability Reveals Attention Captures Co-Expression Rather Than Unique Regulatory Signal**|Ihor Kendiukhov et.al.|[2602.17532](http://arxiv.org/abs/2602.17532)|null|
+|**2026-02-19**|**Astra: AI Safety, Trust, & Risk Assessment**|Pranav Aggarwal et.al.|[2602.17357](http://arxiv.org/abs/2602.17357)|null|
+|**2026-02-19**|**A testable framework for AI alignment: Simulation Theology as an engineered worldview for silicon-based agents**|Josef A. Habdank et.al.|[2602.16987](http://arxiv.org/abs/2602.16987)|null|
+|**2026-02-18**|**PREFER: An Ontology for the PREcision FERmentation Community**|Txell Amigó et.al.|[2602.16755](http://arxiv.org/abs/2602.16755)|null|
 |**2026-02-18**|**What Kind of World Supports Darwinian Evolution? Quantum Foundational Options**|Partha Ghose et.al.|[2602.16286](http://arxiv.org/abs/2602.16286)|null|
 |**2026-02-18**|**Oscillation Criteria in Large-Scale Gene Regulatory Networks with Intrinsic Fluctuations**|Manuel Eduardo Hernández-García et.al.|[2602.16129](http://arxiv.org/abs/2602.16129)|null|
 |**2026-02-17**|**The large cores of dark matter and globular clusters in AS1063. Possible evidence of self-interacting dark matter. Or not**|Jose M. Diego et.al.|[2602.15940](http://arxiv.org/abs/2602.15940)|null|
@@ -517,6 +534,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**SOLVAR: Fast covariance-based heterogeneity analysis with pose refinement for cryo-EM**|Roey Yadgar et.al.|[2602.17603](http://arxiv.org/abs/2602.17603)|null|
+|**2026-02-19**|**Measuring spectral functions of doped magnets with Rydberg tweezer arrays**|Romain Martin et.al.|[2602.17600](http://arxiv.org/abs/2602.17600)|null|
+|**2026-02-19**|**LATA: Laplacian-Assisted Transductive Adaptation for Conformal Uncertainty in Medical VLMs**|Behzad Bozorgtabar et.al.|[2602.17535](http://arxiv.org/abs/2602.17535)|null|
+|**2026-02-19**|**An extension to reversible jump Markov chain Monte Carlo for change point problems with heterogeneous temporal dynamics**|Emily Gribbin et.al.|[2602.17503](http://arxiv.org/abs/2602.17503)|null|
+|**2026-02-19**|**Tracking the Brownian motion of DNA-functionalized magnetic nanoparticles for conformation analysis beyond the optical resolution limit**|Christian Janzen et.al.|[2602.17496](http://arxiv.org/abs/2602.17496)|null|
+|**2026-02-19**|**QuPAINT: Physics-Aware Instruction Tuning Approach to Quantum Material Discovery**|Xuan-Bac Nguyen et.al.|[2602.17478](http://arxiv.org/abs/2602.17478)|null|
+|**2026-02-19**|**Multi-Method Li Plating Characterization of a Commercial 26 Ah Li-Ion Pouch-Cell**|Christiane Rahe et.al.|[2602.17455](http://arxiv.org/abs/2602.17455)|null|
+|**2026-02-19**|**Atomic-Scale Surface Imaging of bulk Epitaxial CsPbBr3 Perovskite Single Crystals on Mica using Light Assisted Scanning Tunneling Microscopy at Low-Temperature (80 K)**|Eric Duverger et.al.|[2602.17388](http://arxiv.org/abs/2602.17388)|null|
+|**2026-02-19**|**Polaffini: A feature-based approach for robust affine and polyaffine image registration**|Antoine Legouhy et.al.|[2602.17337](http://arxiv.org/abs/2602.17337)|null|
+|**2026-02-19**|**Near-single-domain superconducting aluminum films on GaAs(111)A with exceptional crystalline quality for scalable quantum circuits**|Hsien-Wen Wan et.al.|[2602.17249](http://arxiv.org/abs/2602.17249)|null|
 |**2026-02-18**|**Unpaired Image-to-Image Translation via a Self-Supervised Semantic Bridge**|Jiaming Liu et.al.|[2602.16664](http://arxiv.org/abs/2602.16664)|null|
 |**2026-02-18**|**Growth and crystallographic structure of TiTe $_2$ on Au(111): From sub-monolayer structures to single- and multi-layer films**|Andreas Raabgrund et.al.|[2602.16647](http://arxiv.org/abs/2602.16647)|null|
 |**2026-02-18**|**Behavioral change models for infectious disease transmission: a systematic review (2020-2025)**|Youngji Jo et.al.|[2602.16633](http://arxiv.org/abs/2602.16633)|null|
