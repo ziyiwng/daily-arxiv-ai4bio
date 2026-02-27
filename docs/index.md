@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.02.26
+## Updated on 2026.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**An Active Learning Framework for Data-Efficient, Human-in-the-Loop Enzyme Function Prediction**|Ashley Babjac et.al.|[2602.23269](http://arxiv.org/abs/2602.23269)|null|
+|**2026-02-26**|**Induction Meets Biology: Mechanisms of Repeat Detection in Protein Language Models**|Gal Kesten-Pomeranz et.al.|[2602.23179](http://arxiv.org/abs/2602.23179)|null|
+|**2026-02-23**|**CrossLLM-Mamba: Multimodal State Space Fusion of LLMs for RNA Interaction Prediction**|Rabeya Tus Sadia et.al.|[2602.22236](http://arxiv.org/abs/2602.22236)|null|
 |**2026-02-25**|**Probing the Geometry of Diffusion Models with the String Method**|Elio Moreau et.al.|[2602.22122](http://arxiv.org/abs/2602.22122)|null|
 |**2026-02-25**|**From Words to Amino Acids: Does the Curse of Depth Persist?**|Aleena Siji et.al.|[2602.21750](http://arxiv.org/abs/2602.21750)|null|
 |**2026-02-24**|**Protein Language Models Diverge from Natural Language: Comparative Analysis and Improved Inference**|Anna Hart et.al.|[2602.20449](http://arxiv.org/abs/2602.20449)|null|
@@ -100,6 +103,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**A Fast and Practical Column Generation Approach for Identifying Carcinogenic Multi-Hit Gene Combinations**|Rick S. H. Willemsen et.al.|[2602.22551](http://arxiv.org/abs/2602.22551)|null|
+|**2026-02-25**|**What Topological and Geometric Structure Do Biological Foundation Models Learn? Evidence from 141 Hypotheses**|Ihor Kendiukhov et.al.|[2602.22289](http://arxiv.org/abs/2602.22289)|null|
+|**2026-02-24**|**Multi-Dimensional Spectral Geometry of Biological Knowledge in Single-Cell Transformer Representations**|Ihor Kendiukhov et.al.|[2602.22247](http://arxiv.org/abs/2602.22247)|null|
 |**2026-02-25**|**BEDCrypt: Privacy-preserving interval analytics with homomorphic encryption**|Kimon Antonios Provatas et.al.|[2602.21994](http://arxiv.org/abs/2602.21994)|null|
 |**2026-02-25**|**Prediction of source nutrients for microorganisms using metabolic networks**|Olivia Bulka et.al.|[2602.21993](http://arxiv.org/abs/2602.21993)|null|
 |**2026-02-25**|**Extending Sequence Length is Not All You Need: Effective Integration of Multimodal Signals for Gene Expression Prediction**|Zhao Yang et.al.|[2602.21550](http://arxiv.org/abs/2602.21550)|null|
@@ -207,6 +213,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**SC-Arena: A Natural Language Benchmark for Single-Cell Reasoning with Knowledge-Augmented Evaluation**|Jiahao Zhao et.al.|[2602.23199](http://arxiv.org/abs/2602.23199)|null|
+|**2026-02-26**|**permApprox: a general framework for accurate permutation p-value approximation**|Stefanie Peschel et.al.|[2602.22975](http://arxiv.org/abs/2602.22975)|null|
+|**2026-02-25**|**Disentangling Shared and Target-Enriched Topics via Background-Contrastive Non-negative Matrix Factorization**|Yixuan Li et.al.|[2602.22387](http://arxiv.org/abs/2602.22387)|null|
 |**2026-02-21**|**LAMMI-Pathology: A Tool-Centric Bottom-Up LVLM-Agent Framework for Molecularly Informed Medical Intelligence in Pathology**|Haoyang Su et.al.|[2602.18773](http://arxiv.org/abs/2602.18773)|null|
 |**2026-02-18**|**Parameter-free representations outperform single-cell foundation models on downstream benchmarks**|Huan Souza et.al.|[2602.16696](http://arxiv.org/abs/2602.16696)|null|
 |**2026-02-16**|**Scaling Laws for Masked-Reconstruction Transformers on Single-Cell Transcriptomics**|Ihor Kendiukhov et.al.|[2602.15253](http://arxiv.org/abs/2602.15253)|null|
@@ -252,6 +261,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**Multi-Dimensional Spectral Geometry of Biological Knowledge in Single-Cell Transformer Representations**|Ihor Kendiukhov et.al.|[2602.22247](http://arxiv.org/abs/2602.22247)|null|
+|**2026-02-23**|**CrossLLM-Mamba: Multimodal State Space Fusion of LLMs for RNA Interaction Prediction**|Rabeya Tus Sadia et.al.|[2602.22236](http://arxiv.org/abs/2602.22236)|null|
 |**2026-02-25**|**SAPNet++: Evolving Point-Prompted Instance Segmentation with Semantic and Spatial Awareness**|Zhaoyang Wei et.al.|[2602.21762](http://arxiv.org/abs/2602.21762)|null|
 |**2026-02-24**|**Shock-induced chiral magnetic effect**|Steven P. Harris et.al.|[2602.21294](http://arxiv.org/abs/2602.21294)|null|
 |**2026-02-22**|**On Identifying Critical Network Edges via Analyzing Changes in Shapes (Curvatures)**|Bhaskar DasGupta et.al.|[2602.19328](http://arxiv.org/abs/2602.19328)|null|
@@ -302,6 +313,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**TADA: A Generative Framework for Speech Modeling via Text-Acoustic Dual Alignment**|Trung Dang et.al.|[2602.23068](http://arxiv.org/abs/2602.23068)|null|
+|**2026-02-26**|**RhythmBERT: A Self-Supervised Language Model Based on Latent Representations of ECG Waveforms for Heart Disease Detection**|Xin Wang et.al.|[2602.23060](http://arxiv.org/abs/2602.23060)|null|
+|**2026-02-26**|**InCoM: Intent-Driven Perception and Structured Coordination for Whole-Body Mobile Manipulation**|Jiahao Liu et.al.|[2602.23024](http://arxiv.org/abs/2602.23024)|null|
+|**2026-02-26**|**ProjFlow: Projection Sampling with Flow Matching for Zero-Shot Exact Spatial Motion Control**|Akihisa Watanabe et.al.|[2602.22742](http://arxiv.org/abs/2602.22742)|null|
+|**2026-02-26**|**BRepMAE: Self-Supervised Masked BRep Autoencoders for Machining Feature Recognition**|Can Yao et.al.|[2602.22701](http://arxiv.org/abs/2602.22701)|null|
+|**2026-02-25**|**Flow Matching is Adaptive to Manifold Structures**|Shivam Kumar et.al.|[2602.22486](http://arxiv.org/abs/2602.22486)|null|
+|**2026-02-25**|**What Topological and Geometric Structure Do Biological Foundation Models Learn? Evidence from 141 Hypotheses**|Ihor Kendiukhov et.al.|[2602.22289](http://arxiv.org/abs/2602.22289)|null|
+|**2026-02-25**|**Learning to reconstruct from saturated data: audio declipping and high-dynamic range imaging**|Victor Sechaud et.al.|[2602.22279](http://arxiv.org/abs/2602.22279)|null|
 |**2026-02-25**|**Accelerating Diffusion via Hybrid Data-Pipeline Parallelism Based on Conditional Guidance Scheduling**|Euisoo Jung et.al.|[2602.21760](http://arxiv.org/abs/2602.21760)|null|
 |**2026-02-25**|**Score-Based Conditional Flow Models for MIMO Receiver Design with Superimposed Pilots**|Ruhao Zhang et.al.|[2602.21654](http://arxiv.org/abs/2602.21654)|null|
 |**2026-02-25**|**Axial-Centric Cross-Plane Attention for 3D Medical Image Classification**|Doyoung Park et.al.|[2602.21636](http://arxiv.org/abs/2602.21636)|null|
@@ -494,6 +513,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**SC-Arena: A Natural Language Benchmark for Single-Cell Reasoning with Knowledge-Augmented Evaluation**|Jiahao Zhao et.al.|[2602.23199](http://arxiv.org/abs/2602.23199)|null|
+|**2026-02-26**|**Managing Uncertainty in LLM-based Multi-Agent System Operation**|Man Zhang et.al.|[2602.23005](http://arxiv.org/abs/2602.23005)|null|
 |**2026-02-24**|**On Hydrodynamic Formulations of Quantum Mechanics and the Problem of Sparse Ontology**|Aric Hackebill et.al.|[2602.21106](http://arxiv.org/abs/2602.21106)|null|
 |**2026-02-24**|**The Initial Exploration Problem in Knowledge Graph Exploration**|Claire McNamara et.al.|[2602.21066](http://arxiv.org/abs/2602.21066)|null|
 |**2026-02-23**|**An artificial intelligence framework for end-to-end rare disease phenotyping from clinical notes using large language models**|Cathy Shyr et.al.|[2602.20324](http://arxiv.org/abs/2602.20324)|null|
@@ -604,6 +625,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**mrfmsim: a modular, extendable, and readable simulation platform for magnetic resonance force microscopy experiments**|Peter Sun et.al.|[2602.23337](http://arxiv.org/abs/2602.23337)|null|
+|**2026-02-26**|**PGVMS: A Prompt-Guided Unified Framework for Virtual Multiplex IHC Staining with Pathological Semantic Learning**|Fuqiang Chen et.al.|[2602.23292](http://arxiv.org/abs/2602.23292)|null|
+|**2026-02-26**|**Quantum Confocal Microscopy in Fock Space with a 19 dB Metrological Gain**|Ziyue Hua et.al.|[2602.23254](http://arxiv.org/abs/2602.23254)|null|
+|**2026-02-26**|**Enhanced Interband Optical Nonlinearities from Coupled Quantum Wells**|Rithvik Ramesh et.al.|[2602.23246](http://arxiv.org/abs/2602.23246)|null|
+|**2026-02-26**|**Plug-and-Play Diffusion Meets ADMM: Dual-Variable Coupling for Robust Medical Image Reconstruction**|Chenhe Du et.al.|[2602.23214](http://arxiv.org/abs/2602.23214)|null|
+|**2026-02-26**|**FairQuant: Fairness-Aware Mixed-Precision Quantization for Medical Image Classification**|Thomas Woergaard et.al.|[2602.23192](http://arxiv.org/abs/2602.23192)|null|
+|**2026-02-26**|**SpectralMamba-UNet: Frequency-Disentangled State Space Modeling for Texture-Structure Consistent Medical Image Segmentation**|Fuhao Zhang et.al.|[2602.23103](http://arxiv.org/abs/2602.23103)|null|
+|**2026-02-26**|**Simultaneous separation in bounded degree trees**|Sagi Snir et.al.|[2602.23096](http://arxiv.org/abs/2602.23096)|null|
+|**2026-02-26**|**Cytoarchitecture in Words: Weakly Supervised Vision-Language Modeling for Human Brain Microscopy**|Matthew Sutton et.al.|[2602.23088](http://arxiv.org/abs/2602.23088)|null|
+|**2026-02-26**|**SPM-Bench: Benchmarking Large Language Models for Scanning Probe Microscopy**|Peiyao Xiao et.al.|[2602.22971](http://arxiv.org/abs/2602.22971)|null|
 |**2026-02-25**|**PatchDenoiser: Parameter-efficient multi-scale patch learning and fusion denoiser for medical images**|Jitindra Fartiyal et.al.|[2602.21987](http://arxiv.org/abs/2602.21987)|null|
 |**2026-02-25**|**Protein Graph Neural Networks for Heterogeneous Cryo-EM Reconstruction**|Jonathan Krook et.al.|[2602.21915](http://arxiv.org/abs/2602.21915)|null|
 |**2026-02-25**|**GFPL: Generative Federated Prototype Learning for Resource-Constrained and Data-Imbalanced Vision Task**|Shiwei Lu et.al.|[2602.21873](http://arxiv.org/abs/2602.21873)|null|
