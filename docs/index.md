@@ -321,6 +321,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**Mode Seeking meets Mean Seeking for Fast Long Video Generation**|Shengqu Cai et.al.|[2602.24289](http://arxiv.org/abs/2602.24289)|null|
 |**2026-02-27**|**Flow-Based Density Ratio Estimation for Intractable Distributions with Applications in Genomics**|Egor Antipov et.al.|[2602.24201](http://arxiv.org/abs/2602.24201)|null|
 |**2026-02-27**|**The Geometry of Transfer: Unlocking Medical Vision Manifolds for Training-Free Model Ranking**|Jiaqi Tang et.al.|[2602.23916](http://arxiv.org/abs/2602.23916)|null|
 |**2026-02-27**|**ABPolicy: Asynchronous B-Spline Flow Policy for Real-Time and Smooth Robotic Manipulation**|Fan Yang et.al.|[2602.23901](http://arxiv.org/abs/2602.23901)|null|
@@ -642,6 +643,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**Histopathology Image Normalization via Latent Manifold Compaction**|Xiaolong Zhang et.al.|[2602.24251](http://arxiv.org/abs/2602.24251)|null|
 |**2026-02-27**|**MuViT: Multi-Resolution Vision Transformers for Learning Across Scales in Microscopy**|Albert Dominguez Mantes et.al.|[2602.24222](http://arxiv.org/abs/2602.24222)|null|
 |**2026-02-27**|**Mechanism-Resolved PFM of Ferroionic and Ferroelectric Responses in Thickness-Gradient Hf0.5Zr0.5O2 Libraries**|Yu Liu et.al.|[2602.24216](http://arxiv.org/abs/2602.24216)|null|
 |**2026-02-27**|**A multimodal slice discovery framework for systematic failure detection and explanation in medical image classification**|Yixuan Liu et.al.|[2602.24183](http://arxiv.org/abs/2602.24183)|null|
