@@ -21,6 +21,9 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
+    "Enzyme Design & Prediction":
+        filters: ["Enzyme Design", "Enzyme Catalysis", "Enzyme Function Prediction", "Enzyme-Substrate Interaction", "De novo Enzyme Design", "Computational Enzyme Design", "Enzyme Engineering", "Catalytic Mechanism", "Active Site Design", "Active Site Prediction", "Catalytic Residue Prediction", "Substrate Specificity", "Enzyme Language Model", "Enzyme Activity Prediction"]
+
     "Protein Structure & Engineering":
         filters: ["Protein Structure Prediction", "Protein Design", "AlphaFold", "RoseTTAFold", "Protein Folding", "Inverse Folding", "Protein Language Model", "pLM", "ESM", "Site-specific Mutagenesis", "Protein Function Prediction"]
 
