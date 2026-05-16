@@ -2,15 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.05.13
+## Updated on 2026.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**MetaGEM: Bottom-Up Reconstruction of Genome-Scale Metabolic Networks via Deep Enzyme-Metabolite Anchoring**|Weiyu Xiao et.al.|[2605.14812](http://arxiv.org/abs/2605.14812)|null|
+|**2026-05-12**|**Frequency-Space Mechanics: A Sequence and Coordinate-Free Representation for Protein Function Prediction**|Charles B Reilly et.al.|[2605.13899](http://arxiv.org/abs/2605.13899)|null|
+|**2026-05-14**|**ENSEMBITS: an alphabet of protein conformational ensembles**|Kaiwen Shi et.al.|[2605.13789](http://arxiv.org/abs/2605.13789)|null|
+|**2026-05-13**|**Inspiral gravitational waveforms from charged compact binaries with scalar hair**|Antonio De Felice et.al.|[2605.13036](http://arxiv.org/abs/2605.13036)|null|
 |**2026-05-12**|**Novel implementation of the extended sampling method for inverse biharmonic scattering**|Isaac Harris et.al.|[2605.12367](http://arxiv.org/abs/2605.12367)|null|
-|**2026-05-12**|**Assessment of cloud and associated radiation fields from a GAN stochastic cloud subcolumn generator**|Dongmin Lee et.al.|[2605.11968](http://arxiv.org/abs/2605.11968)|null|
+|**2026-05-13**|**Assessment of cloud and associated radiation fields from a GAN stochastic cloud subcolumn generator**|Dongmin Lee et.al.|[2605.11968](http://arxiv.org/abs/2605.11968)|null|
 |**2026-05-12**|**Decomposing the Generalization Gap in PROTAC Activity Prediction: Variance Attribution and the Inter-Laboratory Ceiling**|Thor Klamt et.al.|[2605.11764](http://arxiv.org/abs/2605.11764)|null|
 |**2026-05-10**|**SCOPE: Siamese Contrastive Operon Pair Embeddings for Functional Sequence Representation and Classification**|Akarsh Gupta et.al.|[2605.11022](http://arxiv.org/abs/2605.11022)|null|
 |**2026-05-09**|**Structural Interpretations of Protein Language Model Representations via Differentiable Graph Partitioning**|Siddhant Dutta et.al.|[2605.10985](http://arxiv.org/abs/2605.10985)|null|
@@ -190,6 +194,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**K-Models: a Flexible and Interpretable Method for Ordinal Clustering with Application to Antigen-Antibody Interaction Profiles**|Giulia Patanè et.al.|[2605.14828](http://arxiv.org/abs/2605.14828)|null|
 |**2026-05-09**|**Two Ways to De-Bias an LLM-as-a-Judge: A Continuous-Score Comparison of Hierarchical Bayesian Calibration and Neural-ODE Score Transport**|Andrea Morandi et.al.|[2605.09227](http://arxiv.org/abs/2605.09227)|null|
 |**2026-05-06**|**The Single-File Test: A Longitudinal Public-Interface Evaluation of First-Output LLM Web Generation with Social Reach Tracking**|Diego Cabezas Palacios et.al.|[2605.06707](http://arxiv.org/abs/2605.06707)|null|
 |**2026-04-03**|**The Impact of LLM Self-Consistency and Reasoning Effort on Automated Scoring Accuracy and Cost**|Scott Frohn et.al.|[2604.26954](http://arxiv.org/abs/2604.26954)|null|
@@ -239,6 +244,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**Learning with Shallow Neural Networks on Cluster-Structured Features**|Elisabetta Cornacchia et.al.|[2605.14927](http://arxiv.org/abs/2605.14927)|null|
+|**2026-05-14**|**MetaGEM: Bottom-Up Reconstruction of Genome-Scale Metabolic Networks via Deep Enzyme-Metabolite Anchoring**|Weiyu Xiao et.al.|[2605.14812](http://arxiv.org/abs/2605.14812)|null|
+|**2026-05-14**|**GGBound: A Genome-Grounded Agent for Microbial Life-Boundary Prediction**|Hanbo Huang et.al.|[2605.14442](http://arxiv.org/abs/2605.14442)|null|
+|**2026-05-14**|**Darwin Family: MRI-Trust-Weighted Evolutionary Merging for Training-Free Scaling of Language-Model Reasoning**|Taebong Kim et.al.|[2605.14386](http://arxiv.org/abs/2605.14386)|null|
+|**2026-05-13**|**AttnGen: Attention-Guided Saliency Learning for Interpretable Genomic Sequence Classification**|Rayhaneh Shabani Nia et.al.|[2605.14073](http://arxiv.org/abs/2605.14073)|null|
+|**2026-05-13**|**SceneGraphVLM: Dynamic Scene Graph Generation from Video with Vision-Language Models**|Vladislav Makarov et.al.|[2605.13667](http://arxiv.org/abs/2605.13667)|null|
+|**2026-05-13**|**Texture Regenerating and Grafting Using Genome-Driven Neural Cellular Automata**|Mirela-Magdalena Catrina et.al.|[2605.13630](http://arxiv.org/abs/2605.13630)|null|
+|**2026-05-13**|**OpenAaaS: An Open Agent-as-a-Service Framework for Distributed Materials-Informatics Research**|Peng Kang et.al.|[2605.13618](http://arxiv.org/abs/2605.13618)|null|
+|**2026-05-13**|**Shared quasispecies architecture in experimental and natural RNA virus populations**|Samuel Martínez-Alcalá et.al.|[2605.13535](http://arxiv.org/abs/2605.13535)|null|
+|**2026-05-12**|**A Resampling-Based Framework for Network Structure Learning in High-Dimensional Data**|Ziwei Huang et.al.|[2605.12706](http://arxiv.org/abs/2605.12706)|null|
 |**2026-05-12**|**Set-Aggregated Genome Embeddings for Microbiome Abundance Prediction**|Younhun Kim et.al.|[2605.12286](http://arxiv.org/abs/2605.12286)|null|
 |**2026-05-12**|**RNA-FM: Flow-Matching Generative Model for Genome-wide RNA-Seq Prediction**|Yaxuan Song et.al.|[2605.11622](http://arxiv.org/abs/2605.11622)|null|
 |**2026-05-12**|**Unification of Signal Transform Theory**|Mitchell A. Thornton et.al.|[2605.11589](http://arxiv.org/abs/2605.11589)|null|
@@ -573,6 +588,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-13**|**DUET: Dual-Paradigm Adaptive Expert Triage with Single-cell Inductive Prior for Spatial Transcriptomics Prediction**|Junchao Zhu et.al.|[2605.14104](http://arxiv.org/abs/2605.14104)|null|
+|**2026-05-13**|**CudaMon: An R Package to Monitor NVIDIA GPUs, Showcased by Monitoring a GPU-accelerated Single-cell Analysis Workflow in R**|Mohammad Amin Zadenoori et.al.|[2605.13928](http://arxiv.org/abs/2605.13928)|null|
 |**2026-05-11**|**Annotation-Free Indoor Radio Mapping via Physics-Informed Trajectory Inference**|Zheng Xing et.al.|[2605.11037](http://arxiv.org/abs/2605.11037)|null|
 |**2026-05-08**|**Flow Matching for Count Data**|Ganchao Wei et.al.|[2605.07746](http://arxiv.org/abs/2605.07746)|null|
 |**2026-05-07**|**Monocular passive event-based range-finding of airborne objects using the Scheimpflug principle**|Nathan Meraz et.al.|[2605.06855](http://arxiv.org/abs/2605.06855)|null|
@@ -688,6 +705,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-13**|**Predicting Endocrine Disruptors: A Deep Learning QSAR Model for Estrogen Receptor Activity**|Belaguppa Manjunath Ashwin Desai et.al.|[2605.13364](http://arxiv.org/abs/2605.13364)|null|
+|**2026-05-14**|**ToolMol: Evolutionary Agentic Framework for Multi-objective Drug Discovery**|Andrew Y. Zhou et.al.|[2605.12784](http://arxiv.org/abs/2605.12784)|null|
 |**2026-05-12**|**Decomposing the Generalization Gap in PROTAC Activity Prediction: Variance Attribution and the Inter-Laboratory Ceiling**|Thor Klamt et.al.|[2605.11764](http://arxiv.org/abs/2605.11764)|null|
 |**2026-05-11**|**On Improving Graph Neural Networks for QSAR by Pre-training on Extended-Connectivity Fingerprints**|Sam Money-Kyrle et.al.|[2605.10722](http://arxiv.org/abs/2605.10722)|null|
 |**2026-05-11**|**Physical probes expose and alleviate chemical-environment collapse in molecular representations**|Jiebin Fang et.al.|[2605.10429](http://arxiv.org/abs/2605.10429)|null|
@@ -824,6 +843,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**VGGT- $Ω$**|Jianyuan Wang et.al.|[2605.15195](http://arxiv.org/abs/2605.15195)|null|
+|**2026-05-14**|**Aligning Latent Geometry for Spherical Flow Matching in Image Generation**|Tuna Han Salih Meral et.al.|[2605.15193](http://arxiv.org/abs/2605.15193)|null|
+|**2026-05-14**|**EverAnimate: Minute-Scale Human Animation via Latent Flow Restoration**|Wuyang Li et.al.|[2605.15042](http://arxiv.org/abs/2605.15042)|null|
+|**2026-05-14**|**FactorizedHMR: A Hybrid Framework for Video Human Mesh Recovery**|Patrick Kwon et.al.|[2605.14854](http://arxiv.org/abs/2605.14854)|null|
+|**2026-05-14**|**Learning Direct Control Policies with Flow Matching for Autonomous Driving**|Marcello Ceresini et.al.|[2605.14832](http://arxiv.org/abs/2605.14832)|null|
+|**2026-05-14**|**The Velocity Deficit: Initial Energy Injection for Flow Matching**|Linze Li et.al.|[2605.14819](http://arxiv.org/abs/2605.14819)|null|
+|**2026-05-14**|**EponaV2: Driving World Model with Comprehensive Future Reasoning**|Jiawei Xu et.al.|[2605.14696](http://arxiv.org/abs/2605.14696)|null|
+|**2026-05-14**|**Language Generation as Optimal Control: Closed-Loop Diffusion in Latent Control Space**|ZiYi Dong et.al.|[2605.14531](http://arxiv.org/abs/2605.14531)|null|
+|**2026-05-14**|**GGBound: A Genome-Grounded Agent for Microbial Life-Boundary Prediction**|Hanbo Huang et.al.|[2605.14442](http://arxiv.org/abs/2605.14442)|null|
+|**2026-05-14**|**KVPO: ODE-Native GRPO for Autoregressive Video Alignment via KV Semantic Exploration**|Ruicheng Zhang et.al.|[2605.14278](http://arxiv.org/abs/2605.14278)|null|
 |**2026-05-12**|**Aligning Flow Map Policies with Optimal Q-Guidance**|Christos Ziakas et.al.|[2605.12416](http://arxiv.org/abs/2605.12416)|null|
 |**2026-05-12**|**Discrete Flow Matching for Offline-to-Online Reinforcement Learning**|Fairoz Nower Khan et.al.|[2605.12379](http://arxiv.org/abs/2605.12379)|null|
 |**2026-05-12**|**Poly-SVC: Polyphony-Aware Singing Voice Conversion with Harmonic Modeling**|Chen Geng et.al.|[2605.12310](http://arxiv.org/abs/2605.12310)|null|
@@ -1416,6 +1445,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**MetaGEM: Bottom-Up Reconstruction of Genome-Scale Metabolic Networks via Deep Enzyme-Metabolite Anchoring**|Weiyu Xiao et.al.|[2605.14812](http://arxiv.org/abs/2605.14812)|null|
+|**2026-05-14**|**Mitigating Data Scarcity in Psychological Defense Classification with Context-Aware Synthetic Augmentation**|Hoang-Thuy-Duong Vu et.al.|[2605.14380](http://arxiv.org/abs/2605.14380)|null|
+|**2026-05-14**|**Hypergraph Enterprise Agentic Reasoner over Heterogeneous Business Systems**|Ling Wang et.al.|[2605.14259](http://arxiv.org/abs/2605.14259)|null|
+|**2026-05-13**|**When Evidence Conflicts: Uncertainty and Order Effects in Retrieval-Augmented Biomedical Question Answering**|Yikun Han et.al.|[2605.14115](http://arxiv.org/abs/2605.14115)|null|
+|**2026-05-13**|**A Horn extension of DL-Lite with NL data complexity**|Janos Arpasi et.al.|[2605.13367](http://arxiv.org/abs/2605.13367)|null|
+|**2026-05-13**|**IndicMedDialog: A Parallel Multi-Turn Medical Dialogue Dataset for Accessible Healthcare in Indic Languages**|Shubham Kumar Nigam et.al.|[2605.13292](http://arxiv.org/abs/2605.13292)|null|
+|**2026-05-13**|**Dual-Pathway Circuits of Object Hallucination in Vision-Language Models**|Jiaxin Liu et.al.|[2605.13156](http://arxiv.org/abs/2605.13156)|null|
+|**2026-05-13**|**Bayesian Nonparametric Mixed-Effect ODEs with Gaussian Processes**|Julien Martinelli et.al.|[2605.13088](http://arxiv.org/abs/2605.13088)|null|
+|**2026-05-13**|**Controlling Logical Collapse in LLMs via Algebraic Ontology Projection over F2**|Hisashi Miyashita et.al.|[2605.12968](http://arxiv.org/abs/2605.12968)|null|
 |**2026-05-12**|**MedHopQA: A Disease-Centered Multi-Hop Reasoning Benchmark and Evaluation Framework for LLM-Based Biomedical Question Answering**|Rezarta Islamaj et.al.|[2605.12361](http://arxiv.org/abs/2605.12361)|null|
 |**2026-05-12**|**Overview of the MedHopQA track at BioCreative IX: track description, participation and evaluation of systems for multi-hop medical question answering**|Rezarta Islamaj et.al.|[2605.12313](http://arxiv.org/abs/2605.12313)|null|
 |**2026-05-12**|**Unlocking Crowdsourcing for Ontology Matching Validation**|Zhangcheng Qiang et.al.|[2605.12226](http://arxiv.org/abs/2605.12226)|null|
@@ -1726,6 +1764,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**Evidential Reasoning Advances Interpretable Real-World Disease Screening**|Chenyu Lian et.al.|[2605.15171](http://arxiv.org/abs/2605.15171)|null|
+|**2026-05-14**|**Separating Intrinsic Ambiguity from Estimation Uncertainty in Deep Generative Models for Linear Inverse Problems**|Yuxin Guo et.al.|[2605.15050](http://arxiv.org/abs/2605.15050)|null|
+|**2026-05-14**|**Hybrid Nanophotonic Scintillators for Enhanced X-ray Absorption, Emission, and Time Resolution**|Seou Choi et.al.|[2605.14992](http://arxiv.org/abs/2605.14992)|null|
+|**2026-05-14**|**A Monte Carlo positronium decay source model with multiple annihilation channels in GATE**|Wojciech Krzemien et.al.|[2605.14987](http://arxiv.org/abs/2605.14987)|null|
+|**2026-05-14**|**MicroscopyMatching: Towards a Ready-to-use Framework for Microscopy Image Analysis in Diverse Conditions**|Xiaofei Hui et.al.|[2605.14980](http://arxiv.org/abs/2605.14980)|null|
+|**2026-05-14**|**Atomically resolved intrinsic superconducting gap in (La,Pr)3Ni2O7 films**|Xinxin Wang et.al.|[2605.14806](http://arxiv.org/abs/2605.14806)|null|
+|**2026-05-14**|**Can Visual Mamba Improve AI-Generated Image Detection? An In-Depth Investigation**|Mamadou Keita et.al.|[2605.14799](http://arxiv.org/abs/2605.14799)|null|
+|**2026-05-14**|**Differentially private inference framework of Riemannian manifold data**|Yangdi Jiang et.al.|[2605.14762](http://arxiv.org/abs/2605.14762)|null|
+|**2026-05-14**|**Towards Label-Free Single-Cell Phenotyping Using Multi-Task Learning**|Saqib Nazir et.al.|[2605.14717](http://arxiv.org/abs/2605.14717)|null|
+|**2026-05-14**|**Vision-Core Guided Contrastive Learning for Balanced Multi-modal Prognosis Prediction of Stroke**|Liren Chen et.al.|[2605.14710](http://arxiv.org/abs/2605.14710)|null|
 |**2026-05-12**|**Mechanical detection of sub-band mobilities of two-dimensional electron gas on reduced SrTiO $_3$ (001) surface**|Akash Gupta et.al.|[2605.12101](http://arxiv.org/abs/2605.12101)|null|
 |**2026-05-12**|**Anomaly-Aware Vision-Language Adapters for Zero-Shot Anomaly Detection**|Muhammad Aqeel et.al.|[2605.12069](http://arxiv.org/abs/2605.12069)|null|
 |**2026-05-12**|**Resilient Vision-Tabular Multimodal Learning under Modality Missingness**|Camillo Maria Caruso et.al.|[2605.12031](http://arxiv.org/abs/2605.12031)|null|
