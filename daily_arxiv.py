@@ -98,7 +98,8 @@ def get_daily_papers(topic,query="slam", max_results=2):
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
-    for result in search_engine.results():
+    client = arxiv.Client()
+    for result in client.results(search_engine):
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
