@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.08.18
+## Updated on 2026.08.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-18**|**Leveraging generative hallucination and biophysics-informed modeling for unified biomolecular sequence-structure co-design**|Xuefeng Liu et.al.|[2608.17381](http://arxiv.org/abs/2608.17381)|null|
 |**2026-08-17**|**Domain-Agnostic Neural Topic Modeling with Contextual Token-Level Semantic Graph Representation**|Seung-Won Seo et.al.|[2608.16269](http://arxiv.org/abs/2608.16269)|null|
 |**2026-08-17**|**Protein Structure Prediction: From Evolutionary Constraints to Generative Modeling**|Wengan He et.al.|[2608.16094](http://arxiv.org/abs/2608.16094)|null|
 |**2026-08-15**|**TAHB: A Comprehensive Benchmark for Text-Attributed Hypergraph Learning**|David Yoon Suk Kang et.al.|[2608.15055](http://arxiv.org/abs/2608.15055)|null|
@@ -264,6 +265,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-18**|**scDNM-VAE enables directly inspectable deep clustering of single-cell RNA-seq data through signed dendritic gating**|Melih Agraz et.al.|[2608.17228](http://arxiv.org/abs/2608.17228)|null|
+|**2026-08-16**|**The Little Scientist: LLM Agent-Driven Discovery via the Scientific Method**|Travis Smith et.al.|[2608.16951](http://arxiv.org/abs/2608.16951)|null|
 |**2026-08-17**|**CACSurv: Concordance-Aligned Comparative Learning with Large Language Models for Cancer Survival Prediction**|Tianqi Xiang et.al.|[2608.16594](http://arxiv.org/abs/2608.16594)|null|
 |**2026-08-15**|**$D^{2}R^{2}$ : Discrete Diffusion with Regulation Reinforcement for Single-Cell Perturbation Prediction**|Ninghan Fan et.al.|[2608.15288](http://arxiv.org/abs/2608.15288)|null|
 |**2026-08-14**|**OvDSGG: End-to-End Open-Vocabulary Dynamic Scene Graph Generation**|John Helsby et.al.|[2608.14835](http://arxiv.org/abs/2608.14835)|null|
@@ -618,6 +621,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-18**|**scDNM-VAE enables directly inspectable deep clustering of single-cell RNA-seq data through signed dendritic gating**|Melih Agraz et.al.|[2608.17228](http://arxiv.org/abs/2608.17228)|null|
+|**2026-08-17**|**Diagonal Multi-omics Integration of Heterogenous Datasets**|Maksim V. Kukushkin et.al.|[2608.16968](http://arxiv.org/abs/2608.16968)|null|
 |**2026-08-17**|**CytoFormer: A Molecularly Supervised Cell Foundation Model for Histopathology Cell Classification**|Jialu Yao et.al.|[2608.16718](http://arxiv.org/abs/2608.16718)|null|
 |**2026-08-17**|**Concept-based explanation of gene expression prediction from H&E images**|Amos Muench et.al.|[2608.16669](http://arxiv.org/abs/2608.16669)|null|
 |**2026-08-15**|**A Unified Geometric Framework for Developmental Analysis of Spatial Transcriptomic Data**|Mary Chriselda Antony Oliver et.al.|[2608.15306](http://arxiv.org/abs/2608.15306)|null|
@@ -745,9 +750,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-18**|**From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation**|Xingjian Wang et.al.|[2608.18076](http://arxiv.org/abs/2608.18076)|null|
+|**2026-08-18**|**Domain-Adapted Molecular Language Models for Efficient Search of Make-on-Demand Libraries**|Henrik Wille et.al.|[2608.17567](http://arxiv.org/abs/2608.17567)|null|
 |**2026-08-17**|**Optical-NIR Multi-band Photometric Analysis and Characterization of Giant Exoplanets with CPI-C**|Yiming Zhu et.al.|[2608.16215](http://arxiv.org/abs/2608.16215)|null|
 |**2026-08-15**|**Prediction Inference of Time Series with Standard ReLU Deep Neural Networks**|Kejin Wu et.al.|[2608.15362](http://arxiv.org/abs/2608.15362)|null|
-|**2026-08-14**|**CPI-Bench: A Comprehensive,Practical and Intelligent Benchmark for Real-World Image Editing**|Qinye Zhou et.al.|[2608.14546](http://arxiv.org/abs/2608.14546)|null|
+|**2026-08-18**|**CPI-Bench: A Comprehensive, Practical and Intelligent Benchmark for Real-World Image Editing**|Qinye Zhou et.al.|[2608.14546](http://arxiv.org/abs/2608.14546)|null|
 |**2026-08-13**|**Recent Advances in Deep Learning-Based Drug-Target Binding Affinity Prediction**|Jafin Khan et.al.|[2608.13797](http://arxiv.org/abs/2608.13797)|null|
 |**2026-08-13**|**Ultrafast Tracking of the Spallation Layer in Bulk Gold, Aluminum, and Steel**|Nicolas Thomae et.al.|[2608.13198](http://arxiv.org/abs/2608.13198)|null|
 |**2026-08-11**|**A Modular Agentic Framework for Synthetically Constrained Multi-Objective Hit-to-Lead Optimization**|Kelvin P. Idanwekhai et.al.|[2608.11483](http://arxiv.org/abs/2608.11483)|null|
@@ -893,6 +900,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-18**|**Composing Flow-Matching Energies with Known Physics: Generation, OOD Detection, and Inversion on PDE Fields**|Yixuan Sun et.al.|[2608.18004](http://arxiv.org/abs/2608.18004)|null|
+|**2026-08-18**|**GenRec: Knowing Where to Reconstruct and Where to Generate**|Ata Çelen et.al.|[2608.17832](http://arxiv.org/abs/2608.17832)|null|
+|**2026-08-18**|**Magnitude-Direction Decoupling for Fast Video Generation with Flow Matching Models**|Haonan Xu et.al.|[2608.17695](http://arxiv.org/abs/2608.17695)|null|
+|**2026-08-18**|**Abra: Scaling Diffusion Image Training**|Kyle Chickering et.al.|[2608.17286](http://arxiv.org/abs/2608.17286)|null|
+|**2026-08-17**|**Mask What Matters: Saliency-Guided Video Self-Supervised Learning for Autonomous Driving**|Christopher Lang et.al.|[2608.17178](http://arxiv.org/abs/2608.17178)|null|
 |**2026-08-17**|**HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL**|Langzhe Gu et.al.|[2608.16837](http://arxiv.org/abs/2608.16837)|null|
 |**2026-08-17**|**PixRestore: Unified Image Restoration via Pixel Diffusion Transformer**|Lingchen Sun et.al.|[2608.16793](http://arxiv.org/abs/2608.16793)|null|
 |**2026-08-17**|**Steering the Flow: Inverting Face Recognition Models via Gradient-Guided Flow Matching**|Ye Lu et.al.|[2608.16791](http://arxiv.org/abs/2608.16791)|null|
@@ -1505,6 +1517,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-18**|**Neuro-symbolic learning over OWL 2 DL via consequence-based compilation to differentiable circuits**|Olga Mashkova et.al.|[2608.17741](http://arxiv.org/abs/2608.17741)|null|
+|**2026-08-18**|**Beyond Suspicious Steps: Ontological Trust in Long-Horizon Agents**|An He et.al.|[2608.17718](http://arxiv.org/abs/2608.17718)|null|
+|**2026-08-18**|**An information-theoretic perspective on feed-forward loop abundances in transcriptional networks**|Mintu Nandi et.al.|[2608.17699](http://arxiv.org/abs/2608.17699)|null|
+|**2026-08-18**|**Mutual Recognition in the Philosophy of Physics: QBism, Phenomenology, Hegel**|George Webster et.al.|[2608.17472](http://arxiv.org/abs/2608.17472)|null|
 |**2026-08-17**|**Reasoning-supported Robustness Validation of Automotive E/E Components**|Jan Novacek et.al.|[2608.16421](http://arxiv.org/abs/2608.16421)|null|
 |**2026-08-17**|**GRNEdit: Efficient General Video Editing from a New Binary-Evidence Perspective in Generative Refinement Networks**|Feng Xie et.al.|[2608.16328](http://arxiv.org/abs/2608.16328)|null|
 |**2026-08-17**|**Towards Cyber-Physical Cognition: A Unified Ontology-Driven Knowledge Graph for Real-Time Autonomous Grid Operations**|Sathvik Sankaranarayanan et.al.|[2608.16001](http://arxiv.org/abs/2608.16001)|null|
@@ -1834,6 +1850,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-18**|**Electronic Reconstruction at the Quasicrystal-Moiré Crossover in Twisted Bilayer Graphene**|Kuo-En Chang et.al.|[2608.18052](http://arxiv.org/abs/2608.18052)|null|
+|**2026-08-18**|**Graph-Adaptive Horseshoe for Compositional Regression**|Satabdi Saha et.al.|[2608.17858](http://arxiv.org/abs/2608.17858)|null|
+|**2026-08-18**|**Recovering protein conformations from single-particle cryo-EM data via indirect shape matching gradient flows**|Erik Jansson et.al.|[2608.17759](http://arxiv.org/abs/2608.17759)|null|
+|**2026-08-18**|**Body-of-Revolution Finite-Element Model of Plasmon-Enhanced Fluorescence**|Luke C. Ugwuoke et.al.|[2608.17655](http://arxiv.org/abs/2608.17655)|null|
+|**2026-08-18**|**MaLViL: Multi-axis Low-rank Vision-LSTM for Medical Image Segmentation**|Afshin Bozorgpour et.al.|[2608.17635](http://arxiv.org/abs/2608.17635)|null|
+|**2026-08-18**|**SpurCon: Weighted Supervised Contrastive Learning for Mitigating Spurious Cues in Medical Imaging**|Shenhav Nadir et.al.|[2608.17598](http://arxiv.org/abs/2608.17598)|null|
+|**2026-08-18**|**Growth of Altermagnetic α-MnTe Films: Substrate Variation and Surface Modification**|M. Dittmar et.al.|[2608.17513](http://arxiv.org/abs/2608.17513)|null|
+|**2026-08-18**|**GSToken: Geometry-Structured Gaussian Tokens for Compact 3D Medical Image Representation**|Xiaoduo Li et.al.|[2608.17425](http://arxiv.org/abs/2608.17425)|null|
+|**2026-08-18**|**TEAMS: Text-prompted spatiotEmporal dual-heAd Mamba Snake**|Ruicheng Zhang et.al.|[2608.17421](http://arxiv.org/abs/2608.17421)|null|
+|**2026-08-18**|**Learning latent progression states from spatial heterogeneity in uterine histopathology**|Qiming He et.al.|[2608.17337](http://arxiv.org/abs/2608.17337)|null|
 |**2026-08-17**|**The canonical facets of multi-separator polytopes**|Bjoern Andres et.al.|[2608.16861](http://arxiv.org/abs/2608.16861)|null|
 |**2026-08-17**|**What Matters is the Prompt: Prompt Sensitivity and Prompt Generation in Foundation Models for Lung Nodule Segmentation**|Jorge F. Lazo et.al.|[2608.16832](http://arxiv.org/abs/2608.16832)|null|
 |**2026-08-17**|**Tuning single-molecule fluorescence by atomic-scale control of the local environment**|Thiago G. L. Brito et.al.|[2608.16826](http://arxiv.org/abs/2608.16826)|null|
