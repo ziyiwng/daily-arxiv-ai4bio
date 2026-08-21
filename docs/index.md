@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.08.20
+## Updated on 2026.08.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**Tau-Rho Equality and Other Dependence Measures of a Subclass of Factorizable Copulas**|Noppawit Yanpaisan et.al.|[2608.19608](http://arxiv.org/abs/2608.19608)|null|
 |**2026-08-19**|**Off-Manifold Collapse in Guided Protein Language Models**|Shuibai Zhang et.al.|[2608.18597](http://arxiv.org/abs/2608.18597)|null|
 |**2026-08-18**|**Leveraging generative hallucination and biophysics-informed modeling for unified biomolecular sequence-structure co-design**|Xuefeng Liu et.al.|[2608.17381](http://arxiv.org/abs/2608.17381)|null|
 |**2026-08-17**|**Domain-Agnostic Neural Topic Modeling with Contextual Token-Level Semantic Graph Representation**|Seung-Won Seo et.al.|[2608.16269](http://arxiv.org/abs/2608.16269)|null|
@@ -266,6 +267,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**What You Can't See Is What You Learn: Restricted Evidence Visibility Favors Compositional Generalization in Shared-Genome Language-Model Societies**|Narcis Marincat et.al.|[2608.20054](http://arxiv.org/abs/2608.20054)|null|
+|**2026-08-19**|**Hepatitis C Virus Genotyping with a Transformer Neural Network**|Ariella Aro et.al.|[2608.19415](http://arxiv.org/abs/2608.19415)|null|
 |**2026-08-19**|**Beyond receptive fields: sequence-pooled normalization can supply most of a sequence labeler's context**|Qing Tian et.al.|[2608.18576](http://arxiv.org/abs/2608.18576)|null|
 |**2026-08-18**|**GenEx: A Graph-Based Representational Paradigm for SARS-CoV-2 Variant Detection via Codon Co-occurrence Networks**|Arefin Amin et.al.|[2608.18238](http://arxiv.org/abs/2608.18238)|null|
 |**2026-08-18**|**scDNM-VAE enables directly inspectable deep clustering of single-cell RNA-seq data through signed dendritic gating**|Melih Agraz et.al.|[2608.17228](http://arxiv.org/abs/2608.17228)|null|
@@ -631,7 +634,7 @@ layout: default
 |**2026-08-15**|**A Unified Geometric Framework for Developmental Analysis of Spatial Transcriptomic Data**|Mary Chriselda Antony Oliver et.al.|[2608.15306](http://arxiv.org/abs/2608.15306)|null|
 |**2026-08-14**|**PaSTel: Anchoring Histology in Spatial Transcriptomics via Multi-Scale Hierarchical Bio-Prior Contrastive Pretraining**|Azim Dehghani Amirabad et.al.|[2608.14924](http://arxiv.org/abs/2608.14924)|null|
 |**2026-08-11**|**Path2ST: Hierarchical Cell-Tissue Grounded Cross-Modal Translation for Spatial Transcriptomics**|Ruochen Liu et.al.|[2608.14710](http://arxiv.org/abs/2608.14710)|null|
-|**2026-08-14**|**Ten simple rules for non-visual, reproducible and accessible bioinformatics**|Jacqueline G. Kientsch et.al.|[2608.14400](http://arxiv.org/abs/2608.14400)|null|
+|**2026-08-20**|**Ten simple rules for non-visual, reproducible and accessible bioinformatics**|Jacqueline G. Kientsch et.al.|[2608.14400](http://arxiv.org/abs/2608.14400)|null|
 |**2026-08-14**|**Disentangled Shared Representations Improve Morpho-Transcriptomic Integration**|Julian Ostermaier et.al.|[2608.14355](http://arxiv.org/abs/2608.14355)|null|
 |**2026-08-14**|**Program-space Diffusion for Morphology-to-Transcriptomics Prediction**|Ruyter Swann et.al.|[2608.14330](http://arxiv.org/abs/2608.14330)|null|
 |**2026-08-14**|**SERS study of single-live-cell electrical permeabilization dynamics via plasmonic nanotubes**|Yuge Liang et.al.|[2608.10924](http://arxiv.org/abs/2608.10924)|null|
@@ -753,6 +756,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**PETA:Parameter-Efficient Test-Time Adaptation for Virtual Screening**|Jia-Qi Lin et.al.|[2608.19906](http://arxiv.org/abs/2608.19906)|null|
+|**2026-08-20**|**Resource-Efficient Bio-Molecular Docking on a NISQ-era Digital Quantum Computer**|Tianqi Chen et.al.|[2608.19868](http://arxiv.org/abs/2608.19868)|null|
+|**2026-08-19**|**Longitudinal Bayesian Learning of Continuous Disease Position across the Alzheimer's Disease Continuum**|Yingying Zhang et.al.|[2608.19436](http://arxiv.org/abs/2608.19436)|null|
 |**2026-08-18**|**From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation**|Xingjian Wang et.al.|[2608.18076](http://arxiv.org/abs/2608.18076)|null|
 |**2026-08-18**|**Domain-Adapted Molecular Language Models for Efficient Search of Make-on-Demand Libraries**|Henrik Wille et.al.|[2608.17567](http://arxiv.org/abs/2608.17567)|null|
 |**2026-08-17**|**Optical-NIR Multi-band Photometric Analysis and Characterization of Giant Exoplanets with CPI-C**|Yiming Zhu et.al.|[2608.16215](http://arxiv.org/abs/2608.16215)|null|
@@ -903,6 +909,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**RoMAN-Flow: Taming Autoregressive Normalizing Flows for Offline Reinforcement Learning in Robotic Manipulation**|Shaoxuan Wang et.al.|[2608.20208](http://arxiv.org/abs/2608.20208)|null|
+|**2026-08-20**|**Flow Matching-Based PET Image Reconstruction**|Fumio Hashimoto et.al.|[2608.20112](http://arxiv.org/abs/2608.20112)|null|
+|**2026-08-20**|**Manifold Drift in Flow Preference Optimization: A Root Cause of Reward Hacking**|Yansen Han et.al.|[2608.20011](http://arxiv.org/abs/2608.20011)|null|
+|**2026-08-20**|**Flow Matching Meets 3D Curvilinear Structure Segmentation in Medical Imaging**|Sidi Mohamed Sid'El Moctar et.al.|[2608.19965](http://arxiv.org/abs/2608.19965)|null|
+|**2026-08-20**|**Listening Forward: Next Patch Embedding Prediction Enables Scalable Audio Learners**|Umberto Cappellazzo et.al.|[2608.19863](http://arxiv.org/abs/2608.19863)|null|
+|**2026-08-20**|**Unsupervised Anomaly Detection Using Flow Matching on Tabular Data**|Philip Konz et.al.|[2608.19801](http://arxiv.org/abs/2608.19801)|null|
+|**2026-08-20**|**Far from the Crowd: Scalable Self-Supervised Learning via Geographic Isolation**|Daniele Rege Cambrin et.al.|[2608.19766](http://arxiv.org/abs/2608.19766)|null|
+|**2026-08-20**|**MUST-PET: MUltimodal Self-supervised learning across Tracers for whole-body PET/CT-based lesion segmentation**|Bashirul Azam Biswas et.al.|[2608.19666](http://arxiv.org/abs/2608.19666)|null|
+|**2026-08-20**|**Block3D: Efficient Text-to-3D Generation via Block-Wise Diffusion**|Bowen Cui et.al.|[2608.19567](http://arxiv.org/abs/2608.19567)|null|
 |**2026-08-19**|**Image Generation Techniques for Urban Planning**|Katharina Roth et.al.|[2608.18908](http://arxiv.org/abs/2608.18908)|null|
 |**2026-08-19**|**RVLoss: Runoff Vote Loss for Self-Supervised LiDAR Scene Flow Estimation**|Shiming Wang et.al.|[2608.18864](http://arxiv.org/abs/2608.18864)|null|
 |**2026-08-19**|**Tensor Field Models**|Alexander Strunk et.al.|[2608.18808](http://arxiv.org/abs/2608.18808)|null|
@@ -1526,6 +1541,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**Rewriting Ontology-Mediated Property Graph Queries into GQL**|Bianca Löhnert et.al.|[2608.20092](http://arxiv.org/abs/2608.20092)|null|
+|**2026-08-19**|**Renormalization group ontology in quantum foundations: a non-interacting spin-0 toy model**|Gary Kapilevich et.al.|[2608.19458](http://arxiv.org/abs/2608.19458)|null|
 |**2026-08-19**|**Syntactic Simplification of OWL Class Expressions**|Alkid Baci et.al.|[2608.18899](http://arxiv.org/abs/2608.18899)|null|
 |**2026-08-19**|**CTIFoundry: An Agent-Native Corpus Scaffold for Cyber Threat Intelligence**|Yutong Cheng et.al.|[2608.18613](http://arxiv.org/abs/2608.18613)|null|
 |**2026-08-18**|**ComponentBench: Diagnosing Component-Level Failures in Computer-Use Agents**|Tianchen Guan et.al.|[2608.18307](http://arxiv.org/abs/2608.18307)|null|
@@ -1862,6 +1879,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**Point Spread Function Engineering Using Implicit Neural Representations**|Suet Ying Chan et.al.|[2608.20277](http://arxiv.org/abs/2608.20277)|null|
+|**2026-08-20**|**Novel models of trait evolution via an expansion of Lande's fitness function: The Ornstein-Uhlenbeck process meets the Little Prince's boa**|Jose M Ponciano et.al.|[2608.20232](http://arxiv.org/abs/2608.20232)|null|
+|**2026-08-20**|**Prompt-Conditioned Channel Attention for Hierarchical Feature Modulation toward Anatomy-Agnostic Segmentation**|Mosharof Hossain et.al.|[2608.20229](http://arxiv.org/abs/2608.20229)|null|
+|**2026-08-20**|**Intensity-based scattering correction enables in vivo two-photon imaging beyond 1 mm**|Yucheng Li et.al.|[2608.20224](http://arxiv.org/abs/2608.20224)|null|
+|**2026-08-20**|**PelviNeXt: A Modality-Agnostic Hybrid Network for Pelvic Imaging in Women's Health**|Siam Tahsin Bhuiyan et.al.|[2608.20144](http://arxiv.org/abs/2608.20144)|null|
+|**2026-08-20**|**Structural complexity of an SU(3) Fermi Hubbard model**|Jiani Fu et.al.|[2608.20131](http://arxiv.org/abs/2608.20131)|null|
+|**2026-08-20**|**Integrating Temporal Disaggregation and Distributed Lag Nonlinear Models for Bayesian Spatio-Temporal Disease Mapping with High-Resolution Environmental Exposures**|Alejandro Rozo Posada et.al.|[2608.20046](http://arxiv.org/abs/2608.20046)|null|
+|**2026-08-20**|**Amorphous and Nanocrystalline Topological Semimetal YPtBi/W/CoFeB Heterostructures for BEOL-Compatible Spin-Orbit Torque Devices**|Quang Le et.al.|[2608.20021](http://arxiv.org/abs/2608.20021)|null|
+|**2026-08-20**|**Flow Matching Meets 3D Curvilinear Structure Segmentation in Medical Imaging**|Sidi Mohamed Sid'El Moctar et.al.|[2608.19965](http://arxiv.org/abs/2608.19965)|null|
+|**2026-08-20**|**An Overview of Potential Medical Applications of Microwave Kinetic Inductance Detectors**|Cáthal McAleer et.al.|[2608.19918](http://arxiv.org/abs/2608.19918)|null|
 |**2026-08-19**|**Subgroup performance analysis of adaptation strategies for chest X-ray foundation models**|Dhruv Gupta et.al.|[2608.19078](http://arxiv.org/abs/2608.19078)|null|
 |**2026-08-19**|**Elongation suppresses rheotaxis and enables microfluidic enrichment of \b{eta}-lactam-resistant bacteria**|Ran Tao et.al.|[2608.19077](http://arxiv.org/abs/2608.19077)|null|
 |**2026-08-19**|**Counterfactual Contrastive Analysis**|Yunlong He et.al.|[2608.19032](http://arxiv.org/abs/2608.19032)|null|
