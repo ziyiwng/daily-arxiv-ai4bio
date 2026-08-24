@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-21**|**KREL: Automatic Medical Coding via Knowledge-Guided Reasoning over Clinical Evidence with LLMs**|Xubin Chen et.al.|[2608.20887](http://arxiv.org/abs/2608.20887)|null|
 |**2026-08-20**|**Tau-Rho Equality and Other Dependence Measures of a Subclass of Factorizable Copulas**|Noppawit Yanpaisan et.al.|[2608.19608](http://arxiv.org/abs/2608.19608)|null|
 |**2026-08-19**|**Off-Manifold Collapse in Guided Protein Language Models**|Shuibai Zhang et.al.|[2608.18597](http://arxiv.org/abs/2608.18597)|null|
 |**2026-08-18**|**Leveraging generative hallucination and biophysics-informed modeling for unified biomolecular sequence-structure co-design**|Xuefeng Liu et.al.|[2608.17381](http://arxiv.org/abs/2608.17381)|null|
@@ -282,6 +283,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-21**|**A framework for combined epidemiological-genomic inference to improve estimation of household model parameters**|Golsa Sayyar et.al.|[2608.21094](http://arxiv.org/abs/2608.21094)|null|
+|**2026-08-21**|**TracingFlow: A Simulation-Free Trajectory Inference Framework Based on Second-Order Dynamics**|Yuhao Sun et.al.|[2608.21070](http://arxiv.org/abs/2608.21070)|null|
+|**2026-08-21**|**Polymer Genome in the Age of Artificial Intelligence**|Jifeng Wang et.al.|[2608.20979](http://arxiv.org/abs/2608.20979)|null|
+|**2026-08-20**|**mLS-GKM: Efficient Multi-class Regulatory Sequence Classification with Gapped k-mer SVMs**|Kieran Howard et.al.|[2608.20576](http://arxiv.org/abs/2608.20576)|null|
 |**2026-08-20**|**What You Can't See Is What You Learn: Restricted Evidence Visibility Favors Compositional Generalization in Shared-Genome Language-Model Societies**|Narcis Marincat et.al.|[2608.20054](http://arxiv.org/abs/2608.20054)|null|
 |**2026-08-19**|**Hepatitis C Virus Genotyping with a Transformer Neural Network**|Ariella Aro et.al.|[2608.19415](http://arxiv.org/abs/2608.19415)|null|
 |**2026-08-19**|**Beyond receptive fields: sequence-pooled normalization can supply most of a sequence labeler's context**|Qing Tian et.al.|[2608.18576](http://arxiv.org/abs/2608.18576)|null|
@@ -644,6 +649,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-21**|**TracingFlow: A Simulation-Free Trajectory Inference Framework Based on Second-Order Dynamics**|Yuhao Sun et.al.|[2608.21070](http://arxiv.org/abs/2608.21070)|null|
 |**2026-08-18**|**scDNM-VAE enables directly inspectable deep clustering of single-cell RNA-seq data through signed dendritic gating**|Melih Agraz et.al.|[2608.17228](http://arxiv.org/abs/2608.17228)|null|
 |**2026-08-17**|**Diagonal Multi-omics Integration of Heterogenous Datasets**|Maksim V. Kukushkin et.al.|[2608.16968](http://arxiv.org/abs/2608.16968)|null|
 |**2026-08-17**|**CytoFormer: A Molecularly Supervised Cell Foundation Model for Histopathology Cell Classification**|Jialu Yao et.al.|[2608.16718](http://arxiv.org/abs/2608.16718)|null|
@@ -775,6 +781,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-18**|**Rigorous Evaluation of Large Language Models for Malaria Drug Discovery: Trade-offs in Performance, Scale, and Resource Utility**|Marvellous O. Ajala et.al.|[2608.20418](http://arxiv.org/abs/2608.20418)|null|
 |**2026-08-20**|**PETA:Parameter-Efficient Test-Time Adaptation for Virtual Screening**|Jia-Qi Lin et.al.|[2608.19906](http://arxiv.org/abs/2608.19906)|null|
 |**2026-08-20**|**Resource-Efficient Bio-Molecular Docking on a NISQ-era Digital Quantum Computer**|Tianqi Chen et.al.|[2608.19868](http://arxiv.org/abs/2608.19868)|null|
 |**2026-08-19**|**Longitudinal Bayesian Learning of Continuous Disease Position across the Alzheimer's Disease Continuum**|Yingying Zhang et.al.|[2608.19436](http://arxiv.org/abs/2608.19436)|null|
@@ -930,6 +937,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-21**|**Difficulty-Calibrated Interpolation Paths for Conditional Flow Matching**|Airin Akter Tania et.al.|[2608.21286](http://arxiv.org/abs/2608.21286)|null|
+|**2026-08-21**|**Capturing Cardiac Cyclicity through Phase-Equivariant Self-Supervised Learning**|Blaise Delaney et.al.|[2608.21147](http://arxiv.org/abs/2608.21147)|null|
+|**2026-08-21**|**Flow-based surrogate models for particle tracking**|Matthias Remta et.al.|[2608.21080](http://arxiv.org/abs/2608.21080)|null|
+|**2026-08-21**|**TracingFlow: A Simulation-Free Trajectory Inference Framework Based on Second-Order Dynamics**|Yuhao Sun et.al.|[2608.21070](http://arxiv.org/abs/2608.21070)|null|
+|**2026-08-21**|**WA-JEPA: Rethinking the Video JEPA Paradigm for World-Action Modeling in Autonomous Driving**|Xinlin Wang et.al.|[2608.20974](http://arxiv.org/abs/2608.20974)|null|
+|**2026-08-21**|**ReCurveflow: A Flow Matching Framework that Learns Curved Reaction Trajectories to Predict Transition State Geometries**|Seungheun Baek et.al.|[2608.20869](http://arxiv.org/abs/2608.20869)|null|
+|**2026-08-21**|**ForeTime-VLA: Causal Future-Token Distillation from a World Action Model for Conveyor-Belt Manipulation**|Siyuan Ma et.al.|[2608.20735](http://arxiv.org/abs/2608.20735)|null|
+|**2026-08-20**|**Logic-VLA: A Temporal Logic Conditioned Vision-Language-Action Model**|Celina Shiyu Wang et.al.|[2608.20556](http://arxiv.org/abs/2608.20556)|null|
+|**2026-08-20**|**Frozen CLIP Priors for Robust Self-Supervised Poisson Inverse Problems**|Laura C. Diaz-Delgado et.al.|[2608.20524](http://arxiv.org/abs/2608.20524)|null|
 |**2026-08-20**|**RoMAN-Flow: Taming Autoregressive Normalizing Flows for Offline Reinforcement Learning in Robotic Manipulation**|Shaoxuan Wang et.al.|[2608.20208](http://arxiv.org/abs/2608.20208)|null|
 |**2026-08-20**|**Flow Matching-Based PET Image Reconstruction**|Fumio Hashimoto et.al.|[2608.20112](http://arxiv.org/abs/2608.20112)|null|
 |**2026-08-20**|**Manifold Drift in Flow Preference Optimization: A Root Cause of Reward Hacking**|Yansen Han et.al.|[2608.20011](http://arxiv.org/abs/2608.20011)|null|
@@ -1564,6 +1580,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-21**|**Move by Move: Measuring and Steering How LLMs Conduct Psychotherapy**|Afonso Baldo et.al.|[2608.21325](http://arxiv.org/abs/2608.21325)|null|
+|**2026-08-21**|**Ontology-supported AI Model and Dataset Management**|Jan Novacek et.al.|[2608.21224](http://arxiv.org/abs/2608.21224)|null|
+|**2026-08-21**|**Integrating Semantics into Research Data Management: Modelling and Validating Materials Science Experiment Workflows**|Samuel García Vázquez et.al.|[2608.20879](http://arxiv.org/abs/2608.20879)|null|
+|**2026-08-21**|**Ontology-Driven Structural Regularization for Document-Level Relation Extraction**|Laura Menotti et.al.|[2608.20856](http://arxiv.org/abs/2608.20856)|null|
+|**2026-08-21**|**Conscious Access as Continuous-to-Discrete Translation**|Tianming Yang et.al.|[2608.20723](http://arxiv.org/abs/2608.20723)|null|
+|**2026-08-21**|**AffordAny: Open-World 3D Affordance Grounding from Monocular RGB Images via Vision-Language-Guided Geometric Reasoning**|Junqi Wu et.al.|[2608.20720](http://arxiv.org/abs/2608.20720)|null|
+|**2026-08-21**|**Auditable by Construction: An Ontology-Driven Framework for Trustworthy LLM Analytics in Enterprise Finance**|Sergiy Lunyakin et.al.|[2608.20661](http://arxiv.org/abs/2608.20661)|null|
 |**2026-08-20**|**Rewriting Ontology-Mediated Property Graph Queries into GQL**|Bianca Löhnert et.al.|[2608.20092](http://arxiv.org/abs/2608.20092)|null|
 |**2026-08-19**|**Renormalization group ontology in quantum foundations: a non-interacting spin-0 toy model**|Gary Kapilevich et.al.|[2608.19458](http://arxiv.org/abs/2608.19458)|null|
 |**2026-08-19**|**Syntactic Simplification of OWL Class Expressions**|Alkid Baci et.al.|[2608.18899](http://arxiv.org/abs/2608.18899)|null|
@@ -1904,6 +1927,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-21**|**VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences**|Elaine Lau et.al.|[2608.21357](http://arxiv.org/abs/2608.21357)|null|
+|**2026-08-21**|**When Adaptation Hurts: Connecting Representational Drift to OOD Failures in MedSAM Fine-Tuning**|Marko Haralović et.al.|[2608.21300](http://arxiv.org/abs/2608.21300)|null|
+|**2026-08-21**|**Emergent Vibronic Spectral Hierarchy in a Kagome Flat-Band Insulator**|Jun Shu et.al.|[2608.21250](http://arxiv.org/abs/2608.21250)|null|
+|**2026-08-21**|**A Modular Agent for Reliable and Auditable Spatial Relation Verification in CT Scans**|Simon Vincent Abel et.al.|[2608.21140](http://arxiv.org/abs/2608.21140)|null|
+|**2026-08-21**|**Masking Is Not Enough: Generative Restoration for Multimodal De-Identification in Medical AI**|Shiva Shrestha et.al.|[2608.21133](http://arxiv.org/abs/2608.21133)|null|
+|**2026-08-21**|**A framework for combined epidemiological-genomic inference to improve estimation of household model parameters**|Golsa Sayyar et.al.|[2608.21094](http://arxiv.org/abs/2608.21094)|null|
+|**2026-08-21**|**On Transmission Function Amplitude and Phase Recovery in Multislice Electron Ptychography**|Bridget R. Denzer et.al.|[2608.21007](http://arxiv.org/abs/2608.21007)|null|
+|**2026-08-21**|**LHMCF-Net: A Learned Hyperbolic Mean Curvature Flow Network for Medical Images Segmentation**|Shuangshuang Duan et.al.|[2608.20942](http://arxiv.org/abs/2608.20942)|null|
+|**2026-08-21**|**Time-Resolved Thermal Susceptibility Mapping via Low-Temperature Scanning Laser Microscopy**|Nicolas Lejeune et.al.|[2608.20862](http://arxiv.org/abs/2608.20862)|null|
+|**2026-08-21**|**A cube-root phase transition in tree-child networks and the enumeration threshold for galled networks**|Michael Fuchs et.al.|[2608.20860](http://arxiv.org/abs/2608.20860)|null|
 |**2026-08-20**|**Point Spread Function Engineering Using Implicit Neural Representations**|Suet Ying Chan et.al.|[2608.20277](http://arxiv.org/abs/2608.20277)|null|
 |**2026-08-20**|**Novel models of trait evolution via an expansion of Lande's fitness function: The Ornstein-Uhlenbeck process meets the Little Prince's boa**|Jose M Ponciano et.al.|[2608.20232](http://arxiv.org/abs/2608.20232)|null|
 |**2026-08-20**|**Prompt-Conditioned Channel Attention for Hierarchical Feature Modulation toward Anatomy-Agnostic Segmentation**|Mosharof Hossain et.al.|[2608.20229](http://arxiv.org/abs/2608.20229)|null|
