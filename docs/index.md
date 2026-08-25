@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.08.24
+## Updated on 2026.08.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-24**|**Energy and CO2 Footprint of Climate Model Intercomparison Projects**|Sergi Palomas et.al.|[2608.23509](http://arxiv.org/abs/2608.23509)|null|
+|**2026-08-22**|**Scalable quantum simulation of continuous-time generative models via tensor networks**|Nathan X. Kodama et.al.|[2608.21700](http://arxiv.org/abs/2608.21700)|null|
 |**2026-08-21**|**KREL: Automatic Medical Coding via Knowledge-Guided Reasoning over Clinical Evidence with LLMs**|Xubin Chen et.al.|[2608.20887](http://arxiv.org/abs/2608.20887)|null|
 |**2026-08-20**|**Tau-Rho Equality and Other Dependence Measures of a Subclass of Factorizable Copulas**|Noppawit Yanpaisan et.al.|[2608.19608](http://arxiv.org/abs/2608.19608)|null|
 |**2026-08-19**|**Off-Manifold Collapse in Guided Protein Language Models**|Shuibai Zhang et.al.|[2608.18597](http://arxiv.org/abs/2608.18597)|null|
@@ -268,6 +270,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-24**|**Episode Clustering in Phylogenetic Networks**|Paweł Górecki et.al.|[2608.23293](http://arxiv.org/abs/2608.23293)|null|
+|**2026-08-24**|**Uncovering Cellular Resolution in scRNAseq via Unbiased Cell and Gene Network Analysis**|Olga lanzetta et.al.|[2608.22982](http://arxiv.org/abs/2608.22982)|null|
+|**2026-08-24**|**RIBOSPAN: A Long-Context RNA Foundation Model for Versatile RNA Modeling**|Ziyuan Wang et.al.|[2608.22849](http://arxiv.org/abs/2608.22849)|null|
+|**2026-08-23**|**The first major transition: Origin of life from a multilevel selection perspective**|Eugene V Koonin et.al.|[2608.22348](http://arxiv.org/abs/2608.22348)|null|
+|**2026-08-22**|**Pretreatment DCE-MRI Resolves Response Quality Within Pathologic Endpoints in Neoadjuvant Breast Cancer**|Dattatreya Kantha et.al.|[2608.22097](http://arxiv.org/abs/2608.22097)|null|
+|**2026-08-22**|**GenomeHarness: Harnessing Al Agents for Reliable Adaptation of Genome Language Models**|Weicai Long et.al.|[2608.21916](http://arxiv.org/abs/2608.21916)|null|
+|**2026-08-22**|**A Conditional Structure-Aware Generative Transformer for Multi-Objective Design of m1Ψ-Modified RNA 5' UTRs**|Narges Zarnaghinaghsh et.al.|[2608.21696](http://arxiv.org/abs/2608.21696)|null|
+|**2026-08-21**|**A Sparse-Group Pliable Lasso**|Mohammad Javad Davoudabadi et.al.|[2608.21665](http://arxiv.org/abs/2608.21665)|null|
 |**2026-08-21**|**A framework for combined epidemiological-genomic inference to improve estimation of household model parameters**|Golsa Sayyar et.al.|[2608.21094](http://arxiv.org/abs/2608.21094)|null|
 |**2026-08-21**|**TracingFlow: A Simulation-Free Trajectory Inference Framework Based on Second-Order Dynamics**|Yuhao Sun et.al.|[2608.21070](http://arxiv.org/abs/2608.21070)|null|
 |**2026-08-21**|**Polymer Genome in the Age of Artificial Intelligence**|Jifeng Wang et.al.|[2608.20979](http://arxiv.org/abs/2608.20979)|null|
@@ -632,6 +642,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-24**|**Uncovering Cellular Resolution in scRNAseq via Unbiased Cell and Gene Network Analysis**|Olga lanzetta et.al.|[2608.22982](http://arxiv.org/abs/2608.22982)|null|
 |**2026-08-21**|**TracingFlow: A Simulation-Free Trajectory Inference Framework Based on Second-Order Dynamics**|Yuhao Sun et.al.|[2608.21070](http://arxiv.org/abs/2608.21070)|null|
 |**2026-08-18**|**scDNM-VAE enables directly inspectable deep clustering of single-cell RNA-seq data through signed dendritic gating**|Melih Agraz et.al.|[2608.17228](http://arxiv.org/abs/2608.17228)|null|
 |**2026-08-17**|**Diagonal Multi-omics Integration of Heterogenous Datasets**|Maksim V. Kukushkin et.al.|[2608.16968](http://arxiv.org/abs/2608.16968)|null|
@@ -762,6 +773,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-23**|**Mol-JEPA: A multimodal Joint Embedding Predictive Architecture for Molecules**|Florian Rottach et.al.|[2608.22642](http://arxiv.org/abs/2608.22642)|null|
 |**2026-08-18**|**Rigorous Evaluation of Large Language Models for Malaria Drug Discovery: Trade-offs in Performance, Scale, and Resource Utility**|Marvellous O. Ajala et.al.|[2608.20418](http://arxiv.org/abs/2608.20418)|null|
 |**2026-08-20**|**PETA:Parameter-Efficient Test-Time Adaptation for Virtual Screening**|Jia-Qi Lin et.al.|[2608.19906](http://arxiv.org/abs/2608.19906)|null|
 |**2026-08-20**|**Resource-Efficient Bio-Molecular Docking on a NISQ-era Digital Quantum Computer**|Tianqi Chen et.al.|[2608.19868](http://arxiv.org/abs/2608.19868)|null|
@@ -916,6 +928,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-24**|**ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings**|Na Li et.al.|[2608.23551](http://arxiv.org/abs/2608.23551)|null|
+|**2026-08-24**|**Adapter-Based Few-Shot Continual Learning for Malicious Packet Recognition**|Kyle Stein et.al.|[2608.23536](http://arxiv.org/abs/2608.23536)|null|
+|**2026-08-24**|**Geometry-Driven Opti-Acoustic Co-Registration and View-Invariant Reflectivity Mapping for Side-Scan Sonar**|Taqi Hamoda et.al.|[2608.23479](http://arxiv.org/abs/2608.23479)|null|
+|**2026-08-24**|**ProxyFormer: A Dual-Stream Proxy Architecture for Ultra-Long Context and High-Resolution Generation**|Zhongpan Tang et.al.|[2608.23463](http://arxiv.org/abs/2608.23463)|null|
+|**2026-08-24**|**MomADv2: Reliable Temporal Memory for End-to-End Autonomous Driving**|Ziying Song et.al.|[2608.23405](http://arxiv.org/abs/2608.23405)|null|
+|**2026-08-24**|**Grounding Free-Form Instructions for Fashion Complementary Image Generation**|Matteo Attimonelli et.al.|[2608.23302](http://arxiv.org/abs/2608.23302)|null|
+|**2026-08-24**|**BenthicDINO: Physics-Informed Self-Distillation for View-Invariant Side-Scan Sonar Representations**|Taqi Hamoda et.al.|[2608.23215](http://arxiv.org/abs/2608.23215)|null|
+|**2026-08-24**|**BenthicFlow: Generating Extensible Underwater Environments via Flow Matching**|Joaquín Figueira et.al.|[2608.23173](http://arxiv.org/abs/2608.23173)|null|
+|**2026-08-23**|**SymmAdapt: Symmetrical Flow Matching for Source-Free Domain Adaptation in Medical Image Segmentation**|Tal Grossman et.al.|[2608.22532](http://arxiv.org/abs/2608.22532)|null|
+|**2026-08-23**|**Self-Supervised Graph Representation Learning for In-The-Wild Wearable and Smartphone based Emotion Recognition**|Ioannis N. Ziogas et.al.|[2608.22387](http://arxiv.org/abs/2608.22387)|null|
 |**2026-08-21**|**Difficulty-Calibrated Interpolation Paths for Conditional Flow Matching**|Airin Akter Tania et.al.|[2608.21286](http://arxiv.org/abs/2608.21286)|null|
 |**2026-08-21**|**Capturing Cardiac Cyclicity through Phase-Equivariant Self-Supervised Learning**|Blaise Delaney et.al.|[2608.21147](http://arxiv.org/abs/2608.21147)|null|
 |**2026-08-21**|**Flow-based surrogate models for particle tracking**|Matthias Remta et.al.|[2608.21080](http://arxiv.org/abs/2608.21080)|null|
@@ -1557,6 +1579,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-24**|**Walking on the DARKSIDE**|Aldo Gangemi et.al.|[2608.23370](http://arxiv.org/abs/2608.23370)|null|
+|**2026-08-24**|**Does the Actuality of Life Favor Many Actual Histories?**|Jonathan Baxter et.al.|[2608.23255](http://arxiv.org/abs/2608.23255)|null|
+|**2026-08-24**|**A Multi-Domain and Multi-Task Generative Framework with Explicit Task and Domain Conditioning for Cross-Domain Event Extraction**|Siting Liang et.al.|[2608.23235](http://arxiv.org/abs/2608.23235)|null|
+|**2026-08-24**|**Hierarchy-Aware Semantic Losses for Knowledge Graph Link Prediction**|Filip Kronström et.al.|[2608.22981](http://arxiv.org/abs/2608.22981)|null|
+|**2026-08-24**|**Toward Effective and Reliable LLM Agents via Dynamic Ontology**|Xiaohui Zhang et.al.|[2608.22974](http://arxiv.org/abs/2608.22974)|null|
+|**2026-08-24**|**Does Probability Require a Single History?**|Jonathan Baxter et.al.|[2608.22733](http://arxiv.org/abs/2608.22733)|null|
+|**2026-08-23**|**Clinical Graph-JEPA: Predictive Patient-State Knowledge Graphs for Cognitive Decision Support**|Kushagra Yadav et.al.|[2608.22583](http://arxiv.org/abs/2608.22583)|null|
+|**2026-08-22**|**GrOIL: Graph-Grounded Domain Ontology Induction with Constrained LLM Mediation**|Maruf Ahmed Mridul et.al.|[2608.22135](http://arxiv.org/abs/2608.22135)|null|
+|**2026-08-22**|**Dissecting Neuro-Symbolic Quality Assurance for Synthetic Oncology Data Generation**|Laxmigayathri Challa et.al.|[2608.22085](http://arxiv.org/abs/2608.22085)|null|
+|**2026-08-22**|**W-RAG: Source-Aware Retrieval for Enterprise Document Generation from Heterogeneous Knowledge Bases**|Hridya Dhulipala et.al.|[2608.22081](http://arxiv.org/abs/2608.22081)|null|
 |**2026-08-21**|**Move by Move: Measuring and Steering How LLMs Conduct Psychotherapy**|Afonso Baldo et.al.|[2608.21325](http://arxiv.org/abs/2608.21325)|null|
 |**2026-08-21**|**Ontology-supported AI Model and Dataset Management**|Jan Novacek et.al.|[2608.21224](http://arxiv.org/abs/2608.21224)|null|
 |**2026-08-21**|**Integrating Semantics into Research Data Management: Modelling and Validating Materials Science Experiment Workflows**|Samuel García Vázquez et.al.|[2608.20879](http://arxiv.org/abs/2608.20879)|null|
@@ -1902,6 +1934,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-24**|**Flux-induced Aharonov-Bohm Oscillation in the Tunneling Spectroscopy of Kitaev Spin Liquids**|Wen-Han Kao et.al.|[2608.23561](http://arxiv.org/abs/2608.23561)|null|
+|**2026-08-24**|**Numerical Solution of Pantograph Delay Integrodifferential Equation of Volterra Type: Collocation Method Based on Shifted Jacobi Polynomials**|Richard Olu Awonusika et.al.|[2608.23494](http://arxiv.org/abs/2608.23494)|null|
+|**2026-08-24**|**Defect-Mediated Nucleation and Dynamics across the Phase Transition in the Excitonic Insulator Candidate Ta2NiSe5**|Guilherme Rodrigues-Fontenele et.al.|[2608.23438](http://arxiv.org/abs/2608.23438)|null|
+|**2026-08-24**|**Modalities Should Talk to Each Other: Dual-Stream Multimodal Learning for Long-Horizon Influenza Forecasting**|Seyed Mohammad Hossein Hashemi et.al.|[2608.23373](http://arxiv.org/abs/2608.23373)|null|
+|**2026-08-24**|**Can Coding Agents Build Robust Baselines? A Skill-Based Approach for Automating the Medical Imaging Model-Development Pipeline**|Eugenia Moris et.al.|[2608.23336](http://arxiv.org/abs/2608.23336)|null|
+|**2026-08-24**|**Absence of lateral domain wall mobility in Zn1-xMgxO thin films**|Jack Eckstein et.al.|[2608.23305](http://arxiv.org/abs/2608.23305)|null|
+|**2026-08-24**|**Episode Clustering in Phylogenetic Networks**|Paweł Górecki et.al.|[2608.23293](http://arxiv.org/abs/2608.23293)|null|
+|**2026-08-24**|**On the maximum size of 2-weakly compatible split systems**|Pei Wu et.al.|[2608.23275](http://arxiv.org/abs/2608.23275)|null|
+|**2026-08-24**|**The Achilles tendon enthesis rebuilds its mineralization front on reloading but retains a nanoscale imprint of unloading**|M. L. Stammer et.al.|[2608.23210](http://arxiv.org/abs/2608.23210)|null|
+|**2026-08-24**|**Shaping the Evolutionary Dynamics of Robot Morphology via Adaptive Control Learning**|Junru Song et.al.|[2608.23100](http://arxiv.org/abs/2608.23100)|null|
 |**2026-08-21**|**VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences**|Elaine Lau et.al.|[2608.21357](http://arxiv.org/abs/2608.21357)|null|
 |**2026-08-21**|**When Adaptation Hurts: Connecting Representational Drift to OOD Failures in MedSAM Fine-Tuning**|Marko Haralović et.al.|[2608.21300](http://arxiv.org/abs/2608.21300)|null|
 |**2026-08-21**|**Emergent Vibronic Spectral Hierarchy in a Kagome Flat-Band Insulator**|Jun Shu et.al.|[2608.21250](http://arxiv.org/abs/2608.21250)|null|
