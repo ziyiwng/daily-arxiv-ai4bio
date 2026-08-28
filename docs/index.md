@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.08.27
+## Updated on 2026.08.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**Reservoir: A Large-Scale Simulated Dataset for Training and Evaluating Epidemiological Models**|Carson Dudley et.al.|[2608.27408](http://arxiv.org/abs/2608.27408)|null|
+|**2026-08-27**|**AgentFold: Closed-Loop Agentic Search for Protein Folding Model Design**|Mingquan Liu et.al.|[2608.26747](http://arxiv.org/abs/2608.26747)|null|
+|**2026-08-27**|**RegimeFormer: A Large Protein Model of Global Perturbation Regimes**|Siyuan Ma et.al.|[2608.26586](http://arxiv.org/abs/2608.26586)|null|
+|**2026-08-27**|**GRAS: Guided Reduced-Variance Proposals and Adaptive Selection for Training-Free Reward Alignment in Discrete Diffusion**|Kwanyoung Kim et.al.|[2608.26585](http://arxiv.org/abs/2608.26585)|null|
+|**2026-08-26**|**Interpreting Latent Protein Language Model Features with Geometric Annotations**|Siddharth Setlur et.al.|[2608.26419](http://arxiv.org/abs/2608.26419)|null|
 |**2026-08-26**|**Unlocking Multimodal Protein Language Models at Inference Time**|Yi Zhou et.al.|[2608.25855](http://arxiv.org/abs/2608.25855)|null|
 |**2026-08-26**|**Interpreting Protein Language Model Embeddings via Orthogonal Projection for Protein Fitness Prediction**|Paulo Yanez Sarmiento et.al.|[2608.25548](http://arxiv.org/abs/2608.25548)|null|
 |**2026-08-25**|**Designability of RNA Targets with Up to Two Length-2 Helices**|Ashutosh S. Jogalekar et.al.|[2608.25194](http://arxiv.org/abs/2608.25194)|null|
@@ -273,6 +278,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-26**|**Learning Interpretable Tumor Microenvironment Representations by Fitting Pan-Cancer Cell State-Niche Correlation**|Xiao Xiao et.al.|[2608.26208](http://arxiv.org/abs/2608.26208)|null|
 |**2026-08-26**|**What sets the critical genome length for sympatric speciation? A closed form and asymptotic theory**|Dan Braha et.al.|[2608.25995](http://arxiv.org/abs/2608.25995)|null|
 |**2026-08-24**|**Optimizing RNA yield using deep neural networks coupled to massively parallel screening**|Dinghai Zheng et.al.|[2608.23722](http://arxiv.org/abs/2608.23722)|null|
 |**2026-08-24**|**Episode Clustering in Phylogenetic Networks**|Paweł Górecki et.al.|[2608.23293](http://arxiv.org/abs/2608.23293)|null|
@@ -647,6 +653,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-26**|**Learning Interpretable Tumor Microenvironment Representations by Fitting Pan-Cancer Cell State-Niche Correlation**|Xiao Xiao et.al.|[2608.26208](http://arxiv.org/abs/2608.26208)|null|
 |**2026-08-25**|**Spatially orthogonal factor models for spatial transcriptomics and remote sensing data**|Dan Cunha et.al.|[2608.25172](http://arxiv.org/abs/2608.25172)|null|
 |**2026-08-24**|**Uncovering Cellular Resolution in scRNAseq via Unbiased Cell and Gene Network Analysis**|Olga lanzetta et.al.|[2608.22982](http://arxiv.org/abs/2608.22982)|null|
 |**2026-08-21**|**TracingFlow: A Simulation-Free Trajectory Inference Framework Based on Second-Order Dynamics**|Yuhao Sun et.al.|[2608.21070](http://arxiv.org/abs/2608.21070)|null|
@@ -779,8 +786,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**Which Metrics Save the Most Human Annotation? Prediction-Powered Evaluation and Meta-Evaluation**|Mingqi Gao et.al.|[2608.26638](http://arxiv.org/abs/2608.26638)|null|
+|**2026-08-26**|**PathoMIC: A Benchmark for Cross-Species Antimicrobial Peptide Activity Prediction**|Yeqing Lu et.al.|[2608.26228](http://arxiv.org/abs/2608.26228)|null|
 |**2026-08-24**|**MolEmb: Multimodal Large Language Models Can Be Strong Molecular Embedding Models**|Xinjian Zhao et.al.|[2608.23646](http://arxiv.org/abs/2608.23646)|null|
-|**2026-08-23**|**Mol-JEPA: A multimodal Joint Embedding Predictive Architecture for Molecules**|Florian Rottach et.al.|[2608.22642](http://arxiv.org/abs/2608.22642)|null|
+|**2026-08-27**|**Mol-JEPA: A multimodal Joint Embedding Predictive Architecture for Molecules**|Florian Rottach et.al.|[2608.22642](http://arxiv.org/abs/2608.22642)|null|
 |**2026-08-18**|**Rigorous Evaluation of Large Language Models for Malaria Drug Discovery: Trade-offs in Performance, Scale, and Resource Utility**|Marvellous O. Ajala et.al.|[2608.20418](http://arxiv.org/abs/2608.20418)|null|
 |**2026-08-20**|**PETA:Parameter-Efficient Test-Time Adaptation for Virtual Screening**|Jia-Qi Lin et.al.|[2608.19906](http://arxiv.org/abs/2608.19906)|null|
 |**2026-08-20**|**Resource-Efficient Bio-Molecular Docking on a NISQ-era Digital Quantum Computer**|Tianqi Chen et.al.|[2608.19868](http://arxiv.org/abs/2608.19868)|null|
@@ -935,6 +944,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation**|Nguyen Xuan-Vu et.al.|[2608.27429](http://arxiv.org/abs/2608.27429)|null|
+|**2026-08-27**|**FlashVLA: Streaming Action Decoding for Fast and Asynchronous VLA Inference**|Zekai Li et.al.|[2608.27384](http://arxiv.org/abs/2608.27384)|null|
+|**2026-08-27**|**HALO: A Heterogeneity-Aware Language-Aligned IMU Foundation Model for Open-Set Human Activity Recognition**|Zihan Ding et.al.|[2608.27233](http://arxiv.org/abs/2608.27233)|null|
+|**2026-08-27**|**Gromov-Monge Flow Matching for Equivariant Graph Generation**|Moritz Piening et.al.|[2608.26961](http://arxiv.org/abs/2608.26961)|null|
+|**2026-08-27**|**Climate Physics Dynamic Matching**|Gurjeet Sangra Singh et.al.|[2608.26907](http://arxiv.org/abs/2608.26907)|null|
+|**2026-08-27**|**Self-OPD: On-Policy Distillation for Flow Matching Models without Teacher**|Shiyi Zhang et.al.|[2608.26872](http://arxiv.org/abs/2608.26872)|null|
+|**2026-08-27**|**FIDA: Feature Instability-Driven Attack on Self-Supervised Facial Representation**|Zhiyang Chen et.al.|[2608.26861](http://arxiv.org/abs/2608.26861)|null|
+|**2026-08-27**|**MeshPriorDiT: Hierarchical Modeling for Action-Conditioned Cloth Dynamics**|Zihang Wang et.al.|[2608.26766](http://arxiv.org/abs/2608.26766)|null|
+|**2026-08-27**|**Generative Semantic Scene Completion**|Shi Chen et.al.|[2608.26737](http://arxiv.org/abs/2608.26737)|null|
+|**2026-08-27**|**LiveVVT: High-Fidelity Video Virtual Try-On in Real Time**|Yushe Cao et.al.|[2608.26714](http://arxiv.org/abs/2608.26714)|null|
 |**2026-08-26**|**Fast Generative Grasping via Lie Group-Constrained MeanFlow**|S. Talha Bukhari et.al.|[2608.26076](http://arxiv.org/abs/2608.26076)|null|
 |**2026-08-26**|**DEFUSE: Generalizable Backdoor Defense for Self-Supervised Encoders with Generative Priors**|Tuo Chen et.al.|[2608.25851](http://arxiv.org/abs/2608.25851)|null|
 |**2026-08-26**|**THA-Flow Generative Model: Prosthesis Geometry Prediction from Preoperative CT**|Yiping Wang et.al.|[2608.25845](http://arxiv.org/abs/2608.25845)|null|
@@ -1596,6 +1615,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**pro-team at LLMs4OL 2026 Tasks Flagship and Reuse: Retrieval-Augmented Generation and Vocabulary-Constrained Filtering for Ontology Learning**|Shivam Mishra et.al.|[2608.27101](http://arxiv.org/abs/2608.27101)|null|
+|**2026-08-27**|**SymbolLKG: Towards Verifiable Logical Reasoning via Logical Knowledge Graph and Symbolic Solvers**|Haizhao Fan et.al.|[2608.26836](http://arxiv.org/abs/2608.26836)|null|
+|**2026-08-27**|**Unsaid, Unsafe? Implicit Security Obligations in LLM-Based RTL Code Generation**|Guang Yang et.al.|[2608.26588](http://arxiv.org/abs/2608.26588)|null|
+|**2026-08-27**|**Surgical Alignment in Knowledge Graph Training for Clinical Diagnosis with Large Language Models**|Saksham Khatwani et.al.|[2608.26587](http://arxiv.org/abs/2608.26587)|null|
 |**2026-08-26**|**MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching**|Hao Yin et.al.|[2608.26094](http://arxiv.org/abs/2608.26094)|null|
 |**2026-08-26**|**Giant strongly biconnected components of directed networks: a generating function approach**|Minsoo Yang et.al.|[2608.25562](http://arxiv.org/abs/2608.25562)|null|
 |**2026-08-26**|**Towards Faithful and Efficient Semantic Communication: An Ontological Approach**|Yixiao Feng et.al.|[2608.25422](http://arxiv.org/abs/2608.25422)|null|
@@ -1958,6 +1981,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**Reservoir: A Large-Scale Simulated Dataset for Training and Evaluating Epidemiological Models**|Carson Dudley et.al.|[2608.27408](http://arxiv.org/abs/2608.27408)|null|
+|**2026-08-27**|**QuantumBoostNet: A Hybrid Classical-Quantum Architecture for Enhanced Accuracy in Cardiac Ultrasound View Identification**|Mihai Udrescu-Milosav et.al.|[2608.27302](http://arxiv.org/abs/2608.27302)|null|
+|**2026-08-27**|**A spatio-temporal block aggregation model for latent log Gaussian outcomes: application on modelling wastewater virus concentration in Wales**|Stephen Jun Villejo et.al.|[2608.27207](http://arxiv.org/abs/2608.27207)|null|
+|**2026-08-27**|**Data-efficient crack quantification in lithium-ion cathodes using foundation model transfer**|Thorsten Tegetmeyer-Kleine et.al.|[2608.27162](http://arxiv.org/abs/2608.27162)|null|
+|**2026-08-27**|**Diatom frustules as naturally occurring resonant microarchitectures: revealing vibrational eigenmodes across pennate and centric species**|Chiara Gazzola et.al.|[2608.27119](http://arxiv.org/abs/2608.27119)|null|
+|**2026-08-27**|**An Accurate and Single-Communication Federated Inference Algorithm**|Laura Montagnani et.al.|[2608.27063](http://arxiv.org/abs/2608.27063)|null|
+|**2026-08-27**|**Atomic-scale composition of the ternary III-V semiconductor (Al,Ga)Sb visualized by cross-sectional scanning tunneling microscopy**|Hitesh Kumar et.al.|[2608.27013](http://arxiv.org/abs/2608.27013)|null|
+|**2026-08-27**|**MVC-Bench: Benchmarking Calibration of Medical Vision-Language Models**|Ashshak Sharifdeen et.al.|[2608.27004](http://arxiv.org/abs/2608.27004)|null|
+|**2026-08-27**|**Decoupled domain-texture switching from magnetic easy axis in kagome ferromagnet EuTi3Bi4**|Yunhao Wang et.al.|[2608.26954](http://arxiv.org/abs/2608.26954)|null|
+|**2026-08-27**|**From Reasoning to Pixels: Grounded Medical Multimodal LLMs for VQA and Segmentation**|Haowen Gu et.al.|[2608.26856](http://arxiv.org/abs/2608.26856)|null|
 |**2026-08-26**|**Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings**|Evelyn Ma et.al.|[2608.26088](http://arxiv.org/abs/2608.26088)|null|
 |**2026-08-26**|**Electrical manipulation of oxygen stoichiometry in multiterminal YBa $_2$Cu$_3$O$_{7-δ}$ junctions**|Daniel Stoffels et.al.|[2608.26045](http://arxiv.org/abs/2608.26045)|null|
 |**2026-08-26**|**UltraPIPS: Improving model perception in B-mode ultrasound with foundation models**|Tal Grutman et.al.|[2608.26033](http://arxiv.org/abs/2608.26033)|null|
