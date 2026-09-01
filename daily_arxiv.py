@@ -13,7 +13,7 @@ logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     level=logging.INFO)
 
 github_url = "https://api.github.com/search/repositories"
-arxiv_url = "http://arxiv.org/"
+arxiv_url = "https://arxiv.org/"
 
 def load_config(config_file:str) -> dict:
     '''
@@ -92,6 +92,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
     # output
     content = dict()
     content_to_web = dict()
+    paper_details = []
     search_engine = arxiv.Search(
         query = query,
         max_results = max_results,
@@ -129,6 +130,17 @@ def get_daily_papers(topic,query="slam", max_results=2):
         content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
                update_time,paper_title,paper_first_author,paper_url,paper_url)
 
+        paper_details.append({
+            "paper_id": paper_key,
+            "title": paper_title,
+            "authors": paper_authors,
+            "first_author": str(paper_first_author),
+            "published": str(publish_time),
+            "updated": str(update_time),
+            "url": paper_url,
+            "categories": [topic],
+        })
+
         # TODO: select useful comments
         comments = None
         if comments != None:
@@ -138,7 +150,110 @@ def get_daily_papers(topic,query="slam", max_results=2):
 
     data = {topic:content}
     data_web = {topic:content_to_web}
-    return data,data_web
+    return data,data_web,paper_details
+
+def load_existing_paper_ids(filename):
+    """Return all version-free arXiv IDs already stored in the main JSON file."""
+    with open(filename,"r") as f:
+        content = f.read()
+    if not content:
+        return set()
+    data = json.loads(content)
+    return {
+        re.sub(r'v\d+$', '', paper_id)
+        for papers in data.values()
+        for paper_id in papers.keys()
+    }
+
+def ordered_categories(data, category_order=None):
+    """Return configured categories first, followed by unknown historical ones."""
+    category_order = category_order or []
+    ordered = [category for category in category_order if category in data]
+    ordered.extend(category for category in data if category not in ordered)
+    return ordered
+
+def collect_new_papers(paper_details, existing_ids, deduplicate=True):
+    """Collect papers absent from the pre-update database for daily notification."""
+    if not deduplicate:
+        return [paper for paper in paper_details if paper["paper_id"] not in existing_ids]
+
+    new_papers = {}
+    for paper in paper_details:
+        paper_id = paper["paper_id"]
+        if paper_id in existing_ids:
+            continue
+        if paper_id not in new_papers:
+            new_papers[paper_id] = paper.copy()
+            new_papers[paper_id]["categories"] = list(paper["categories"])
+        else:
+            for category in paper["categories"]:
+                if category not in new_papers[paper_id]["categories"]:
+                    new_papers[paper_id]["categories"].append(category)
+    return list(new_papers.values())
+
+def write_daily_notification(filename, papers, category_order, config):
+    """Write a Markdown body that the workflow can post to a subscribed issue."""
+    if not filename:
+        return
+
+    # Avoid reusing a stale notification when the same output path is reused.
+    with open(filename,"w") as f:
+        pass
+
+    notification_config = config.get("notifications", {}).get("github_issue", {})
+    if not notification_config.get("enabled", False):
+        return
+    if not papers and not notification_config.get("notify_on_empty", False):
+        return
+
+    today = datetime.date.today().isoformat()
+    lines = [f"## AI4Bio ArXiv Daily · {today}", ""]
+    if not papers:
+        lines.extend(["今日无新增论文。", ""])
+    else:
+        lines.extend([f"今日新增 {len(papers)} 篇论文。", ""])
+        categories = {category: [] for category in category_order}
+        for paper in papers:
+            primary_category = next(
+                (category for category in category_order
+                 if category in paper["categories"]),
+                paper["categories"][0],
+            )
+            categories.setdefault(primary_category, []).append(paper)
+
+        for category in ordered_categories(categories, category_order):
+            category_papers = categories[category]
+            if not category_papers:
+                continue
+            lines.extend([f"### {category}", ""])
+            category_papers.sort(
+                key=lambda paper: (paper["updated"], paper["paper_id"]),
+                reverse=True,
+            )
+            for index, paper in enumerate(category_papers, 1):
+                matched_categories = "；".join(paper["categories"])
+                lines.extend([
+                    f'{index}. **{paper["title"]}**',
+                    f'   - 第一作者：{paper["first_author"]} et al.',
+                    f'   - 发布日期：{paper["published"]}',
+                    f'   - 分类：{matched_categories}',
+                    f'   - [arXiv:{paper["paper_id"]}]({paper["url"]})',
+                    "",
+                ])
+
+        repository = os.environ.get(
+            "GITHUB_REPOSITORY",
+            f'{config.get("user_name", "")}/{config.get("repo_name", "")}',
+        ).strip("/")
+        if repository:
+            lines.extend([
+                f"[查看完整论文列表](https://github.com/{repository})",
+                "",
+            ])
+
+    with open(filename,"w") as f:
+        f.write("\n".join(lines))
+    logging.info(f"Daily notification written to {filename}")
 
 def update_paper_links(filename):
     '''
@@ -213,7 +328,8 @@ def json_to_md(filename,md_filename,
                use_title = True,
                use_tc = True,
                show_badge = True,
-               use_b2t = True):
+               use_b2t = True,
+               category_order = None):
     """
     @param filename: str
     @param md_filename: str
@@ -275,7 +391,7 @@ def json_to_md(filename,md_filename,
             f.write("<details>\n")
             f.write("  <summary>Table of Contents</summary>\n")
             f.write("  <ol>\n")
-            for keyword in data.keys():
+            for keyword in ordered_categories(data, category_order):
                 day_content = data[keyword]
                 if not day_content:
                     continue
@@ -284,7 +400,7 @@ def json_to_md(filename,md_filename,
             f.write("  </ol>\n")
             f.write("</details>\n\n")
 
-        for keyword in data.keys():
+        for keyword in ordered_categories(data, category_order):
             day_content = data[keyword]
             if not day_content:
                 continue
@@ -338,6 +454,7 @@ def demo(**config):
     # TODO: use config
     data_collector = []
     data_collector_web= []
+    paper_details = []
 
     keywords = config['kv']
     max_results = config['max_results']
@@ -345,19 +462,35 @@ def demo(**config):
     publish_gitpage = config['publish_gitpage']
     publish_wechat = config['publish_wechat']
     show_badge = config['show_badge']
+    category_order = config.get('category_order', list(keywords.keys()))
 
     b_update = config['update_paper_links']
     logging.info(f'Update Paper Link = {b_update}')
     if config['update_paper_links'] == False:
+        existing_ids = load_existing_paper_ids(config['json_readme_path'])
         logging.info(f"GET daily papers begin")
         for topic, keyword in keywords.items():
             logging.info(f"Keyword: {topic}")
-            data, data_web = get_daily_papers(topic, query = keyword,
-                                            max_results = max_results)
+            data, data_web, details = get_daily_papers(
+                topic, query=keyword, max_results=max_results)
             data_collector.append(data)
             data_collector_web.append(data_web)
+            paper_details.extend(details)
             print("\n")
         logging.info(f"GET daily papers end")
+
+        notification_config = config.get('notifications', {}).get('github_issue', {})
+        new_papers = collect_new_papers(
+            paper_details,
+            existing_ids,
+            notification_config.get('deduplicate_across_categories', True),
+        )
+        write_daily_notification(
+            config.get('notification_output'),
+            new_papers,
+            category_order,
+            config,
+        )
 
     # 1. update README.md file
     if publish_readme:
@@ -371,7 +504,7 @@ def demo(**config):
             update_json_file(json_file,data_collector)
         # json data to markdown
         json_to_md(json_file,md_file, task ='Update Readme', \
-            show_badge = show_badge)
+            show_badge = show_badge, category_order = category_order)
 
     # 2. update docs/index.md file (to gitpage)
     if publish_gitpage:
@@ -384,7 +517,7 @@ def demo(**config):
             update_json_file(json_file,data_collector)
         json_to_md(json_file, md_file, task ='Update GitPage', \
             to_web = True, show_badge = show_badge, \
-            use_tc=False, use_b2t=False)
+            use_tc=False, use_b2t=False, category_order = category_order)
 
     # 3. Update docs/wechat.md file
     if publish_wechat:
@@ -396,7 +529,8 @@ def demo(**config):
         else:
             update_json_file(json_file, data_collector_web)
         json_to_md(json_file, md_file, task ='Update Wechat', \
-            to_web=False, use_title= False, show_badge = show_badge)
+            to_web=False, use_title= False, show_badge = show_badge, \
+            category_order = category_order)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -404,7 +538,13 @@ if __name__ == "__main__":
                             help='configuration file path')
     parser.add_argument('--update_paper_links', default=False,
                         action="store_true",help='whether to update paper links etc.')
+    parser.add_argument('--notification-output', default=None,
+                        help='temporary Markdown file for a daily issue comment')
     args = parser.parse_args()
     config = load_config(args.config_path)
-    config = {**config, 'update_paper_links':args.update_paper_links}
+    config = {
+        **config,
+        'update_paper_links': args.update_paper_links,
+        'notification_output': args.notification_output,
+    }
     demo(**config)

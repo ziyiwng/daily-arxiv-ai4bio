@@ -5,6 +5,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#protein-structure-&-engineering>Protein Structure & Engineering</a></li>
+    <li><a href=#enzyme-design-&-prediction>Enzyme Design & Prediction</a></li>
     <li><a href=#antibody,-antigen-&-vaccine>Antibody, Antigen & Vaccine</a></li>
     <li><a href=#genomics-&-regulatory-sequence>Genomics & Regulatory Sequence</a></li>
     <li><a href=#single-cell-&-spatial-multi-omics>Single-cell & Spatial Multi-omics</a></li>
@@ -12,7 +13,6 @@
     <li><a href=#biological-generative-&-foundation-models>Biological Generative & Foundation Models</a></li>
     <li><a href=#systems-biology-&-knowledge-graphs>Systems Biology & Knowledge Graphs</a></li>
     <li><a href=#medical-imaging-&-evolution>Medical Imaging & Evolution</a></li>
-    <li><a href=#enzyme-design-&-prediction>Enzyme Design & Prediction</a></li>
   </ol>
 </details>
 
@@ -225,6 +225,41 @@
 |**2026-01-12**|**AntibodyDesignBFN: High-Fidelity Fixed-Backbone Antibody Design via Discrete Bayesian Flow Networks**|Yue Hu et.al.|[2601.05605](http://arxiv.org/abs/2601.05605)|null|
 |**2026-01-08**|**Knowledge Distillation of a Protein Language Model Yields a Foundational Implicit Solvent Model**|Justin Airas et.al.|[2601.05388](http://arxiv.org/abs/2601.05388)|null|
 |**2026-01-07**|**Bayes-PD: Exploring a Sequence to Binding Bayesian Neural Network model trained on Phage Display data**|Ilann Amiaud-Plachy et.al.|[2601.03930](http://arxiv.org/abs/2601.03930)|null|
+
+<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
+
+## Enzyme Design & Prediction
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2026-08-27**|**Tensor-Accelerated Eager Multi-Resolution Grids for Evolving Large-Scale Substrates**|Romain Claret et.al.|[2608.27612](http://arxiv.org/abs/2608.27612)|null|
+|**2026-08-13**|**Graph-theoretic design of lasing networks for physical vision**|Paul Obernolte et.al.|[2608.13097](http://arxiv.org/abs/2608.13097)|null|
+|**2026-07-29**|**Knowledge before Reasoning: EC-Reason-Bench, a Training-Free Diagnostic Benchmark for LLM Enzyme Classification**|Linyu Li et.al.|[2607.26397](http://arxiv.org/abs/2607.26397)|null|
+|**2026-07-20**|**Engineering T7 RNA Polymerase for High-Purity In Vitro Transcription**|Pauline Hermans et.al.|[2607.18468](http://arxiv.org/abs/2607.18468)|null|
+|**2026-07-20**|**Learnable Sequential Memory in Coupled Oscillator Networks**|Taosha Guo et.al.|[2607.18439](http://arxiv.org/abs/2607.18439)|null|
+|**2026-07-20**|**Machine Learning Potential-Driven Molecular Dynamics Simulations of Dehydrogenation in Pristine and Doped MgH $_2$**|Bo Han et.al.|[2607.18182](http://arxiv.org/abs/2607.18182)|null|
+|**2026-07-01**|**Enerzyme: A Framework for Efficient Training of Reactive Neural Network Potentials for Enzyme Catalysis with Application to Methyltransferases**|Weiliang Luo et.al.|[2607.01362](http://arxiv.org/abs/2607.01362)|null|
+|**2026-06-22**|**Retrieval-Augmented Multimodal Learning for Enzyme-Substrate Interaction Prediction Under Low-Homology Shift**|Chen Liu et.al.|[2606.22823](http://arxiv.org/abs/2606.22823)|null|
+|**2026-06-19**|**Computationally guided modifications of CviUPO to improve catalytic activity**|Hanna-Friederike Poggemann et.al.|[2606.21370](http://arxiv.org/abs/2606.21370)|null|
+|**2026-08-26**|**Emyx: Fast and efficient all-atom protein generation**|Nicholas J. Williams et.al.|[2606.19377](http://arxiv.org/abs/2606.19377)|null|
+|**2026-06-10**|**Interpretable enzyme function prediction via sparse autoencoder features of ESMC across the microbial protein universe**|Yue Hu et.al.|[2606.12209](http://arxiv.org/abs/2606.12209)|null|
+|**2026-05-05**|**phys-MCP: A Control Plane for Heterogeneous Physical Neural Networks**|Stefan Fischer et.al.|[2605.04256](http://arxiv.org/abs/2605.04256)|null|
+|**2026-04-13**|**Computational Generation of Substrate-Specific Molecular Cages**|Noé Demange et.al.|[2604.11060](http://arxiv.org/abs/2604.11060)|null|
+|**2026-04-10**|**Beyond Silicon: Materials, Mechanisms, and Methods for Physical Neural Computing**|Stefan Fischer et.al.|[2604.09833](http://arxiv.org/abs/2604.09833)|null|
+|**2026-04-08**|**OpenPRC: A Unified Open-Source Framework for Physics-to-Task Evaluation in Physical Reservoir Computing**|Yogesh Phalak et.al.|[2604.07423](http://arxiv.org/abs/2604.07423)|null|
+|**2026-03-30**|**Scaling Atomistic Protein Binder Design with Generative Pretraining and Test-Time Compute**|Kieran Didi et.al.|[2603.27950](http://arxiv.org/abs/2603.27950)|null|
+|**2026-03-13**|**RXNRECer Enables Fine-grained Enzymatic Function Annotation through Active Learning and Protein Language Models**|Zhenkun Shi et.al.|[2603.12694](http://arxiv.org/abs/2603.12694)|null|
+|**2026-03-06**|**Multimodal Mixture-of-Experts with Retrieval Augmentation for Protein Active Site Identification**|Jiayang Wu et.al.|[2603.01511](http://arxiv.org/abs/2603.01511)|null|
+|**2026-02-26**|**An Active Learning Framework for Data-Efficient, Human-in-the-Loop Enzyme Function Prediction**|Ashley Babjac et.al.|[2602.23269](http://arxiv.org/abs/2602.23269)|null|
+|**2026-02-18**|**GRIMM: Genetic stRatification for Inference in Molecular Modeling**|Ashley Babjac et.al.|[2602.16504](http://arxiv.org/abs/2602.16504)|null|
+|**2026-02-03**|**Generative AI for Enzyme Design and Biocatalysis**|Lasse Middendorf et.al.|[2602.03779](http://arxiv.org/abs/2602.03779)|null|
+|**2026-01-27**|**EnzyPGM: Pocket-conditioned Generative Model for Substrate-specific Enzyme Design**|Zefeng Lin et.al.|[2601.19205](http://arxiv.org/abs/2601.19205)|null|
+|**2026-01-12**|**Pseudodata-guided Invariant Representation Learning Boosts the Out-of-Distribution Generalization in Enzymatic Kinetic Parameter Prediction**|Haomin Wu et.al.|[2601.07261](http://arxiv.org/abs/2601.07261)|null|
+|**2026-01-11**|**Extending the Handover-Iterative VQE to Challenging Strongly Correlated Systems: $N_2$ and Fe-S Cluster**|Pilsun Yoo et.al.|[2601.06935](http://arxiv.org/abs/2601.06935)|null|
+|**2026-01-08**|**Improving Enzyme Prediction with Chemical Reaction Equations by Hypergraph-Enhanced Knowledge Graph Embeddings**|Tengwei Song et.al.|[2601.05330](http://arxiv.org/abs/2601.05330)|null|
+|**2026-01-02**|**Quantum Simulation of Protein Fragment Electronic Structure Using Moment-based Adaptive Variational Quantum Algorithms**|Biraja Ghoshal et.al.|[2601.00656](http://arxiv.org/abs/2601.00656)|null|
+|**2025-11-29**|**EnzyCLIP: A Cross-Attention Dual Encoder Framework with Contrastive Learning for Predicting Enzyme Kinetic Constants**|Anas Aziz Khan et.al.|[2512.00379](http://arxiv.org/abs/2512.00379)|null|
+|**2025-11-24**|**Beyond Protein Language Models: An Agentic LLM Framework for Mechanistic Enzyme Design**|Bruno Jacob et.al.|[2511.19423](http://arxiv.org/abs/2511.19423)|null|
 
 <p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
 
@@ -2820,41 +2855,6 @@
 |**2026-01-16**|**Coexisting electronic smectic liquid crystal and superconductivity in a Si square-net semimetal**|Christopher J. Butler et.al.|[2601.10939](http://arxiv.org/abs/2601.10939)|null|
 |**2026-01-16**|**Self-learned representation-guided latent diffusion model for breast cancer classification in deep ultraviolet whole surface images**|Pouya Afshin et.al.|[2601.10917](http://arxiv.org/abs/2601.10917)|null|
 |**2026-01-15**|**Combining laser ablation and Sol-Gel techniques for the synthesis of nanostructured organic-inorganic matrices**|E. Haro-Poniatowski et.al.|[2601.10889](http://arxiv.org/abs/2601.10889)|null|
-
-<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
-
-## Enzyme Design & Prediction
-
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
-|**2026-08-27**|**Tensor-Accelerated Eager Multi-Resolution Grids for Evolving Large-Scale Substrates**|Romain Claret et.al.|[2608.27612](http://arxiv.org/abs/2608.27612)|null|
-|**2026-08-13**|**Graph-theoretic design of lasing networks for physical vision**|Paul Obernolte et.al.|[2608.13097](http://arxiv.org/abs/2608.13097)|null|
-|**2026-07-29**|**Knowledge before Reasoning: EC-Reason-Bench, a Training-Free Diagnostic Benchmark for LLM Enzyme Classification**|Linyu Li et.al.|[2607.26397](http://arxiv.org/abs/2607.26397)|null|
-|**2026-07-20**|**Engineering T7 RNA Polymerase for High-Purity In Vitro Transcription**|Pauline Hermans et.al.|[2607.18468](http://arxiv.org/abs/2607.18468)|null|
-|**2026-07-20**|**Learnable Sequential Memory in Coupled Oscillator Networks**|Taosha Guo et.al.|[2607.18439](http://arxiv.org/abs/2607.18439)|null|
-|**2026-07-20**|**Machine Learning Potential-Driven Molecular Dynamics Simulations of Dehydrogenation in Pristine and Doped MgH $_2$**|Bo Han et.al.|[2607.18182](http://arxiv.org/abs/2607.18182)|null|
-|**2026-07-01**|**Enerzyme: A Framework for Efficient Training of Reactive Neural Network Potentials for Enzyme Catalysis with Application to Methyltransferases**|Weiliang Luo et.al.|[2607.01362](http://arxiv.org/abs/2607.01362)|null|
-|**2026-06-22**|**Retrieval-Augmented Multimodal Learning for Enzyme-Substrate Interaction Prediction Under Low-Homology Shift**|Chen Liu et.al.|[2606.22823](http://arxiv.org/abs/2606.22823)|null|
-|**2026-06-19**|**Computationally guided modifications of CviUPO to improve catalytic activity**|Hanna-Friederike Poggemann et.al.|[2606.21370](http://arxiv.org/abs/2606.21370)|null|
-|**2026-08-26**|**Emyx: Fast and efficient all-atom protein generation**|Nicholas J. Williams et.al.|[2606.19377](http://arxiv.org/abs/2606.19377)|null|
-|**2026-06-10**|**Interpretable enzyme function prediction via sparse autoencoder features of ESMC across the microbial protein universe**|Yue Hu et.al.|[2606.12209](http://arxiv.org/abs/2606.12209)|null|
-|**2026-05-05**|**phys-MCP: A Control Plane for Heterogeneous Physical Neural Networks**|Stefan Fischer et.al.|[2605.04256](http://arxiv.org/abs/2605.04256)|null|
-|**2026-04-13**|**Computational Generation of Substrate-Specific Molecular Cages**|Noé Demange et.al.|[2604.11060](http://arxiv.org/abs/2604.11060)|null|
-|**2026-04-10**|**Beyond Silicon: Materials, Mechanisms, and Methods for Physical Neural Computing**|Stefan Fischer et.al.|[2604.09833](http://arxiv.org/abs/2604.09833)|null|
-|**2026-04-08**|**OpenPRC: A Unified Open-Source Framework for Physics-to-Task Evaluation in Physical Reservoir Computing**|Yogesh Phalak et.al.|[2604.07423](http://arxiv.org/abs/2604.07423)|null|
-|**2026-03-30**|**Scaling Atomistic Protein Binder Design with Generative Pretraining and Test-Time Compute**|Kieran Didi et.al.|[2603.27950](http://arxiv.org/abs/2603.27950)|null|
-|**2026-03-13**|**RXNRECer Enables Fine-grained Enzymatic Function Annotation through Active Learning and Protein Language Models**|Zhenkun Shi et.al.|[2603.12694](http://arxiv.org/abs/2603.12694)|null|
-|**2026-03-06**|**Multimodal Mixture-of-Experts with Retrieval Augmentation for Protein Active Site Identification**|Jiayang Wu et.al.|[2603.01511](http://arxiv.org/abs/2603.01511)|null|
-|**2026-02-26**|**An Active Learning Framework for Data-Efficient, Human-in-the-Loop Enzyme Function Prediction**|Ashley Babjac et.al.|[2602.23269](http://arxiv.org/abs/2602.23269)|null|
-|**2026-02-18**|**GRIMM: Genetic stRatification for Inference in Molecular Modeling**|Ashley Babjac et.al.|[2602.16504](http://arxiv.org/abs/2602.16504)|null|
-|**2026-02-03**|**Generative AI for Enzyme Design and Biocatalysis**|Lasse Middendorf et.al.|[2602.03779](http://arxiv.org/abs/2602.03779)|null|
-|**2026-01-27**|**EnzyPGM: Pocket-conditioned Generative Model for Substrate-specific Enzyme Design**|Zefeng Lin et.al.|[2601.19205](http://arxiv.org/abs/2601.19205)|null|
-|**2026-01-12**|**Pseudodata-guided Invariant Representation Learning Boosts the Out-of-Distribution Generalization in Enzymatic Kinetic Parameter Prediction**|Haomin Wu et.al.|[2601.07261](http://arxiv.org/abs/2601.07261)|null|
-|**2026-01-11**|**Extending the Handover-Iterative VQE to Challenging Strongly Correlated Systems: $N_2$ and Fe-S Cluster**|Pilsun Yoo et.al.|[2601.06935](http://arxiv.org/abs/2601.06935)|null|
-|**2026-01-08**|**Improving Enzyme Prediction with Chemical Reaction Equations by Hypergraph-Enhanced Knowledge Graph Embeddings**|Tengwei Song et.al.|[2601.05330](http://arxiv.org/abs/2601.05330)|null|
-|**2026-01-02**|**Quantum Simulation of Protein Fragment Electronic Structure Using Moment-based Adaptive Variational Quantum Algorithms**|Biraja Ghoshal et.al.|[2601.00656](http://arxiv.org/abs/2601.00656)|null|
-|**2025-11-29**|**EnzyCLIP: A Cross-Attention Dual Encoder Framework with Contrastive Learning for Predicting Enzyme Kinetic Constants**|Anas Aziz Khan et.al.|[2512.00379](http://arxiv.org/abs/2512.00379)|null|
-|**2025-11-24**|**Beyond Protein Language Models: An Agentic LLM Framework for Mechanistic Enzyme Design**|Bruno Jacob et.al.|[2511.19423](http://arxiv.org/abs/2511.19423)|null|
 
 <p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
 

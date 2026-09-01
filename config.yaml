@@ -10,6 +10,25 @@ publish_readme: True
 publish_gitpage: True
 publish_wechat: False
 
+# display order for README, GitHub Pages, and daily notifications
+category_order:
+    - "Protein Structure & Engineering"
+    - "Enzyme Design & Prediction"
+    - "Antibody, Antigen & Vaccine"
+    - "Genomics & Regulatory Sequence"
+    - "Single-cell & Spatial Multi-omics"
+    - "Drug Discovery & Interaction"
+    - "Biological Generative & Foundation Models"
+    - "Systems Biology & Knowledge Graphs"
+    - "Medical Imaging & Evolution"
+
+# daily notification settings
+notifications:
+    github_issue:
+        enabled: True
+        notify_on_empty: False
+        deduplicate_across_categories: True
+
 # file paths
 json_readme_path: './docs/ai4bio-arxiv-daily.json'
 json_gitpage_path: './docs/ai4bio-arxiv-daily-web.json'
