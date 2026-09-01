@@ -55,7 +55,7 @@ jobs:
         uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Github Action Automatic Update AI4Chem Arxiv Papers"
+          commit-message: "GitHub Action: Update AI4Bio arXiv papers 📚"
           files: README.md docs/ai4bio-arxiv-daily.json docs/ai4bio-arxiv-daily-web.json docs/index.md docs/ai4bio-arxiv-daily-wechat.json docs/wechat.md
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
