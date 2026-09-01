@@ -14,7 +14,7 @@ AI4Bio ArXiv Daily fetches recent AI for Biology papers from arXiv, organizes th
 
 ### Automatic Scheduling
 
-- **Daily Papers:** Runs every day at 22:00 UTC, as configured in `.github/workflows/ai4bio-arxiv-daily.yml`.
+- **Daily Papers:** Runs every day at 22:37 UTC, as configured in `.github/workflows/ai4bio-arxiv-daily.yml`.
 - **Link Maintenance:** Runs every Monday at 08:00 UTC, as configured in `.github/workflows/update-paper-links.yml`.
 
 The former Papers with Code integration is deprecated, so link maintenance currently preserves existing code-link values instead of discovering new repositories.
@@ -99,4 +99,4 @@ The default display order is:
 
 ### arXiv HTTP 429
 
-HTTP 429 means that arXiv is rate-limiting requests. The script reuses one API client across all categories, requests only the configured number of results per page, waits between category requests, and retries transient failures. If throttling continues, increase `arxiv_delay_seconds` in `config.yaml` and rerun the workflow later.
+HTTP 429 means that arXiv is rate-limiting requests. The script reuses one API client across all categories, requests only the configured number of results per page, adds a random initial delay on GitHub Actions, and uses minute-level backoff for persistent 429 responses. The scheduled run starts away from the top of the hour to reduce contention. These controls can be adjusted with `arxiv_initial_jitter_seconds`, `arxiv_delay_seconds`, `arxiv_num_retries`, and `arxiv_retry_backoff_seconds` in `config.yaml`.

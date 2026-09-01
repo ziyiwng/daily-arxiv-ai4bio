@@ -6,6 +6,8 @@ import yaml
 import logging
 import argparse
 import datetime
+import random
+import time
 import requests
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
@@ -83,7 +85,8 @@ def get_code_link(qword:str) -> str:
         code_link = results["items"][0]["html_url"]
     return code_link
 
-def get_daily_papers(topic,query="slam", max_results=2, client=None):
+def get_daily_papers(topic,query="slam", max_results=2, client=None,
+                     retry_backoff_seconds=None):
     """
     @param topic: str
     @param query: str
@@ -101,7 +104,25 @@ def get_daily_papers(topic,query="slam", max_results=2, client=None):
 
     if client is None:
         client = arxiv.Client(page_size=max_results)
-    for result in client.results(search_engine):
+    retry_backoff_seconds = retry_backoff_seconds or []
+    results = None
+    for attempt in range(len(retry_backoff_seconds) + 1):
+        try:
+            results = list(client.results(search_engine))
+            break
+        except arxiv.HTTPError as error:
+            is_rate_limited = getattr(error, "status", None) == 429
+            if not is_rate_limited or attempt == len(retry_backoff_seconds):
+                raise
+            wait_seconds = retry_backoff_seconds[attempt]
+            logging.warning(
+                "arXiv rate limit for %s; retrying this category in %s seconds",
+                topic,
+                wait_seconds,
+            )
+            time.sleep(wait_seconds)
+
+    for result in results:
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
@@ -467,19 +488,30 @@ def demo(**config):
     arxiv_client = arxiv.Client(
         page_size=max_results,
         delay_seconds=config.get('arxiv_delay_seconds', 10),
-        num_retries=config.get('arxiv_num_retries', 5),
+        num_retries=config.get('arxiv_num_retries', 2),
     )
 
     b_update = config['update_paper_links']
     logging.info(f'Update Paper Link = {b_update}')
     if config['update_paper_links'] == False:
+        initial_jitter = config.get('arxiv_initial_jitter_seconds', 0)
+        if os.environ.get('GITHUB_ACTIONS') == 'true' and initial_jitter > 0:
+            wait_seconds = random.uniform(0, initial_jitter)
+            logging.info(
+                "Waiting %.1f seconds before the first arXiv request",
+                wait_seconds,
+            )
+            time.sleep(wait_seconds)
+
         existing_ids = load_existing_paper_ids(config['json_readme_path'])
         logging.info(f"GET daily papers begin")
         for topic, keyword in keywords.items():
             logging.info(f"Keyword: {topic}")
             data, data_web, details = get_daily_papers(
                 topic, query=keyword, max_results=max_results,
-                client=arxiv_client)
+                client=arxiv_client,
+                retry_backoff_seconds=config.get(
+                    'arxiv_retry_backoff_seconds', [60, 180, 300]))
             data_collector.append(data)
             data_collector_web.append(data_web)
             paper_details.extend(details)

@@ -6,7 +6,9 @@ show_links: True
 show_badge: True
 max_results: 10
 arxiv_delay_seconds: 10
-arxiv_num_retries: 5
+arxiv_num_retries: 2
+arxiv_initial_jitter_seconds: 60
+arxiv_retry_backoff_seconds: [60, 180, 300]
 
 publish_readme: True
 publish_gitpage: True
