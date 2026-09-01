@@ -5,6 +5,8 @@ show_authors: True
 show_links: True
 show_badge: True
 max_results: 10
+arxiv_delay_seconds: 10
+arxiv_num_retries: 5
 
 publish_readme: True
 publish_gitpage: True

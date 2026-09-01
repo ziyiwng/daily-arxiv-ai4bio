@@ -83,7 +83,7 @@ def get_code_link(qword:str) -> str:
         code_link = results["items"][0]["html_url"]
     return code_link
 
-def get_daily_papers(topic,query="slam", max_results=2):
+def get_daily_papers(topic,query="slam", max_results=2, client=None):
     """
     @param topic: str
     @param query: str
@@ -99,7 +99,8 @@ def get_daily_papers(topic,query="slam", max_results=2):
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
-    client = arxiv.Client()
+    if client is None:
+        client = arxiv.Client(page_size=max_results)
     for result in client.results(search_engine):
 
         paper_id            = result.get_short_id()
@@ -463,6 +464,11 @@ def demo(**config):
     publish_wechat = config['publish_wechat']
     show_badge = config['show_badge']
     category_order = config.get('category_order', list(keywords.keys()))
+    arxiv_client = arxiv.Client(
+        page_size=max_results,
+        delay_seconds=config.get('arxiv_delay_seconds', 10),
+        num_retries=config.get('arxiv_num_retries', 5),
+    )
 
     b_update = config['update_paper_links']
     logging.info(f'Update Paper Link = {b_update}')
@@ -472,7 +478,8 @@ def demo(**config):
         for topic, keyword in keywords.items():
             logging.info(f"Keyword: {topic}")
             data, data_web, details = get_daily_papers(
-                topic, query=keyword, max_results=max_results)
+                topic, query=keyword, max_results=max_results,
+                client=arxiv_client)
             data_collector.append(data)
             data_collector_web.append(data_web)
             paper_details.extend(details)

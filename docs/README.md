@@ -49,6 +49,7 @@ Edit `config.yaml` to customize:
 - Search categories and filters.
 - Category display order.
 - Maximum results fetched per category.
+- arXiv request delay and retry count.
 - README, GitHub Pages, and WeChat publication options.
 - Daily Issue notification behavior.
 - Output paths.
@@ -95,3 +96,7 @@ The default display order is:
 - Verify the filters in `config.yaml`.
 - Check whether the arXiv API is accessible.
 - Review the workflow logs for the generated search queries.
+
+### arXiv HTTP 429
+
+HTTP 429 means that arXiv is rate-limiting requests. The script reuses one API client across all categories, requests only the configured number of results per page, waits between category requests, and retries transient failures. If throttling continues, increase `arxiv_delay_seconds` in `config.yaml` and rerun the workflow later.
