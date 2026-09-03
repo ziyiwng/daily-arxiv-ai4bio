@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.09.02
+## Updated on 2026.09.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-02**|**Logarithmic-scale variational quantum eigensolver for off-lattice protein structure prediction in continuous torsional angle space**|Fabio Cumbo et.al.|[2609.02113](https://arxiv.org/abs/2609.02113)|null|
+|**2026-09-01**|**SymFold: Synergizing Evolutionary and Structural Priors for Accurate Protein Inverse Folding**|Handong Wang et.al.|[2609.01353](https://arxiv.org/abs/2609.01353)|null|
 |**2026-08-31**|**Benchmarking Peptide-Protein Affinity Prediction Across Peptide and Target Shifts**|Jiaxin Tian et.al.|[2608.30175](https://arxiv.org/abs/2608.30175)|null|
 |**2026-08-29**|**EmoLASP: Emotion Recognition with Language Models and Answer Set Programming**|Thao Le et.al.|[2608.29035](https://arxiv.org/abs/2608.29035)|null|
 |**2026-08-28**|**FoldKit: A Python library for efficient storage and retrieval of co-folding predictions**|Jonathan A. Levine et.al.|[2608.28788](https://arxiv.org/abs/2608.28788)|null|
@@ -222,7 +224,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-08-29**|**Hyper-Fold: Exploring the Expressive Limit of Sequence-Geometry Learning for Proteins via Hypergraph Modeling**|Yifan Feng et.al.|[2608.29207](https://arxiv.org/abs/2608.29207)|null|
+|**2026-09-01**|**SymFold: Synergizing Evolutionary and Structural Priors for Accurate Protein Inverse Folding**|Handong Wang et.al.|[2609.01353](https://arxiv.org/abs/2609.01353)|null|
+|**2026-09-01**|**Hyper-Fold: Exploring the Expressive Limit of Sequence-Geometry Learning for Proteins via Hypergraph Modeling**|Yifan Feng et.al.|[2608.29207](https://arxiv.org/abs/2608.29207)|null|
 |**2026-08-27**|**Tensor-Accelerated Eager Multi-Resolution Grids for Evolving Large-Scale Substrates**|Romain Claret et.al.|[2608.27612](https://arxiv.org/abs/2608.27612)|null|
 |**2026-08-13**|**Graph-theoretic design of lasing networks for physical vision**|Paul Obernolte et.al.|[2608.13097](https://arxiv.org/abs/2608.13097)|null|
 |**2026-07-29**|**Knowledge before Reasoning: EC-Reason-Bench, a Training-Free Diagnostic Benchmark for LLM Enzyme Classification**|Linyu Li et.al.|[2607.26397](https://arxiv.org/abs/2607.26397)|null|
@@ -256,6 +259,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-02**|**Post-Training Language Models for Gold-Medal Performance in Coding Competitions**|Aleksander Ficek et.al.|[2609.02849](https://arxiv.org/abs/2609.02849)|null|
 |**2026-08-30**|**Large Discovery Models: Empirically-grounded Model-Based Open-Ended Search**|Zhongwei Yu et.al.|[2608.15669](https://arxiv.org/abs/2608.15669)|null|
 |**2026-08-15**|**Valhalla: A Layered Knowledge-State and Service-Governance Framework for Long-Term Scientific Knowledge Work**|Yuyang Zheng et.al.|[2608.15193](https://arxiv.org/abs/2608.15193)|null|
 |**2026-08-07**|**Genotypic Triggers: Exposing Pharmacogenomic Blind Spots via Host-Specific Backdoors in Generative Antimicrobial Peptide Models**|Doniyorkhon Obidov et.al.|[2608.06779](https://arxiv.org/abs/2608.06779)|null|
@@ -316,6 +320,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-02**|**An adaptive time-tree transition kernel for Bayesian phylogenetic inference**|Marius Brusselmans et.al.|[2609.02445](https://arxiv.org/abs/2609.02445)|null|
+|**2026-09-02**|**Subcellularly Resolved Single-Cell Embedding Learning with Transcriptomic data, Protein Structure and Localization Information**|Zhen Zhou et.al.|[2609.02344](https://arxiv.org/abs/2609.02344)|null|
+|**2026-09-02**|**Towards Global Federated Genome-Wide Association Meta-Analysis Using GA4GH TES**|Abhijit Chunduru et.al.|[2609.02227](https://arxiv.org/abs/2609.02227)|null|
+|**2026-09-02**|**Synergistic Information Disentanglement for Omni-modal Slide Representation Learning in Computational Pathology**|Mingxin Liu et.al.|[2609.02118](https://arxiv.org/abs/2609.02118)|null|
+|**2026-09-01**|**Automated Maize Ear Phenotyping Using 3D Reconstructions**|Ritwesh A. Kumar et.al.|[2609.01921](https://arxiv.org/abs/2609.01921)|null|
+|**2026-09-01**|**PopPert: Population-level Joint-Distribution Modeling for Single-Cell Perturbation Prediction**|Handong Wang et.al.|[2609.01357](https://arxiv.org/abs/2609.01357)|null|
 |**2026-08-31**|**"Train classical, deploy quantum" requires rethinking generalization**|Snehal Raj et.al.|[2608.31117](https://arxiv.org/abs/2608.31117)|null|
 |**2026-08-31**|**Storage-Centric System Designs for Enabling Fast, Efficient, and Low-Cost Genomic and Metagenomic Analyses**|Nika Mansouri Ghiasi et.al.|[2608.31004](https://arxiv.org/abs/2608.31004)|null|
 |**2026-08-31**|**Responsible Integration of AI in Cancer Genomics: Barriers, Risks, and Pathways to Trustworthy Clinical Translation**|Bahar İlgen et.al.|[2608.30912](https://arxiv.org/abs/2608.30912)|null|
@@ -703,6 +713,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-01**|**Bigraphical Matérn-Whittle (BMW) Processes for Fast Inference of Big Multivariate Spatial Data on General Domains**|Debangan Dey et.al.|[2609.01950](https://arxiv.org/abs/2609.01950)|null|
+|**2026-09-01**|**Evaluating Usability in Biomedical Visualization: Rethinking Heuristic Evaluation for Spatial Omics and Multidisciplinary Research Platforms**|Yulia A. Levites Strekalova et.al.|[2609.01569](https://arxiv.org/abs/2609.01569)|null|
 |**2026-08-31**|**Aligning Multi-Trajectory Supervision with Policy Optimization for VLA Driving**|Tian Zhang et.al.|[2608.30122](https://arxiv.org/abs/2608.30122)|null|
 |**2026-08-28**|**Confounder-Aware Feature Correction for Single-Cell Batch Integration**|Calvin McCarter et.al.|[2608.28849](https://arxiv.org/abs/2608.28849)|null|
 |**2026-08-26**|**Learning Interpretable Tumor Microenvironment Representations by Fitting Pan-Cancer Cell State-Niche Correlation**|Xiao Xiao et.al.|[2608.26208](https://arxiv.org/abs/2608.26208)|null|
@@ -838,15 +850,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-02**|**ProbeMatchDTI: Probe-Driven Multi-Scale Biochemical Pattern Matching for Drug-Target Interaction Prediction**|Quan Hao et.al.|[2609.02549](https://arxiv.org/abs/2609.02549)|null|
 |**2026-08-31**|**Deploying DeepSeek 175B Locally on a Single Consumer-Grade RTX 4060 Laptop with 32GB RAM for 200k-Scale Protein-Ligand Virtual Screening**|Rui Xiao et.al.|[2608.30877](https://arxiv.org/abs/2608.30877)|null|
-|**2026-08-31**|**Calibrating Small Language Models for Claim Check-Worthiness Detection**|Pratuat Amatya et.al.|[2608.30731](https://arxiv.org/abs/2608.30731)|null|
+|**2026-09-01**|**Calibrating Small Language Models for Claim Check-Worthiness Detection**|Pratuat Amatya et.al.|[2608.30731](https://arxiv.org/abs/2608.30731)|null|
 |**2026-08-31**|**A closed-form theory of charge-regulated electrostatic interactions between anisotropically charged spheres**|Anže Božič et.al.|[2608.30566](https://arxiv.org/abs/2608.30566)|null|
 |**2026-08-31**|**Can LLMs Take the Pulse of the Economy? A Real-Time Evaluation of LLM Nowcasts on Macroeconomic Indicators**|Xinyue Zhao et.al.|[2608.30110](https://arxiv.org/abs/2608.30110)|null|
 |**2026-08-28**|**FoldKit: A Python library for efficient storage and retrieval of co-folding predictions**|Jonathan A. Levine et.al.|[2608.28788](https://arxiv.org/abs/2608.28788)|null|
 |**2026-08-30**|**Which Metrics Save the Most Human Annotation? Prediction-Powered Evaluation and Meta-Evaluation**|Mingqi Gao et.al.|[2608.26638](https://arxiv.org/abs/2608.26638)|null|
 |**2026-08-26**|**PathoMIC: A Benchmark for Cross-Species Antimicrobial Peptide Activity Prediction**|Yeqing Lu et.al.|[2608.26228](https://arxiv.org/abs/2608.26228)|null|
 |**2026-08-24**|**MolEmb: Multimodal Large Language Models Can Be Strong Molecular Embedding Models**|Xinjian Zhao et.al.|[2608.23646](https://arxiv.org/abs/2608.23646)|null|
-|**2026-08-29**|**Mol-JEPA: A multimodal Joint Embedding Predictive Architecture for Molecules**|Florian Rottach et.al.|[2608.22642](https://arxiv.org/abs/2608.22642)|null|
+|**2026-09-01**|**Mol-JEPA: A multimodal Joint Embedding Predictive Architecture for Molecules**|Florian Rottach et.al.|[2608.22642](https://arxiv.org/abs/2608.22642)|null|
 |**2026-08-18**|**Rigorous Evaluation of Large Language Models for Malaria Drug Discovery: Trade-offs in Performance, Scale, and Resource Utility**|Marvellous O. Ajala et.al.|[2608.20418](http://arxiv.org/abs/2608.20418)|null|
 |**2026-08-20**|**PETA:Parameter-Efficient Test-Time Adaptation for Virtual Screening**|Jia-Qi Lin et.al.|[2608.19906](https://arxiv.org/abs/2608.19906)|null|
 |**2026-08-20**|**Resource-Efficient Bio-Molecular Docking on a NISQ-era Digital Quantum Computer**|Tianqi Chen et.al.|[2608.19868](http://arxiv.org/abs/2608.19868)|null|
@@ -1001,6 +1014,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-02**|**Balancing Frequencies and Pixels in Flow Matching**|Lucas Degeorge et.al.|[2609.02748](https://arxiv.org/abs/2609.02748)|null|
+|**2026-09-02**|**ProSR: Semantic-Prototype-Guided Discrete Modeling for Physically Consistent SAR Super-Resolution**|Byoungwoo Kim et.al.|[2609.02377](https://arxiv.org/abs/2609.02377)|null|
+|**2026-09-02**|**Subcellularly Resolved Single-Cell Embedding Learning with Transcriptomic data, Protein Structure and Localization Information**|Zhen Zhou et.al.|[2609.02344](https://arxiv.org/abs/2609.02344)|null|
+|**2026-09-02**|**VoRTeC: Taming Foundation Flow for One-step Real time Video Compression**|Yichong Xia et.al.|[2609.02291](https://arxiv.org/abs/2609.02291)|null|
+|**2026-09-02**|**Quantum MeanFlow: single-shot generative sampling on NISQ hardware**|Ashish Joshi et.al.|[2609.02186](https://arxiv.org/abs/2609.02186)|null|
+|**2026-09-02**|**Synergistic Information Disentanglement for Omni-modal Slide Representation Learning in Computational Pathology**|Mingxin Liu et.al.|[2609.02118](https://arxiv.org/abs/2609.02118)|null|
+|**2026-09-01**|**SliceBridge: context-consistent repair of corrupted slice intervals in T1-weighted MRI**|Jiheng Li et.al.|[2609.01827](https://arxiv.org/abs/2609.01827)|null|
+|**2026-09-01**|**Quantum Representation Learning Beyond Pairwise Fidelity**|Junpeng Hou et.al.|[2609.01797](https://arxiv.org/abs/2609.01797)|null|
+|**2026-09-01**|**CoViT: Instance-Correspondence Contrastive Learning for Vision Transformer**|Yisen Wang et.al.|[2609.01787](https://arxiv.org/abs/2609.01787)|null|
+|**2026-09-01**|**CAT-Flow: Curvature-Adaptive sTeps for Flow Matching**|Qinchan Li et.al.|[2609.01746](https://arxiv.org/abs/2609.01746)|null|
 |**2026-08-31**|**Language-Informed Flow Matching for Trend-Guided Structure-Based 3D Molecular Generation**|Tianyu Gao et.al.|[2608.31009](https://arxiv.org/abs/2608.31009)|null|
 |**2026-08-31**|**Reproducible macroscopic dynamics in a closed-loop human-AI learning system**|Minlin Wu et.al.|[2608.30946](https://arxiv.org/abs/2608.30946)|null|
 |**2026-08-31**|**Decoupled Latent Flow Matching for Few-Step Joint Vocal-Accompaniment Separation**|Lishi Zuo et.al.|[2608.30913](https://arxiv.org/abs/2608.30913)|null|
@@ -1685,6 +1708,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-02**|**Learning to Fuse LLMs with Ontology Rankers for Rare-Disease Diagnosis**|Zhaoyang Jiang et.al.|[2609.02473](https://arxiv.org/abs/2609.02473)|null|
+|**2026-09-02**|**Towards a Foundational Ontology for Identifying and Resolving Contradictions in Dialogue-based Human-Robot Interactions**|Maitreyee Tewari et.al.|[2609.02364](https://arxiv.org/abs/2609.02364)|null|
+|**2026-09-02**|**SCX Router: Streaming Zero-Shot Model Selection with a Decoder-KV Classifier and a Real-World Task Ontology**|Ihor Stepanov et.al.|[2609.02292](https://arxiv.org/abs/2609.02292)|null|
+|**2026-09-01**|**KGVoyager: Knowledge Graph Agnostic Question Answering via Agentic Navigation**|Essam Wisam et.al.|[2609.01780](https://arxiv.org/abs/2609.01780)|null|
+|**2026-09-01**|**TriSLA: A Preventive and Closed-Loop SLA-Aware Architecture for Multidomain Decision-Making with Explainable Artificial Intelligence in 5G Networks**|Abel J. R. Lisboa et.al.|[2609.01293](https://arxiv.org/abs/2609.01293)|null|
+|**2026-09-01**|**Automated Tree Knowledge Graph Construction using Ontology Expansion and Retrieval from Vietnamese History Textbooks**|Ket Doan Nguyen et.al.|[2609.00763](https://arxiv.org/abs/2609.00763)|null|
+|**2026-09-01**|**Ontology-based Target Sound Extraction**|Carlos Hernandez-Olivan et.al.|[2609.00752](https://arxiv.org/abs/2609.00752)|null|
+|**2026-09-01**|**NeuroGraph: An AI Graph-Driven Neuro-Symbolic Framework for Explainable Threat Reasoning in Advanced Manufacturing**|Padmeswari Nandiya et.al.|[2609.00604](https://arxiv.org/abs/2609.00604)|null|
+|**2026-08-31**|**Hidden relationships in a document-derived property graph: top-k chunk embeddings and inverse-distance weighting over a dynamically evolving ontology**|Bilge Kaan Karamete et.al.|[2609.00387](https://arxiv.org/abs/2609.00387)|null|
+|**2026-08-31**|**Bridging Lexical Divergence: LLM-Assisted, Cost-Efficient, Zero-shot Scientific Entity Linking**|Md Rasel Khondokar et.al.|[2609.00228](https://arxiv.org/abs/2609.00228)|null|
 |**2026-08-31**|**OntoAligner-Ensemble: Voting-Based Fusion across Heterogeneous Ontology Alignment Techniques**|Hamed Babaei Giglou et.al.|[2608.31137](https://arxiv.org/abs/2608.31137)|null|
 |**2026-08-31**|**When Does Bigger Help? A Controlled Study of LLM Scale for Ontology Learning**|Hamed Babaei Giglou et.al.|[2608.31118](https://arxiv.org/abs/2608.31118)|null|
 |**2026-08-31**|**OmniRAS: Standardizing Foundation Model Training and Evaluation in Robot-Assisted Surgery**|Leonardo Borgioli et.al.|[2608.31048](https://arxiv.org/abs/2608.31048)|null|
@@ -2068,6 +2101,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-02**|**Generating Medical Image Counterfactuals using Causal Explanations**|David A. Kelly et.al.|[2609.02697](https://arxiv.org/abs/2609.02697)|null|
+|**2026-09-02**|**Characterizing Text Branch Sensitivity in Medical Vision-Language Segmentation via Evidence Decoupling**|Ziquan Liu et.al.|[2609.02663](https://arxiv.org/abs/2609.02663)|null|
+|**2026-09-02**|**An Affine Semigroup from Orbifold Boundary Conditions: cut, phylogenetic and hierarchical models in the unit-weight sector, and weighted configurations beyond them**|Carles Marín et.al.|[2609.02630](https://arxiv.org/abs/2609.02630)|null|
+|**2026-09-02**|**Spatially-resolved multiphoton photoemission from a lateral transition metal dichalcogenide heterostructure**|Lina Hansen et.al.|[2609.02603](https://arxiv.org/abs/2609.02603)|null|
+|**2026-09-02**|**Direct Observation of the Zigzag Edge States of a Supramolecular Diatomic Kagome Lattice**|Ryohei Nemoto et.al.|[2609.02567](https://arxiv.org/abs/2609.02567)|null|
+|**2026-09-02**|**An adaptive time-tree transition kernel for Bayesian phylogenetic inference**|Marius Brusselmans et.al.|[2609.02445](https://arxiv.org/abs/2609.02445)|null|
+|**2026-09-02**|**Room-temperature local strain control of moiré excitons in MoS $_2$/WSe$_2$ heterobilayers**|T. O. Oskolkova et.al.|[2609.02340](https://arxiv.org/abs/2609.02340)|null|
+|**2026-09-02**|**ORB-SVM : An Innovative Hybrid Framework for Efficient Brain Tumor Detection from MRI Scans**|Amirhosein Azarpour et.al.|[2609.02333](https://arxiv.org/abs/2609.02333)|null|
+|**2026-09-02**|**Ferroelastic domain switching by ultrafast photoinduced strain**|Daniel G. Lourens et.al.|[2609.02321](https://arxiv.org/abs/2609.02321)|null|
+|**2026-09-02**|**SAUF-Net: Structure--Appearance Representation Learning with Uncertainty Feedback for Semi-Supervised Medical Image Segmentation**|Qin Lu et.al.|[2609.02247](https://arxiv.org/abs/2609.02247)|null|
 |**2026-08-31**|**Orbital and Spin Edelstein Effects in KTaO $_3$ (110) Two-Dimensional Electron Gases**|Hugo Witt et.al.|[2608.31051](https://arxiv.org/abs/2608.31051)|null|
 |**2026-08-31**|**Efficiency of cooperation incentives in evolutionary population games under payoff-observation errors**|Shengxian Wang et.al.|[2608.30982](https://arxiv.org/abs/2608.30982)|null|
 |**2026-08-31**|**Role of self-coherence in single-electron phase contrast imaging**|Christian Kisielowski et.al.|[2608.30833](https://arxiv.org/abs/2608.30833)|null|
