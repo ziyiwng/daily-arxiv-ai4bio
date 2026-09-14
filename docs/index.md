@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.11
+## Updated on 2026.09.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
@@ -2225,7 +2225,7 @@ layout: default
 |**2026-09-04**|**Scalable Detection of Fossil Palynomorphs in Multifocal Digital Microscopy Images**|Abbas Shaikh et.al.|[2609.05323](https://arxiv.org/abs/2609.05323)|null|
 |**2026-09-04**|**Self-Supervised Lexical Representation Learning for Fast, Large-Scale Phylogenetic Inference**|Tim Wientzek et.al.|[2609.05262](https://arxiv.org/abs/2609.05262)|null|
 |**2026-09-04**|**Real-World Multi-Modal and Longitudinal Lung Cancer Dataset**|Rita Cordeiro Mendes et.al.|[2609.05202](https://arxiv.org/abs/2609.05202)|null|
-|**2026-09-04**|**Cross-dataset transportability of pediatric chest X-ray deep learning across three countries: discrimination, calibration, operating-point failure, and limited-label recovery**| Nazim-E-Alam et.al.|[2609.05140](https://arxiv.org/abs/2609.05140)|null|
+|**2026-09-04**|**Cross-dataset transportability of pediatric chest X-ray deep learning across three countries: discrimination, calibration, operating-point failure, and limited-label recovery**|Nazim-E-Alam et.al.|[2609.05140](https://arxiv.org/abs/2609.05140)|null|
 |**2026-09-04**|**Compositional Reward Models for Conditional Medical Image Generation**|Aayush Kumar Tyagi et.al.|[2609.05028](https://arxiv.org/abs/2609.05028)|null|
 |**2026-09-04**|**A Short Combinatorial Proof of the Pons-Batle Identity for Counting Tree-Child Networks**|Hao Yu et.al.|[2609.04979](https://arxiv.org/abs/2609.04979)|null|
 |**2026-09-04**|**Operando imaging of intercalation memory in MXenes**|Franz Groebmeyer et.al.|[2609.04977](https://arxiv.org/abs/2609.04977)|null|
