@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.09.16
+## Updated on 2026.09.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-15**|**SaltyMeta: a curated benchmark and protein language model-informed web tool for salty peptide prediction**|Wanchao Chen et.al.|[2609.16809](https://arxiv.org/abs/2609.16809)|null|
+|**2026-09-15**|**EmoPhone: A Multi-Wave Dataset for In-the-Wild Mobile and Wearable Affect Sensing**|Panyu Zhang et.al.|[2609.16581](https://arxiv.org/abs/2609.16581)|null|
 |**2026-09-08**|**Evolution of Multimodal Question Answering: From Modality-Adaptive Extraction to Unified Language Representation**|Abdullah Al Shafi et.al.|[2609.08896](https://arxiv.org/abs/2609.08896)|null|
 |**2026-09-07**|**MI-PEFT: Mixture-of-Experts Integrated Parameter-Efficient Fine-Tuning Protein Language Models Improves Acidophilic Proteins Classification**|Honghan Shen et.al.|[2609.08059](https://arxiv.org/abs/2609.08059)|null|
 |**2026-09-07**|**Heat Field Signatures: From Point Clouds to Smooth Geometry**|Yuanqing Wang et.al.|[2609.07975](https://arxiv.org/abs/2609.07975)|null|
@@ -335,6 +337,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-15**|**Semi-Supervised Learning-Based Genetic Biomarkers Dataset for Multiple-Stage Hepatocellular Carcinoma Prediction**|Ahmed Ammar Kubba et.al.|[2609.17100](https://arxiv.org/abs/2609.17100)|null|
+|**2026-09-15**|**HyCoSeq: Contextual Hyperbolic Representation Learning for Genomic Sequences**|Chenhao Zeng et.al.|[2609.16925](https://arxiv.org/abs/2609.16925)|null|
+|**2026-09-14**|**Artificial intelligence and biosecurity: capabilities, threat pathways, and defense-in-depth governance**|Candace S. Y. Chan et.al.|[2609.16213](https://arxiv.org/abs/2609.16213)|null|
+|**2026-09-14**|**Feasibility of Homomorphic Inference for a Genomic Foundation Model**|Christos Galanopoulos et.al.|[2609.16211](https://arxiv.org/abs/2609.16211)|null|
 |**2026-09-14**|**Leveraging hologenomic data for phenotypic prediction: potential and pitfalls**|Sol{è}ne Pety et.al.|[2609.15565](https://arxiv.org/abs/2609.15565)|null|
 |**2026-09-14**|**Towards a knowledge-enhanced single-cell foundation model**|Hanqing Zhang et.al.|[2609.14970](https://arxiv.org/abs/2609.14970)|null|
 |**2026-09-14**|**SeqMaestro: From nucleotide sequences to biological hypotheses through interpretable machine learning**|Evgeny S. Saveliev et.al.|[2609.14882](https://arxiv.org/abs/2609.14882)|null|
@@ -753,6 +759,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-14**|**Hyperbolic Contrastive Learning with Entailment for Spatial Transcriptomics**|Daniela Vega et.al.|[2609.16207](https://arxiv.org/abs/2609.16207)|null|
 |**2026-09-12**|**MARC: Morphology-Aware Regression of Consensus for Cell Segmentation in Subcellular Spatial Transcriptomics**|Xinyu Shu et.al.|[2609.13665](https://arxiv.org/abs/2609.13665)|null|
 |**2026-09-11**|**Data-Adaptive Grassmann Manifold Representations for Spatial Transcriptomics Alignment**|Xiang Xiang Wang et.al.|[2609.12805](https://arxiv.org/abs/2609.12805)|null|
 |**2026-09-05**|**STP-BENCH: A Unified Systematic Benchmark for Virtual Spatial Transcriptomics from Histopathology Images**|Youngmin Chung et.al.|[2609.05956](https://arxiv.org/abs/2609.05956)|null|
@@ -895,6 +902,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-15**|**Extended Proofs for Encrypted Sensing in Bistatic Radar: Unified Analysis and Randomly Activated Arrays**|Tianrui He et.al.|[2609.17071](https://arxiv.org/abs/2609.17071)|null|
+|**2026-09-14**|**Exploring Optimal Parameters for Ligand-Based Virtual Screening in Early Drug Discovery**|Temitope Sobodu et.al.|[2609.16356](https://arxiv.org/abs/2609.16356)|null|
 |**2026-09-14**|**TractSpLearn: Specialized Shared-Manifold Learning for Individualized Detection of Subtle White Matter Alterations in Mild Traumatic Brain Injury**|Jiqing Huang et.al.|[2609.15342](https://arxiv.org/abs/2609.15342)|null|
 |**2026-09-14**|**ProLiVis 2.0: Literature-Centric Visualization of Protein--Protein Interaction Networks, with a Citation-Trust Model for Interaction Evidence**|Melih Sözdinler et.al.|[2609.15236](https://arxiv.org/abs/2609.15236)|null|
 |**2026-09-14**|**Navigating Sparse Singlet Fission Chemical Space: An Intelligent Generative-Predictive Paradigm**|Longfei Lv et.al.|[2609.15136](https://arxiv.org/abs/2609.15136)|null|
@@ -1076,6 +1085,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-15**|**Same Flow, Different Paths: Variance Reduction in Flow Matching**|Alexander Tyurin et.al.|[2609.17287](https://arxiv.org/abs/2609.17287)|null|
+|**2026-09-15**|**MyoFlow: Anchor-Tied Rectified Flow for HD-sEMG Gesture Recognition Across Sessions and Subjects**|Chenhao Wu et.al.|[2609.17194](https://arxiv.org/abs/2609.17194)|null|
+|**2026-09-15**|**Distributed JEPA: A Self-Supervised Framework for Energy Forecasting**|Liana Toderean et.al.|[2609.17029](https://arxiv.org/abs/2609.17029)|null|
+|**2026-09-15**|**sensVLA: Spatially-Grounded Vision-Language-Action Model for Autonomous Wheel Loader**|Gopi Krishna Erabati et.al.|[2609.17021](https://arxiv.org/abs/2609.17021)|null|
+|**2026-09-15**|**AntennaFlow: A Generative Flow Model for Offset Correction in Phaseless Antenna Testing**|Yongzhi Li et.al.|[2609.16948](https://arxiv.org/abs/2609.16948)|null|
+|**2026-09-15**|**MedPCFM-TED: One-Step Point Cloud Flow Matching for Implant Generation via Teacher-Guided Endpoint Distillation**|Kamil Kwarciak et.al.|[2609.16934](https://arxiv.org/abs/2609.16934)|null|
+|**2026-09-15**|**SAVLA: Symmetry-Aware Vision-Language-Action Models for Robotic Manipulation**|Junle Li et.al.|[2609.16641](https://arxiv.org/abs/2609.16641)|null|
+|**2026-09-15**|**CLASH: Counterfactual Auditing of Lexical and Prosodic Reliance in Spoken Sarcasm Detection**|Qiyang Sun et.al.|[2609.16582](https://arxiv.org/abs/2609.16582)|null|
+|**2026-09-15**|**AsyncCouple-Flow: Asynchronous Cross-Modal Coupling and Flow Matching for Spatio-Temporal Forecasting**|Zhixiang Wu et.al.|[2609.16573](https://arxiv.org/abs/2609.16573)|null|
+|**2026-09-15**|**Which Pretext Task Transfers? Self-Supervised Pretraining Objectives for Lung Ultrasound**|Moein Heidari et.al.|[2609.16551](https://arxiv.org/abs/2609.16551)|null|
 |**2026-09-14**|**Touch2Trace: Tactile-Driven Imitation Learning for Dexterous Cable Tracing**|Matteo Grimaldi et.al.|[2609.15921](https://arxiv.org/abs/2609.15921)|null|
 |**2026-09-14**|**Graph Attention Design Choices Matter: A Controlled Study of LoRA-Adapted Audio Anti-Spoofing**|Haoyu Wang et.al.|[2609.15650](https://arxiv.org/abs/2609.15650)|null|
 |**2026-09-14**|**Principal-timestep Restricted Init via Sparse Matrix-decomposition in Flow-matching**|Jiayang Gu et.al.|[2609.15643](https://arxiv.org/abs/2609.15643)|null|
@@ -1816,6 +1835,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-15**|**Extracting ontology-compliant knowledge from scientific text describing irradiated materials using large language models**|Marco Luca Sbodio et.al.|[2609.17291](https://arxiv.org/abs/2609.17291)|null|
+|**2026-09-15**|**Symbolic Separation: Grounding Deep Agents in Knowledge Graphs for Trustworthy Operational Data Analytics**|Baibek Davletiyarov et.al.|[2609.17107](https://arxiv.org/abs/2609.17107)|null|
+|**2026-09-15**|**Neuro-Symbolic Hierarchical Intention Anticipation in Human Behavior**|Farnaz Soleimani et.al.|[2609.17064](https://arxiv.org/abs/2609.17064)|null|
+|**2026-09-15**|**NeuroSymbEAD: A Large Scale Neuro-Symbolic Caption Dataset for Omni-Directional Embodied Autonomous Driving**|Muhammad Ahmed Ullah Khan et.al.|[2609.16919](https://arxiv.org/abs/2609.16919)|null|
 |**2026-09-14**|**EvoOntology: A Self-Evolving Ontology Layer for Data Agents**|Meiduo Chong et.al.|[2609.15779](https://arxiv.org/abs/2609.15779)|null|
 |**2026-09-14**|**Knowledge-Enriched Structured EHR Features for 30-Day Hospital Readmission Prediction on MIMIC-IV**|Mohamad Najafi et.al.|[2609.15713](https://arxiv.org/abs/2609.15713)|null|
 |**2026-09-14**|**Ontological free will as incompressible information adjunction: A noncomputability boundary beyond P versus NP**|J{é}rome Clech et.al.|[2609.15464](https://arxiv.org/abs/2609.15464)|null|
@@ -2242,6 +2265,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-15**|**Stitch-Free, Diamond-Scribed Silicon Nitride Photonic Integrated Circuits for the Visible Band**|Kishor Kumar Mandal et.al.|[2609.17480](https://arxiv.org/abs/2609.17480)|null|
+|**2026-09-15**|**A system-centered probabilistic formalism linking multiple equilibria and biodiversity in ecological and evolutionary models**|Hiba Nassor et.al.|[2609.17232](https://arxiv.org/abs/2609.17232)|null|
+|**2026-09-15**|**Field Angular Momentum Transformation as a Resolution Criterion for Microsphere-assisted microscopy**|Bekirov Arlen et.al.|[2609.17214](https://arxiv.org/abs/2609.17214)|null|
+|**2026-09-15**|**Pushing the Dose Limit of Atomic-Resolution Imaging: A 4D-STEM case study of NaCl**|Tamazouzt Chennit et.al.|[2609.17208](https://arxiv.org/abs/2609.17208)|null|
+|**2026-09-15**|**MUMINS: Metadata-conditioned Uncertainty-aware Medical Image Next-state Synthesis**|Anna Oliveras et.al.|[2609.17169](https://arxiv.org/abs/2609.17169)|null|
+|**2026-09-15**|**Investigating past high-energy fluxes with paleo-detectors**|Claudio Galelli et.al.|[2609.17157](https://arxiv.org/abs/2609.17157)|null|
+|**2026-09-15**|**StainBridge: Stain-Aware Pairwise Registration of Serial Renal Biopsy Whole-Slide Images Across Structural and Immunohistochemical Stains**|Ellen Wei et.al.|[2609.17090](https://arxiv.org/abs/2609.17090)|null|
+|**2026-09-15**|**Probabilistic Deep Learning Framework for Phase Transformation Forecasting aided by In Situ High temperature Microscopy**|Ioannis Kouroudis et.al.|[2609.16940](https://arxiv.org/abs/2609.16940)|null|
+|**2026-09-15**|**MedPCFM-TED: One-Step Point Cloud Flow Matching for Implant Generation via Teacher-Guided Endpoint Distillation**|Kamil Kwarciak et.al.|[2609.16934](https://arxiv.org/abs/2609.16934)|null|
+|**2026-09-15**|**Noise2Noise Revisited: Training Pair Distributions Dominate Loss Choice in Self-Supervised Denoising**|Dingyan Shang et.al.|[2609.16788](https://arxiv.org/abs/2609.16788)|null|
 |**2026-09-14**|**Direct observation of electron shedding from a laser-plasma accelerator**|Sheroy Tata et.al.|[2609.15968](https://arxiv.org/abs/2609.15968)|null|
 |**2026-09-14**|**Stripe-Like Superconducting Enhancement and Coexisting Magnetic Texture in an Infinite Layer Nickelate**|Ryan Laing et.al.|[2609.15958](https://arxiv.org/abs/2609.15958)|null|
 |**2026-09-14**|**Microstructure-Resolved Impedance Modeling of Solid-State Batteries**|Kaniza Islam et.al.|[2609.15783](https://arxiv.org/abs/2609.15783)|null|
