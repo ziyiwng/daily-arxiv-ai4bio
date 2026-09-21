@@ -20,7 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-09-17**|**TorchCraft: Unified binder design by inverting an all-atom structure predictor**| TorchCraft Team et.al.|[2609.19770](https://arxiv.org/abs/2609.19770)|null|
+|**2026-09-17**|**TorchCraft: Unified binder design by inverting an all-atom structure predictor**|TorchCraft Team et.al.|[2609.19770](https://arxiv.org/abs/2609.19770)|null|
 |**2026-09-15**|**SaltyMeta: a curated benchmark and protein language model-informed web tool for salty peptide prediction**|Wanchao Chen et.al.|[2609.16809](https://arxiv.org/abs/2609.16809)|null|
 |**2026-09-15**|**EmoPhone: A Multi-Wave Dataset for In-the-Wild Mobile and Wearable Affect Sensing**|Panyu Zhang et.al.|[2609.16581](https://arxiv.org/abs/2609.16581)|null|
 |**2026-09-08**|**Evolution of Multimodal Question Answering: From Modality-Adaptive Extraction to Unified Language Representation**|Abdullah Al Shafi et.al.|[2609.08896](https://arxiv.org/abs/2609.08896)|null|
