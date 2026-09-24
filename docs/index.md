@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.09.23
+## Updated on 2026.09.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-08**|**Physics-guided deep metric learning with continuous time embeddings for open-world radar pulse de-interleaving**|Vikas Agnihotri et.al.|[2609.25057](https://arxiv.org/abs/2609.25057)|null|
 |**2026-09-21**|**Towards Accurate Prediction of Mutation-Induced Changes in Protein Structure**|Zhuoyi Liu et.al.|[2609.24842](https://arxiv.org/abs/2609.24842)|null|
 |**2026-09-21**|**Assessment of the N-1 voltage security of a future Nordic energy system**|Luis Kuhrmann et.al.|[2609.24356](https://arxiv.org/abs/2609.24356)|null|
 |**2026-09-21**|**SupportCal: Label-Free Calibration of Post-Trained LLMs via Reference Support and Corroboration**|Linhan Luo et.al.|[2609.24303](https://arxiv.org/abs/2609.24303)|null|
@@ -349,6 +350,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-22**|**Empirical Bayes prepivoting under group invariance: false discovery rate control and moderated t-tests**|Nikolaos Ignatiadis et.al.|[2609.26764](https://arxiv.org/abs/2609.26764)|null|
+|**2026-09-22**|**Pangenome Optimization via Elastic Degenerate Strings**|Nicola Rizzo et.al.|[2609.26542](https://arxiv.org/abs/2609.26542)|null|
+|**2026-09-21**|**An Approximation Algorithm for Non-uniform Non-contiguous Translocation Distance**|Maria Constantin et.al.|[2609.25420](https://arxiv.org/abs/2609.25420)|null|
+|**2026-09-19**|**An Accurate and Interpretable Hyper Graph Neural Network for GBM Survival Prediction**|Mushahid Intesum et.al.|[2609.25088](https://arxiv.org/abs/2609.25088)|null|
 |**2026-09-21**|**Structured Screen-and-Select for Ultra-High-Dimensional Variable Selection**|Nilotpal Sanyal et.al.|[2609.24945](https://arxiv.org/abs/2609.24945)|null|
 |**2026-09-21**|**Parameter-Free Triangle Counting**|Asaf Etgar et.al.|[2609.24829](https://arxiv.org/abs/2609.24829)|null|
 |**2026-09-20**|**Demographic inference of pathogen-infected populations from partially observed transmission forests**|Matthew Hall et.al.|[2609.23624](https://arxiv.org/abs/2609.23624)|null|
@@ -1125,6 +1130,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-23**|**Improving Ensemble Filters with Flow Matching**|Haoyuan Chen et.al.|[2609.28015](https://arxiv.org/abs/2609.28015)|null|
+|**2026-09-23**|**InternW0: A Foundational Physical World Model for Efficient Real-World Interactions**|Jisong Cai et.al.|[2609.27656](https://arxiv.org/abs/2609.27656)|null|
+|**2026-09-23**|**Active Learning for Low-Altitude Radio Map Construction via Plug-and-Play Flow Matching**|Hao Sun et.al.|[2609.27486](https://arxiv.org/abs/2609.27486)|null|
+|**2026-09-22**|**Imperfection for Precision: Upcycling Imperfect Data for High-Precision Robotic Manipulation**|Hao Wei et.al.|[2609.26672](https://arxiv.org/abs/2609.26672)|null|
+|**2026-09-22**|**Deep Generative Crystal Structure Prediction: A Benchmark Study and a Controlled Test of Prototype Dependence**|Lai Wei et.al.|[2609.26502](https://arxiv.org/abs/2609.26502)|null|
+|**2026-09-22**|**On the Role of the Projector in Contrastive Self-Supervised Learning: Last-Layer Rank Dynamics Drive Representation Quality**|Siladittya Manna et.al.|[2609.26334](https://arxiv.org/abs/2609.26334)|null|
+|**2026-09-22**|**Gaussian Flow-Matching Schedules: Implications for Sampling and Training**|Arsène Claustre et.al.|[2609.25839](https://arxiv.org/abs/2609.25839)|null|
+|**2026-09-22**|**TRACE: Trajectory Representation and Consistency Estimation for AI-Generated Video Detection**|Huangsen Cao et.al.|[2609.25775](https://arxiv.org/abs/2609.25775)|null|
+|**2026-09-22**|**Self-Supervised Combinatorial Optimization with Constraints via Frank-Wolfe**|Akbar Rafiey et.al.|[2609.25728](https://arxiv.org/abs/2609.25728)|null|
+|**2026-09-22**|**When Riemann flows with Wasserstein: Generative Modeling of Probability Distributions on Manifolds**|Doron Haviv et.al.|[2609.25659](https://arxiv.org/abs/2609.25659)|null|
 |**2026-09-21**|**Generating Chest X-Ray Counterfactuals by Specialising Foundation Image Models**|Xiaodan Xing et.al.|[2609.24879](https://arxiv.org/abs/2609.24879)|null|
 |**2026-09-21**|**Toward a foundation model for forest point clouds**|Yuanwen Yue et.al.|[2609.24787](https://arxiv.org/abs/2609.24787)|null|
 |**2026-09-21**|**QLoRA Fine-Tuning of Ministral LLM for Sequence-to-Function Protein Annotation**|Demian Pavlyshenko et.al.|[2609.24538](https://arxiv.org/abs/2609.24538)|null|
@@ -1913,6 +1928,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-23**|**UniDataAgent: An Ontology-Grounded Agent for Enterprise Question-to-Report Automation**|Yutai Duan et.al.|[2609.27257](https://arxiv.org/abs/2609.27257)|null|
+|**2026-09-22**|**CQ4OE: A benchmark for assessing LLM-assisted ontology generation from competency questions**|Jiayi Li et.al.|[2609.26029](https://arxiv.org/abs/2609.26029)|null|
+|**2026-09-22**|**Emotions as intrinsic colored noise in biological systems**|V. I. Yukalov et.al.|[2609.25970](https://arxiv.org/abs/2609.25970)|null|
+|**2026-09-22**|**Towards Systematic Qualification of Vision-Language Models for Automotive Perception Systems**|Malsha Ashani Mahawatta Dona et.al.|[2609.25945](https://arxiv.org/abs/2609.25945)|null|
+|**2026-09-22**|**TCMaster: Confidence-Aware Querying and Workload-Guided Physical Design for Multi-Source Traditional Chinese Medicine Knowledge Graphs**|Zheng Chen et.al.|[2609.25712](https://arxiv.org/abs/2609.25712)|null|
+|**2026-09-22**|**ArticleMiner: Ontology-Guided Knowledge Graph Construction from Scientific Publications**|Md Abrar Jahin et.al.|[2609.25607](https://arxiv.org/abs/2609.25607)|null|
 |**2026-09-21**|**The Copy Ceiling: An Input-Exposure Control for Ontology-Grounded Generation over Curated Corpora**|John J. O'Hare et.al.|[2609.24885](https://arxiv.org/abs/2609.24885)|null|
 |**2026-09-21**|**QLoRA Fine-Tuning of Ministral LLM for Sequence-to-Function Protein Annotation**|Demian Pavlyshenko et.al.|[2609.24538](https://arxiv.org/abs/2609.24538)|null|
 |**2026-09-21**|**Comparing Latent Concept Formation in State Space Models and Transformers via Sparse Autoencoders**|Rithin Nagaraj et.al.|[2609.24440](https://arxiv.org/abs/2609.24440)|null|
@@ -2358,6 +2379,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-23**|**Aharonov-Bohm interference probing of chiral Andreev edge states via scanning gate microscopy**|S. Maji et.al.|[2609.27716](https://arxiv.org/abs/2609.27716)|null|
+|**2026-09-23**|**FFM-CP: Cross-Backbone Fusion of Vision-Language Foundation Models for Few-Shot Computational Pathology**|Anh-Tien Nguyen et.al.|[2609.27710](https://arxiv.org/abs/2609.27710)|null|
+|**2026-09-23**|**Direct observation of the electronic structure of even-layer puckered SnTe monolayer films on graphene**|Satoru Ichinokura et.al.|[2609.27672](https://arxiv.org/abs/2609.27672)|null|
+|**2026-09-23**|**NV-Reason-CT: 3D Visual Language Model for CT Analysis**|Andriy Myronenko et.al.|[2609.27511](https://arxiv.org/abs/2609.27511)|null|
+|**2026-09-23**|**Unmodeled states and uncertain action outcomes in agentic scanning tunneling microscopy**|Siyu Cheng et.al.|[2609.27302](https://arxiv.org/abs/2609.27302)|null|
+|**2026-09-23**|**Measurement of Nanoscale Surface Disturbances on Liquid Jets Using the Mie Scattering Method**|Dingwei Zhang et.al.|[2609.27228](https://arxiv.org/abs/2609.27228)|null|
+|**2026-09-23**|**Learning Spectral Allocation: A Fractional Diffusion Framework for Adaptive Volumetric Segmentation**|Yi-Hui Shen et.al.|[2609.27217](https://arxiv.org/abs/2609.27217)|null|
+|**2026-09-22**|**Metalens-transparent ultrasound transducer module for extended depth photoacoustic microscopy**|Krishnendu Samanta et.al.|[2609.27007](https://arxiv.org/abs/2609.27007)|null|
+|**2026-09-22**|**Structural Resilience of Space-Time Wave Packets to Volumetric Scattering**|Kefu Mu et.al.|[2609.26969](https://arxiv.org/abs/2609.26969)|null|
+|**2026-09-22**|**Cross-Modal Contrastive Learning from Histopathology and CT for Automated Renal Cell Carcinoma Grading**|Amit Das et.al.|[2609.26920](https://arxiv.org/abs/2609.26920)|null|
 |**2026-09-21**|**Modified Low-Temperature Scanning Tunneling Microscope for Ultrafast Pump-Probe Spectroscopy**|Vibhuti N. Rai et.al.|[2609.24916](https://arxiv.org/abs/2609.24916)|null|
 |**2026-09-21**|**Quantum-interference-driven orbital density wave and high-temperature superconductivity in trilayer nickelates**|Youichi Yamakawa et.al.|[2609.24857](https://arxiv.org/abs/2609.24857)|null|
 |**2026-09-21**|**Phylogenetic Inference and the Stickiness of Fréchet Means, via Precise Asymptotics of an Embedded Random Walk**|Adam Quinn Jaffe et.al.|[2609.24816](https://arxiv.org/abs/2609.24816)|null|
