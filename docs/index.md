@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.09.25
+## Updated on 2026.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**PFArena: Benchmarking Language Models for Protein Modification**|Yawen Ouyang et.al.|[2609.28921](https://arxiv.org/abs/2609.28921)|null|
 |**2026-09-23**|**Position-dependent friction in protein folding from a GLE derived with a non-stationary localized projection distribution**|Salma Salem et.al.|[2609.28113](https://arxiv.org/abs/2609.28113)|null|
 |**2026-09-08**|**Physics-guided deep metric learning with continuous time embeddings for open-world radar pulse de-interleaving**|Vikas Agnihotri et.al.|[2609.25057](https://arxiv.org/abs/2609.25057)|null|
 |**2026-09-21**|**Towards Accurate Prediction of Mutation-Induced Changes in Protein Structure**|Zhuoyi Liu et.al.|[2609.24842](https://arxiv.org/abs/2609.24842)|null|
@@ -352,6 +353,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**EMMA: an R/Bioconductor package to automate tracking of metadata in functional enrichment analyses**|Najla Abassi et.al.|[2609.30013](https://arxiv.org/abs/2609.30013)|null|
+|**2026-09-24**|**A Block Decomposed QUBO Workflow for Chromosome-Y Phylogeny Reconstruction**|Giuliana Siddi Moreau et.al.|[2609.29856](https://arxiv.org/abs/2609.29856)|null|
+|**2026-09-24**|**FDR-Controlled Variable Selection for Generalized Linear Models and Cox Regression with Virtual Dummies**|Helena Mehler et.al.|[2609.29335](https://arxiv.org/abs/2609.29335)|null|
+|**2026-09-23**|**Selective Inference for Deep Clustering in Latent Spaces**|Eina Mizui et.al.|[2609.28756](https://arxiv.org/abs/2609.28756)|null|
+|**2026-09-23**|**LabFactory: Building and Evaluating Executable AI Labs**|Jinge Wu et.al.|[2609.28697](https://arxiv.org/abs/2609.28697)|null|
+|**2026-09-23**|**BaseCamp --- An Agentic AI Framework for Automating DNA Sequencing Data Pipelines**|Eranga Bandara et.al.|[2609.28557](https://arxiv.org/abs/2609.28557)|null|
 |**2026-09-23**|**Motif-Vocab: StatisticallyCalibrated Transcription-Factor-Identity Tokenization forGenomic Language Models**|Liangyu Li et.al.|[2609.28386](https://arxiv.org/abs/2609.28386)|null|
 |**2026-09-23**|**Quantum Advantage in Topological Data Analysis via Mayer Homology**|Nhat A. Nghiem et.al.|[2609.28058](https://arxiv.org/abs/2609.28058)|null|
 |**2026-09-23**|**SAGEGAN: Style-Based Anomaly Detection with Gaussian Embeddings using Generative Adversarial Networks**|Thesath Wijayasiri et.al.|[2609.27357](https://arxiv.org/abs/2609.27357)|null|
@@ -802,9 +809,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-23**|**SpaFactor: Lightweight Spatial Context-Aware Gene Program Modeling for Histology-to-Transcriptomics Inference**|Shiting Ruan et.al.|[2609.28563](https://arxiv.org/abs/2609.28563)|null|
 |**2026-09-23**|**Benchmarking Active Spot Selection for Cost-Efficient Spatial Transcriptomics**|Zheyu Zhu et.al.|[2609.27208](https://arxiv.org/abs/2609.27208)|null|
 |**2026-09-17**|**How Do We Visualize Space in Molecular Biology? A Study of Spatial Transcriptomics Visualization Practices**|Denisse Chacón-Ramírez et.al.|[2609.20324](https://arxiv.org/abs/2609.20324)|null|
-|**2026-09-17**|**Dynamic Generalized Gromov-Wasserstein Optimal Transport**|Junda Ying et.al.|[2609.20008](https://arxiv.org/abs/2609.20008)|null|
+|**2026-09-24**|**Dynamic Generalized Gromov-Wasserstein Optimal Transport**|Junda Ying et.al.|[2609.20008](https://arxiv.org/abs/2609.20008)|null|
 |**2026-09-16**|**Pose2Muscle: Structured Spatio-Temporal Decoding for Discrete Muscle Activity Estimation from Human Pose**|Yuepeng Chen et.al.|[2609.18336](https://arxiv.org/abs/2609.18336)|null|
 |**2026-09-14**|**Hyperbolic Contrastive Learning with Entailment for Spatial Transcriptomics**|Daniela Vega et.al.|[2609.16207](https://arxiv.org/abs/2609.16207)|null|
 |**2026-09-12**|**MARC: Morphology-Aware Regression of Consensus for Cell Segmentation in Subcellular Spatial Transcriptomics**|Xinyu Shu et.al.|[2609.13665](https://arxiv.org/abs/2609.13665)|null|
@@ -949,6 +957,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**TopU-LBVS: A Realistic Multi Target Benchmark for Ligand Based Virtual Screening**|Surbhi Kumar et.al.|[2609.29740](https://arxiv.org/abs/2609.29740)|null|
+|**2026-09-23**|**OPDiv: Optimal Selection of Top-K High-Scoring, Diverse Compounds**|Miroslav Lžičař et.al.|[2609.28665](https://arxiv.org/abs/2609.28665)|null|
 |**2026-09-21**|**Augmented Hypothesis Testing with Persona-Based LLM Simulations**|Ziyad Benomar et.al.|[2609.24629](https://arxiv.org/abs/2609.24629)|null|
 |**2026-09-21**|**Adapting Boltz-2 with limited experimental activity data improves early enrichment in virtual screening**|Kairi Furui et.al.|[2609.24302](https://arxiv.org/abs/2609.24302)|null|
 |**2026-09-19**|**Decentralized Multi-Robot Exploration with Probabilistic Peer Intent and Multi-hop Plan Propagation**|Saurbh Singh Jamwal et.al.|[2609.22726](https://arxiv.org/abs/2609.22726)|null|
@@ -1139,6 +1149,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**Faster Visuomotor Policy Learning on Action Manifolds via Riemannian MeanFlow**|S. Talha Bukhari et.al.|[2609.30127](https://arxiv.org/abs/2609.30127)|null|
+|**2026-09-24**|**M3GD: Multi-Modal Multi-View Geometric Diffusion for Camera--LiDAR Novel View Synthesis**|Yang Zhou et.al.|[2609.30056](https://arxiv.org/abs/2609.30056)|null|
+|**2026-09-24**|**Structured Pose-Conditioned Flow Matching for Generative 5G CSI Augmentation**|Haojin Li et.al.|[2609.29912](https://arxiv.org/abs/2609.29912)|null|
+|**2026-09-24**|**MorphIK: Morphology-Conditioned Neural Inverse Kinematics for Unknown Robots**|Lennart Clasmeier et.al.|[2609.29908](https://arxiv.org/abs/2609.29908)|null|
+|**2026-09-24**|**Depth through recurrence: Looped transformers for flow-matching TTS**|Jiabao Ai et.al.|[2609.29768](https://arxiv.org/abs/2609.29768)|null|
+|**2026-09-24**|**Relative Mismatch: Local-Reference Calibration of Feature-Space Flows for Anomalous Sound Detection**|Anbai Jiang et.al.|[2609.29746](https://arxiv.org/abs/2609.29746)|null|
+|**2026-09-24**|**Neural Transport Nested Sampling**|David Yallup et.al.|[2609.29413](https://arxiv.org/abs/2609.29413)|null|
+|**2026-09-24**|**Decoupled Early Exits for Task-Dependent Compute Allocation in Flow-Matching VLAs**|Riccardo Andrea Izzo et.al.|[2609.29382](https://arxiv.org/abs/2609.29382)|null|
+|**2026-09-24**|**Off-manifold robustness in synthesizer inversion with joint distribution flow matching**|Ben Hayes et.al.|[2609.29320](https://arxiv.org/abs/2609.29320)|null|
+|**2026-09-24**|**X-Rec Technical Report**|Chenglei Shen et.al.|[2609.29180](https://arxiv.org/abs/2609.29180)|null|
 |**2026-09-23**|**On the Diffusibility of High-Dimensional Latents**|Chao Feng et.al.|[2609.28473](https://arxiv.org/abs/2609.28473)|null|
 |**2026-09-23**|**UNITE-AUDIO: Joint Learning of Continuous Tokenization and Latent Flow Matching for Text-to-Audio Generation**|Runwu Shi et.al.|[2609.28206](https://arxiv.org/abs/2609.28206)|null|
 |**2026-09-23**|**Two Global Crops Suffice: Locating Semantic Emergence in DINO-Style Self-Supervised Learning**|Basavaraj Sunagad et.al.|[2609.28187](https://arxiv.org/abs/2609.28187)|null|
@@ -1944,6 +1964,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**Orbital Error Dynamics: Self-Organized Criticality, Ephemeral Parameter Resonance, and Non-Linear Biological Ontologies in Zero-Storage Neural Synthesis**|Volkan Dağlı et.al.|[2609.30115](https://arxiv.org/abs/2609.30115)|null|
+|**2026-09-24**|**Synthetic Hospital: An Open, Verifiable, Physician-Validated Longitudinal EHR Benchmark**|Christine Park et.al.|[2609.30027](https://arxiv.org/abs/2609.30027)|null|
+|**2026-09-24**|**Ontology-Mediated Neurosymbolic Constraint Acquisition from Multiple Stakeholders**|Stefan Bischof et.al.|[2609.29876](https://arxiv.org/abs/2609.29876)|null|
+|**2026-09-24**|**The Uncertainty Principle, Uncertainty Relations, and Underlying Trajectories: Feynman, Nelson, Bohm, and Persistent Kac-Dirac Dynamics**|Partha Ghose et.al.|[2609.29248](https://arxiv.org/abs/2609.29248)|null|
+|**2026-09-23**|**Category-Based MLM: Unifying Powertypes with Superclasses**|Mira Balaban et.al.|[2609.28810](https://arxiv.org/abs/2609.28810)|null|
 |**2026-09-23**|**Unbounded Operators, Physicality, and Modality in Quantum Theories**|Zhonghao Lu et.al.|[2609.28136](https://arxiv.org/abs/2609.28136)|null|
 |**2026-09-23**|**UniDataAgent: An Ontology-Grounded Agent for Enterprise Question-to-Report Automation**|Yutai Duan et.al.|[2609.27257](https://arxiv.org/abs/2609.27257)|null|
 |**2026-09-22**|**CQ4OE: A benchmark for assessing LLM-assisted ontology generation from competency questions**|Jiayi Li et.al.|[2609.26029](https://arxiv.org/abs/2609.26029)|null|
@@ -2396,6 +2421,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**Molecular Beam Epitaxy of AgTaO3**|Tobias Schwaigert et.al.|[2609.30229](https://arxiv.org/abs/2609.30229)|null|
+|**2026-09-24**|**Ultrafast Electron Microscopy: A Quantitative Platform for Nonequilibrium Materials Research**|David J. Flannigan et.al.|[2609.30084](https://arxiv.org/abs/2609.30084)|null|
+|**2026-09-24**|**NNV3: Expanding Neural Network Verification to New Architectures and Domains**|Anne M. Tumlin et.al.|[2609.30050](https://arxiv.org/abs/2609.30050)|null|
+|**2026-09-24**|**Improving Calibration of Black-Box Radiology AI Using Test-Time Augmentation**|Nathan Le et.al.|[2609.29931](https://arxiv.org/abs/2609.29931)|null|
+|**2026-09-24**|**A Block Decomposed QUBO Workflow for Chromosome-Y Phylogeny Reconstruction**|Giuliana Siddi Moreau et.al.|[2609.29856](https://arxiv.org/abs/2609.29856)|null|
+|**2026-09-24**|**Lightweight Vision Transformer-Based U-Net for Brain Tumor Segmentation from MRI**|Sheekar Banerjee et.al.|[2609.29785](https://arxiv.org/abs/2609.29785)|null|
+|**2026-09-24**|**Mind the Gap: Mesh-Guided Repair of Broken Vessels**|Gniewosz Drwiega et.al.|[2609.29779](https://arxiv.org/abs/2609.29779)|null|
+|**2026-09-24**|**Superconducting spin valve as a sensitive probe of spin-orbit coupling anisotropy**|Pablo Tuero et.al.|[2609.29244](https://arxiv.org/abs/2609.29244)|null|
+|**2026-09-24**|**Less is More: Encoder-only Audio-Visual Segmentation**|Ilpo Viertola et.al.|[2609.29121](https://arxiv.org/abs/2609.29121)|null|
+|**2026-09-24**|**Electric Current-Driven Microstructural Evolution in SrTiO3**|Jingjing Yang et.al.|[2609.29079](https://arxiv.org/abs/2609.29079)|null|
 |**2026-09-23**|**LightMIS: Ultra-Lightweight Medical Image Segmentation Without a Stage-Wise Decoder**|Andrei Arhire et.al.|[2609.28327](https://arxiv.org/abs/2609.28327)|null|
 |**2026-09-23**|**Solid-State Dealloying Enables Local Symmetry Breaking in Ternary Intermetallic Thin Films**|Mizuki Ohno et.al.|[2609.28249](https://arxiv.org/abs/2609.28249)|null|
 |**2026-09-23**|**Do Center Biases Propagate? Robustness of Pathology Foundation Models in Whole-Slide Image Classification**|Ilán Carretero et.al.|[2609.28231](https://arxiv.org/abs/2609.28231)|null|
