@@ -30,7 +30,7 @@
 |**2026-09-21**|**SupportCal: Label-Free Calibration of Post-Trained LLMs via Reference Support and Corroboration**|Linhan Luo et.al.|[2609.24303](https://arxiv.org/abs/2609.24303)|null|
 |**2026-09-19**|**Deterministic synthesis and processing of frequency-bin qubits in a macroscopically coherent quantum memory**|S. A. Moiseev et.al.|[2609.23171](https://arxiv.org/abs/2609.23171)|null|
 |**2026-09-19**|**CurvFlow-DTA: dual-graph discrete Ricci curvature flow for drug--target affinity prediction**|Jicheng Ma et.al.|[2609.22862](https://arxiv.org/abs/2609.22862)|null|
-|**2026-09-17**|**TorchCraft: Unified binder design by inverting an all-atom structure predictor**| TorchCraft Team et.al.|[2609.19770](https://arxiv.org/abs/2609.19770)|null|
+|**2026-09-17**|**TorchCraft: Unified binder design by inverting an all-atom structure predictor**|TorchCraft Team et.al.|[2609.19770](https://arxiv.org/abs/2609.19770)|null|
 |**2026-09-15**|**SaltyMeta: a curated benchmark and protein language model-informed web tool for salty peptide prediction**|Wanchao Chen et.al.|[2609.16809](https://arxiv.org/abs/2609.16809)|null|
 |**2026-09-15**|**EmoPhone: A Multi-Wave Dataset for In-the-Wild Mobile and Wearable Affect Sensing**|Panyu Zhang et.al.|[2609.16581](https://arxiv.org/abs/2609.16581)|null|
 |**2026-09-08**|**Evolution of Multimodal Question Answering: From Modality-Adaptive Extraction to Unified Language Representation**|Abdullah Al Shafi et.al.|[2609.08896](https://arxiv.org/abs/2609.08896)|null|
