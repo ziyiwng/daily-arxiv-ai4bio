@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.09.30
+## Updated on 2026.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-30**|**Does Learning Protein Folding Generalize to Broader Reasoning?**|Yong Liu et.al.|[2609.38879](https://arxiv.org/abs/2609.38879)|null|
+|**2026-09-29**|**Zero-shot Dependency Parsing with Unsupervised Cross-Lingual Bootstrapping**|Lalita Lowphansirikul et.al.|[2609.37883](https://arxiv.org/abs/2609.37883)|null|
+|**2026-09-29**|**Billiger.de Products: A Bilingual Entity Matching Benchmark**|Aaron Steiner et.al.|[2609.37713](https://arxiv.org/abs/2609.37713)|null|
+|**2026-09-29**|**LEMON-ZEST: Evolution-Informed Tokenization for Efficient Protein Language Modeling**|Biswajit Banerjee et.al.|[2609.37675](https://arxiv.org/abs/2609.37675)|null|
 |**2026-09-29**|**RNA Design via Conditioned Flow Matching and Finite-Policy Reinforcement Learning**|Zefeng Lin et.al.|[2609.36885](https://arxiv.org/abs/2609.36885)|null|
 |**2026-09-28**|**Drug-Target Interaction Prediction via Hierarchical Sequential Cross-Attention over Chemical and Protein Language Models**|Khadidja Henni et.al.|[2609.34921](https://arxiv.org/abs/2609.34921)|null|
 |**2026-09-29**|**Accelerator Choice Is Not Enough: AlphaFold2 Inference on Cloud TPUs**|Lorenzo Pazienza et.al.|[2609.34818](https://arxiv.org/abs/2609.34818)|null|
@@ -365,6 +369,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-30**|**CellMSA: Context Modeling for Single-Cell Representation Learning**|Suyuan Zhao et.al.|[2609.38908](https://arxiv.org/abs/2609.38908)|null|
+|**2026-09-30**|**Faster network motif discovery by counting isomorphic subtrees**|Tarek Tohme et.al.|[2609.38686](https://arxiv.org/abs/2609.38686)|null|
+|**2026-09-30**|**A Three-Stage PCA Procedure for Sequentially Arriving High-Dimensional Data**|Partha Sarkar et.al.|[2609.38681](https://arxiv.org/abs/2609.38681)|null|
+|**2026-09-29**|**Fragment Path Complex Networks for Viral Genome Classification**|Alice Wachira et.al.|[2609.38651](https://arxiv.org/abs/2609.38651)|null|
+|**2026-09-29**|**Packaged DNA genome sets the long-range electrostatic anisotropy of a virus**|Jeffrey C. Everts et.al.|[2609.38429](https://arxiv.org/abs/2609.38429)|null|
+|**2026-09-29**|**Global Synchronization for Multi-Source Data Integration under Blockwise Missing Patterns**|Runbing Zheng et.al.|[2609.38141](https://arxiv.org/abs/2609.38141)|null|
+|**2026-09-29**|**CancerZigZag: Iterative Seed-Anchored Diffusion for Generative Modeling of Single-Cell State Transitions**|Johannes Schlüter et.al.|[2609.37735](https://arxiv.org/abs/2609.37735)|null|
 |**2026-09-29**|**On the Capacity of DNA Labeling in the Single-Label Setting**|Zihan Wu et.al.|[2609.36715](https://arxiv.org/abs/2609.36715)|null|
 |**2026-09-27**|**CipherGenome: Homomorphic Inference for Genomic Mixture-of-Experts**|Guang Yang et.al.|[2609.35883](https://arxiv.org/abs/2609.35883)|null|
 |**2026-09-27**|**GenomeOcean Anywhere: Private WebGPU Inference for Genome MoEs**|Guang Yang et.al.|[2609.35882](https://arxiv.org/abs/2609.35882)|null|
@@ -836,6 +847,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-30**|**scTrilemma: Balancing Identity, Invariance, and Fidelity in Single-Cell Representation Learning**|Yunhak Oh et.al.|[2609.38840](https://arxiv.org/abs/2609.38840)|null|
+|**2026-09-30**|**GATE-ST: Gene-Aware Text-image Encoder for Spatial Transcriptomics**|Lucas Ni et.al.|[2609.38690](https://arxiv.org/abs/2609.38690)|null|
+|**2026-09-29**|**Statistical Physics of Fish Collective Motion**|Elena G. de Lamo et.al.|[2609.37637](https://arxiv.org/abs/2609.37637)|null|
 |**2026-09-29**|**Variational Mixtures and Multi-Marginal Flow Matching: Advancing Statistical Inference with Biological Applications**|Oskar Kviman et.al.|[2609.36911](https://arxiv.org/abs/2609.36911)|null|
 |**2026-09-29**|**Towards Scalable Context-Aware Single-Cell Spatial Transcriptomics Prediction from Histology Images**|Zijun Gao et.al.|[2609.36429](https://arxiv.org/abs/2609.36429)|null|
 |**2026-09-27**|**Preserving DEG Rankings for Gene Discovery in Histology-Based Spatial Gene Expression Prediction**|Kaito Shiku et.al.|[2609.33928](https://arxiv.org/abs/2609.33928)|null|
@@ -991,6 +1005,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-30**|**Blind Interference Suppression for IRS-Aided Robust Wireless Communications**|Tao Wang et.al.|[2609.38859](https://arxiv.org/abs/2609.38859)|null|
+|**2026-09-29**|**Which reported inputs govern molecular docking reproducibility? A benchmark from reporting audit to independent re-execution**|Giap Duc Ha et.al.|[2609.37542](https://arxiv.org/abs/2609.37542)|null|
+|**2026-09-29**|**MoTIF-X: A Multimodal Tokenized Framework for Interpretable and Extensible Molecular Representation Learning**|Linqing Mo et.al.|[2609.37384](https://arxiv.org/abs/2609.37384)|null|
 |**2026-09-28**|**High-spatial resolution, high-quality white matter tractography using DTI with dynamic slice-by-slice B0 shimming in a head-only high-gradient performance 3T MRI scanner**|Jerome J. Maller et.al.|[2609.36185](https://arxiv.org/abs/2609.36185)|null|
 |**2026-09-28**|**Drug-Target Interaction Prediction via Hierarchical Sequential Cross-Attention over Chemical and Protein Language Models**|Khadidja Henni et.al.|[2609.34921](https://arxiv.org/abs/2609.34921)|null|
 |**2026-09-28**|**Transfer Calibrated Prediction Powered Inference**|Aditya T. Vadlamani et.al.|[2609.34156](https://arxiv.org/abs/2609.34156)|null|
@@ -1195,6 +1212,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-30**|**A Width-Matched Comparison of Hybrid Quantum-Classical Self-Supervised Learning for Fingerprint Recognition**|Maria S. Edwards et.al.|[2609.39172](https://arxiv.org/abs/2609.39172)|null|
+|**2026-09-30**|**Occlusion-Aware, Quasi-Static, Stability-Oriented Trajectory Planning on Uneven Terrain**|Amith Manoharan et.al.|[2609.39105](https://arxiv.org/abs/2609.39105)|null|
+|**2026-09-30**|**DiFF: Doppler-informed Flow Matching for Human Motion Flow**|Kai Wang et.al.|[2609.39098](https://arxiv.org/abs/2609.39098)|null|
+|**2026-09-30**|**Looking Back to Move Forward: Temporal Verification for Generative Robot Policies**|Haoxuan Wang et.al.|[2609.39038](https://arxiv.org/abs/2609.39038)|null|
+|**2026-09-30**|**Cue the Flow: Steering Flow-Matching Policies for Open-World Delivery Manipulation**|Haoxuan Wang et.al.|[2609.38989](https://arxiv.org/abs/2609.38989)|null|
+|**2026-09-30**|**Flow Matching under Noisy Latent Structure: Beyond Exact Low-Dimensional Support**|Lifeng Hao et.al.|[2609.38918](https://arxiv.org/abs/2609.38918)|null|
+|**2026-09-30**|**Online Evolution Strategy for Flow-Matching VLA Policies via Self-Supervised Trajectory Distribution Optimization**|Gongxin Yao et.al.|[2609.38855](https://arxiv.org/abs/2609.38855)|null|
+|**2026-09-30**|**Distilling Diffusion Score Discrepancy for Efficient Training Data Attribution**|Shixuan Liu et.al.|[2609.38776](https://arxiv.org/abs/2609.38776)|null|
+|**2026-09-29**|**EvoSteer: Online Self-Evolving Graph Orchestration via Reference-Anchored Credit Assignment**|Mingda Zhang et.al.|[2609.38661](https://arxiv.org/abs/2609.38661)|null|
+|**2026-09-29**|**Tacit-TTS: From Autoregressive Decoding to Masked Prediction for Efficient Transcript-Free Voice Cloning**|Jian Chen et.al.|[2609.38658](https://arxiv.org/abs/2609.38658)|null|
 |**2026-09-29**|**Variational Mixtures and Multi-Marginal Flow Matching: Advancing Statistical Inference with Biological Applications**|Oskar Kviman et.al.|[2609.36911](https://arxiv.org/abs/2609.36911)|null|
 |**2026-09-29**|**HorizonFlow: Variable-Length Planning for Offline Goal-Conditioned RL**|JunHyeok Oh et.al.|[2609.36896](https://arxiv.org/abs/2609.36896)|null|
 |**2026-09-29**|**RNA Design via Conditioned Flow Matching and Finite-Policy Reinforcement Learning**|Zefeng Lin et.al.|[2609.36885](https://arxiv.org/abs/2609.36885)|null|
@@ -2035,6 +2062,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-30**|**Not all solutions are created equal: An analytical dissociation of functional and representational similarity in deep linear neural networks**|Lukas Braun et.al.|[2609.38998](https://arxiv.org/abs/2609.38998)|null|
+|**2026-09-30**|**Talk2Agent: Benchmarking Voice Interfaces for Text Agents**|Terumi Chiba et.al.|[2609.38867](https://arxiv.org/abs/2609.38867)|null|
+|**2026-09-30**|**Afterglow: A Place-Based Memorial Ecology for AI-Mediated Pet Bereavement**|Hanjing Shi et.al.|[2609.38729](https://arxiv.org/abs/2609.38729)|null|
+|**2026-09-29**|**On Gauge Gravity's 'Hypermomentum Challenge' to the Geometric Trinity**|Kartik Tiwari et.al.|[2609.38292](https://arxiv.org/abs/2609.38292)|null|
+|**2026-09-29**|**HyDI: A hybrid Deep Learning-Inductive Logic Programming ensemble for multi-label classification**|Simon Flügel et.al.|[2609.37740](https://arxiv.org/abs/2609.37740)|null|
+|**2026-09-29**|**Independent Verification Paths Are Not Independent: A Case Study of Common-Mode Failure in a Satellite Catalogue Pipeline**|Fabio Rovai et.al.|[2609.37603](https://arxiv.org/abs/2609.37603)|null|
 |**2026-09-28**|**Proofs Without Nominals: Gödel's Ontological Argument, its Shallow Embedding, and the Open Questions of the Monatshefte Notes**|Christoph Benzmüller et.al.|[2609.36279](https://arxiv.org/abs/2609.36279)|null|
 |**2026-09-28**|**GeoOutageBench: Benchmarking Ambiguity-aware, Ontology-grounded Geospatiotemporal KGQA for Multimodal Power Outage and Resilience Analysis**|Ethan D. Frakes et.al.|[2609.36082](https://arxiv.org/abs/2609.36082)|null|
 |**2026-09-29**|**RareDx: Controlled Knowledge Integration and Graph-Grounded Policy Optimization for Rare-Disease Diagnosis**|Bo Zhang et.al.|[2609.35549](https://arxiv.org/abs/2609.35549)|null|
@@ -2508,6 +2541,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-30**|**Threshold Geometry, Bifurcation, and Data-Driven Analysis of a Vaccination-Treatment Model for Hepatitis B**|Mustaq Ahmad et.al.|[2609.39204](https://arxiv.org/abs/2609.39204)|null|
+|**2026-09-30**|**Nature of the 175-180 cm $^{-1}$ Raman Feature in Altermagnetic $α$ -MnTe**|Pankaj Bhardwaj et.al.|[2609.39108](https://arxiv.org/abs/2609.39108)|null|
+|**2026-09-30**|**Social comparison shapes the evolution of cooperation in structured populations**|Xiaojin Xiong et.al.|[2609.39012](https://arxiv.org/abs/2609.39012)|null|
+|**2026-09-30**|**On the Relaxation of Conditional Independence Assumption for Image Segmentation**|Zixun Wang et.al.|[2609.38930](https://arxiv.org/abs/2609.38930)|null|
+|**2026-09-30**|**Trusting the Inverse: Reliability-Aware Mapping for Simulation-Based Microstructure Estimation in Diffusion MRI**|Juan Luis Villarreal Haro et.al.|[2609.38922](https://arxiv.org/abs/2609.38922)|null|
+|**2026-09-30**|**SCALE: Synthetic Calibration via Agreement Labeling in Embedding Space**|Wenjun Liu et.al.|[2609.38705](https://arxiv.org/abs/2609.38705)|null|
+|**2026-09-29**|**Estimates of neural health using cochlear implant digital twins correlate with speech recognition**|Erin L. Bratu et.al.|[2609.38634](https://arxiv.org/abs/2609.38634)|null|
+|**2026-09-29**|**Detail in Context: A Dual-Scale Machine Learning Framework for Mycosis Fungoides Detection**|Mohamed Hazem et.al.|[2609.38560](https://arxiv.org/abs/2609.38560)|null|
+|**2026-09-29**|**Colorectal Cancer Segmentation with Adaptive Augmentation and Multi-Resolution Ensemble Models**|Ümit Mert Çağlar et.al.|[2609.38419](https://arxiv.org/abs/2609.38419)|null|
+|**2026-09-29**|**Electronic Coupling and Charge-Transfer Landscape of Graphene on Ge(001)/Si(001): Multiscale Analysis Assisted by Machine Learning**|Pawel Dabrowski et.al.|[2609.37827](https://arxiv.org/abs/2609.37827)|null|
 |**2026-09-29**|**Evidence for Distributed Fault Energetics and Their Impact on Deformation in a Chemically Complex Alloy**|Kaijun Yin et.al.|[2609.36780](https://arxiv.org/abs/2609.36780)|null|
 |**2026-09-29**|**Study of LAGP coating on polyethylene separator for polysulfide suppression in thin Li-S batteries**|Giovanni Ceccio et.al.|[2609.36749](https://arxiv.org/abs/2609.36749)|null|
 |**2026-09-29**|**Reconstructing the Vocal Tract with Differentiable Acoustic Simulation**|Eric Ming Chen et.al.|[2609.36737](https://arxiv.org/abs/2609.36737)|null|
