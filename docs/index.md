@@ -2,20 +2,22 @@
 layout: default
 ---
 
-## Updated on 2026.10.04
+## Updated on 2026.10.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-02**|**SoftGene: Protein Language Model-Enhanced Soft Prompting for Interpretable Gene Set Annotation**|Drew Ross et.al.|[2610.03029](https://arxiv.org/abs/2610.03029)|null|
+|**2026-10-02**|**Evaluator-in-the-Loop Monte Carlo Tree Search via LLM Agents for Motif Scaffolding in Protein Design**|Haotian Hu et.al.|[2610.02924](https://arxiv.org/abs/2610.02924)|null|
 |**2026-10-01**|**Cost-augmented Schrödinger bridges on graphs are exactly solvable: a Feynman-Kac tilt replaces learned control**|Akshay Balsubramani et.al.|[2610.02195](https://arxiv.org/abs/2610.02195)|null|
 |**2026-10-01**|**Generative modeling of intrinsically disordered protein regions by reinforcing sparse autoencoder features**|Jason X. Liu et.al.|[2610.02189](https://arxiv.org/abs/2610.02189)|null|
 |**2026-10-01**|**Sample complexity bounds for categorical Markov random fields via Discrete Diffusions**|Shivam Kumar et.al.|[2610.02128](https://arxiv.org/abs/2610.02128)|null|
 |**2026-10-01**|**RipplePLM: Structural and Property Decoupling for Protein Mutation Effect Generation**|Liuzhenghao Lv et.al.|[2610.01891](https://arxiv.org/abs/2610.01891)|null|
 |**2026-10-01**|**CODesign: Consistency from Data to Trajectory in All-Atom Protein Binder Co-Design**|Yuanle Mo et.al.|[2610.01773](https://arxiv.org/abs/2610.01773)|null|
 |**2026-10-01**|**Gacha Decoding: Eliciting Diverse Generations Through Instruction Following**|Scott Geng et.al.|[2610.01382](https://arxiv.org/abs/2610.01382)|null|
-|**2026-10-01**|**Fold'EM: Direct atomic structure inference from Cryo-EM particles**|Advaith Maddipatla et.al.|[2610.01358](https://arxiv.org/abs/2610.01358)|null|
+|**2026-10-02**|**Fold'EM: Direct atomic structure inference from Cryo-EM particles**|Advaith Maddipatla et.al.|[2610.01358](https://arxiv.org/abs/2610.01358)|null|
 |**2026-10-01**|**Auditable Algebraic Counting Field for Cryptic-Pocket Detection from Apo Structures**|Shan Yu et.al.|[2610.00988](https://arxiv.org/abs/2610.00988)|null|
 |**2026-09-30**|**ORBIT-FMIB: Tracking Order-Resolved Epistatic Information Through ESM-2**|Maryam Rahimimovassagh et.al.|[2610.00672](https://arxiv.org/abs/2610.00672)|null|
 |**2026-09-30**|**Analysis of Quantized and Efficiently Adapted Protein Language Models**|Ilan Yaniv Zeisler et.al.|[2610.00665](https://arxiv.org/abs/2610.00665)|null|
@@ -306,6 +308,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-02**|**Multimodal reasoning for broadly neutralizing antibody discovery from label-free human B cell repertoires across virus families**|Hantao Lou et.al.|[2610.03160](https://arxiv.org/abs/2610.03160)|null|
+|**2026-10-02**|**Evaluating LLM-as-a-Judge Beyond Score Alignment: A Psychometric Analysis of Residual Judging Difficulty**|Longwei Cong et.al.|[2610.02877](https://arxiv.org/abs/2610.02877)|null|
 |**2026-09-04**|**A Comprehensive Evaluation Framework for Conversational Home Energy Management Systems**|Wooyoung Jung et.al.|[2610.00073](https://arxiv.org/abs/2610.00073)|null|
 |**2026-09-28**|**Explainability from Training with Applications to TCR-Epitope Prediction**|Jiarui Li et.al.|[2609.36354](https://arxiv.org/abs/2609.36354)|null|
 |**2026-09-28**|**AbGaze: Attentive Geometric Representation Learning for End-to-End Antibody Design**|Jiashuo Wang et.al.|[2609.35296](https://arxiv.org/abs/2609.35296)|null|
@@ -380,6 +384,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-02**|**Generating eukaryotic reference genome assemblies: Earth BioGenome Project quality standards and recommendations**|Kerstin Howe et.al.|[2610.03075](https://arxiv.org/abs/2610.03075)|null|
+|**2026-10-02**|**SoftGene: Protein Language Model-Enhanced Soft Prompting for Interpretable Gene Set Annotation**|Drew Ross et.al.|[2610.03029](https://arxiv.org/abs/2610.03029)|null|
+|**2026-10-01**|**Validated Data Onboarding for AI Demand Forecasting on U.S. Building Meter Data: Design, Controlled Evaluation, and a Corrected Negative Result**|Yixuan Liang et.al.|[2610.02397](https://arxiv.org/abs/2610.02397)|null|
+|**2026-10-01**|**BootLoops: an LLM-driven toolkit for exact quantitative science**|Matthew D. Schwartz et.al.|[2610.02286](https://arxiv.org/abs/2610.02286)|null|
 |**2026-10-01**|**Surface-volume self-supervised representation learning of brain MRI for genetic discovery**|Tian Xia et.al.|[2610.02114](https://arxiv.org/abs/2610.02114)|null|
 |**2026-10-01**|**OpenMTB-Audit: Exposing Over-Refusal and Clinical Expert Perspectives in LLM-Based Molecular Tumor Board Safety Evaluation**|Negin Ashrafi et.al.|[2610.01497](https://arxiv.org/abs/2610.01497)|null|
 |**2026-10-01**|**Bridging the Omics Divide: A Modular Relational Approach to Multi-Layer Biological Data Management**|Alessandro Balestrucci et.al.|[2610.01482](https://arxiv.org/abs/2610.01482)|null|
@@ -1026,6 +1034,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**TasteBench: Multimodal Benchmark for Sensory Prediction, from Molecules to Sustainable Foods**|Anna T. Thomas et.al.|[2610.02599](https://arxiv.org/abs/2610.02599)|null|
 |**2026-10-01**|**Prediction-powered Neural Architecture Search**|Pascal Janetzky et.al.|[2610.01317](https://arxiv.org/abs/2610.01317)|null|
 |**2026-10-01**|**Molecular architecture of TE-seeded chromosome-naive initiation networks of protein-protein interactions delineates the Human Protein Map of the assembly of multiprotein complexes**|Gennadi Glinsky et.al.|[2610.01078](https://arxiv.org/abs/2610.01078)|null|
 |**2026-09-29**|**UnifiedAttack: Evaluating the Safety of Large Multimodal Models in Synergistic Harmful Image-Text Generation**|Bingjun Luo et.al.|[2610.00341](https://arxiv.org/abs/2610.00341)|null|
@@ -1236,6 +1245,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-02**|**Contextual Flow Matching: Adaptive Step Selection in Flow Models for Efficient Visual Generation**|Divya Jyoti Bajpai et.al.|[2610.03202](https://arxiv.org/abs/2610.03202)|null|
+|**2026-10-02**|**Safe Streaming Flow Planning by Aligning Sampling Dynamics with Execution Dynamics**|Seunghwan Jang et.al.|[2610.03132](https://arxiv.org/abs/2610.03132)|null|
+|**2026-10-02**|**Benchmarking Literature Retrieval for a Model Organism: A Dictyostelium Case Study**|Yun Wang et.al.|[2610.03130](https://arxiv.org/abs/2610.03130)|null|
+|**2026-10-02**|**A Benchmark for Spatially Grounded Gesture Generation**|Anna Deichler et.al.|[2610.03105](https://arxiv.org/abs/2610.03105)|null|
+|**2026-10-02**|**Parasitic Co-Denoising: Unlocking 3D Human Motion Generation in a Frozen Video Diffusion Model**|Yunjiao Zhou et.al.|[2610.03047](https://arxiv.org/abs/2610.03047)|null|
+|**2026-10-02**|**What Actually Makes Correlation-Based SSL Distillation Noise-Robust? A Mechanistic Correction**|Fabian Ritter-Gutierrez et.al.|[2610.02823](https://arxiv.org/abs/2610.02823)|null|
+|**2026-10-02**|**Controlling Polar Exposure to Delay Memorization in Diffusion Models**|Xuanchen Wang et.al.|[2610.02780](https://arxiv.org/abs/2610.02780)|null|
+|**2026-10-02**|**SymRegFlow: Symmetry-Regularized Flow Matching for Video World Models**|Xi Ye et.al.|[2610.02726](https://arxiv.org/abs/2610.02726)|null|
+|**2026-10-02**|**Structural-Functional Brain Connectivity Generation via Multimodal Hypergraph-based Flow Matching**|Chyong Yi Poh et.al.|[2610.02722](https://arxiv.org/abs/2610.02722)|null|
+|**2026-10-02**|**Generalization Properties of Score-matching Diffusion Models for Intrinsically Low-dimensional Data**|Saptarshi Chakraborty et.al.|[2610.02663](https://arxiv.org/abs/2610.02663)|null|
 |**2026-10-01**|**Surface-volume self-supervised representation learning of brain MRI for genetic discovery**|Tian Xia et.al.|[2610.02114](https://arxiv.org/abs/2610.02114)|null|
 |**2026-10-01**|**UniWAM: Unified World-Action Model**|Jiayi Chen et.al.|[2610.02054](https://arxiv.org/abs/2610.02054)|null|
 |**2026-10-01**|**Relative Transitions, Not Absolute Destinations: A Transfer-and-Ground Framework for Target-Trajectory-Free Human Mobility Generation**|Yidi Wang et.al.|[2610.02033](https://arxiv.org/abs/2610.02033)|null|
@@ -2106,6 +2125,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-02**|**Ontological Instability and Statistical Amplification: The Paradox of "Humanizing" LLM-Generated Text**|Claudiu Creanga et.al.|[2610.03110](https://arxiv.org/abs/2610.03110)|null|
+|**2026-10-02**|**SoftGene: Protein Language Model-Enhanced Soft Prompting for Interpretable Gene Set Annotation**|Drew Ross et.al.|[2610.03029](https://arxiv.org/abs/2610.03029)|null|
+|**2026-10-02**|**LOCUS: Landmark-Oriented Container Discrimination Using Spatial Graphs**|Taylor Bergeron et.al.|[2610.02803](https://arxiv.org/abs/2610.02803)|null|
+|**2026-10-02**|**Asterism: Exploring and Synthesizing Scattered Observations into Literature-Grounded Hypotheses and Theories**|Joseph Chee Chang et.al.|[2610.02673](https://arxiv.org/abs/2610.02673)|null|
 |**2026-10-01**|**A Comparative Explainability Framework for DeBERTa-v3 in Zero-Shot Medical Abstract Classification**|Javier Diaz Esteban-Herreros et.al.|[2610.02116](https://arxiv.org/abs/2610.02116)|null|
 |**2026-10-01**|**Can LLMs Reliably Annotate Bioassay Metadata to Improve Data Readiness?**|Laura van Weesep et.al.|[2610.01616](https://arxiv.org/abs/2610.01616)|null|
 |**2026-10-01**|**Learning to structure data from user-generated thematic corpora**|Elishay Avram et.al.|[2610.01463](https://arxiv.org/abs/2610.01463)|null|
@@ -2593,6 +2616,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-02**|**Consecutive Posterior Fusion for Diffusive Recovery of Unobservable Image Structures**|Elena Morotti et.al.|[2610.03261](https://arxiv.org/abs/2610.03261)|null|
+|**2026-10-02**|**Uncertainty as a Proxy for Semantic Correctness in Diffusion-Based Medical Image Synthesis**|Yuxuan Ou et.al.|[2610.03224](https://arxiv.org/abs/2610.03224)|null|
+|**2026-10-02**|**Bayesian Analysis of Covariate-Driven Hawkes Processes with Application in Plant Epidemiology**|Katarzyna Adamczyk-Chauvat et.al.|[2610.03189](https://arxiv.org/abs/2610.03189)|null|
+|**2026-10-02**|**SIS Epidemic Containment under Game-theoretic Rational Learning**|Urmee Maitra et.al.|[2610.03173](https://arxiv.org/abs/2610.03173)|null|
+|**2026-10-02**|**CalCErt: Bin-wise Certification of Confidence Calibration in Medical Image Classification**|Leo Fillioux et.al.|[2610.03142](https://arxiv.org/abs/2610.03142)|null|
+|**2026-10-02**|**EpiWorld: Grounding LLM Policy Agents in Epidemiological World Models**|Zeeshan Memon et.al.|[2610.02744](https://arxiv.org/abs/2610.02744)|null|
+|**2026-10-01**|**Thickness-Controlled Ferroelectric-to-Ionic Transport in CuCrP2S6 at Room Temperature**|Subhashree Chatterjee et.al.|[2610.02380](https://arxiv.org/abs/2610.02380)|null|
 |**2026-10-01**|**Markov chain Monte Carlo for predictively oriented posteriors**|Yann McLatchie et.al.|[2610.01818](https://arxiv.org/abs/2610.01818)|null|
 |**2026-10-01**|**PhaseAT: Fourier Phase Adversarial Training for Medical Image Domain Generalization**|Ahmed Sharshar et.al.|[2610.01807](https://arxiv.org/abs/2610.01807)|null|
 |**2026-10-01**|**The Achilles' Heel of Partial Reconfiguration: Optical Side-Channel Leakage on the 7-Series ICAP**|Antonio Saavedra et.al.|[2610.01736](https://arxiv.org/abs/2610.01736)|null|
