@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.10.05
+## Updated on 2026.10.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**TurboPairFormer: Fast and Stable Protein Folding Model Training with an Optimized Triangle Attention Kernel**|Yide Ran et.al.|[2610.05854](https://arxiv.org/abs/2610.05854)|null|
+|**2026-10-04**|**D-DOIT: Training-free Adaptation of Discrete Diffusion via Doob's h-Transform**|Jieke Wu et.al.|[2610.04938](https://arxiv.org/abs/2610.04938)|null|
+|**2026-10-04**|**PIT-GCL: Protein Interaction using Topological Graph Contrastive Learning**|Jae Won Choi et.al.|[2610.04850](https://arxiv.org/abs/2610.04850)|null|
+|**2026-10-02**|**Learning Latent Protein Languages for Autoregressive Generation**|Mahdi Pourmirzaei et.al.|[2610.03978](https://arxiv.org/abs/2610.03978)|null|
+|**2026-10-02**|**Beyond Random Splits: Evaluating Drug-Target Affinity Models Under Chemically and Biologically Motivated Distribution Shifts Copy**|Minjae Chung et.al.|[2610.03456](https://arxiv.org/abs/2610.03456)|null|
 |**2026-10-02**|**SoftGene: Protein Language Model-Enhanced Soft Prompting for Interpretable Gene Set Annotation**|Drew Ross et.al.|[2610.03029](https://arxiv.org/abs/2610.03029)|null|
 |**2026-10-02**|**Evaluator-in-the-Loop Monte Carlo Tree Search via LLM Agents for Motif Scaffolding in Protein Design**|Haotian Hu et.al.|[2610.02924](https://arxiv.org/abs/2610.02924)|null|
 |**2026-10-01**|**Cost-augmented Schrödinger bridges on graphs are exactly solvable: a Feynman-Kac tilt replaces learned control**|Akshay Balsubramani et.al.|[2610.02195](https://arxiv.org/abs/2610.02195)|null|
@@ -384,6 +389,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-04**|**Cross-Modal Contrastive Learning for the Retrieval of Immunotherapy-Associated Molecular Signatures from Histopathology**|Sigrid Vila-Bagaria et.al.|[2610.05157](https://arxiv.org/abs/2610.05157)|null|
+|**2026-10-04**|**Integrated omics reveals actionable drivers of bioactive variation in US milk**|Cheng-En Tan et.al.|[2610.04970](https://arxiv.org/abs/2610.04970)|null|
+|**2026-10-04**|**TempoBridge: Source-Conditioned Flow Matching with Optimal Transport Couplings for Single-Cell Population Transitions**|Bowen Han et.al.|[2610.04945](https://arxiv.org/abs/2610.04945)|null|
+|**2026-10-03**|**Tracing model-generated DNA with position-independent watermarking**|Kimon Antonios Provatas1 et.al.|[2610.04763](https://arxiv.org/abs/2610.04763)|null|
+|**2026-10-03**|**A Unified Unsupervised Framework for Genome-Wide Association Studies in Heterogeneous Populations**|Xiong Shen et.al.|[2610.04633](https://arxiv.org/abs/2610.04633)|null|
+|**2026-10-02**|**Auditing the Privacy of Synthetic Gene Expression Data: A Unified Weighted-Distance Framework for No-Box Membership Inference**|Owen Tucker et.al.|[2610.04060](https://arxiv.org/abs/2610.04060)|null|
+|**2026-10-02**|**On the sensitivity to hyperparameters of a Bayesian method to infer selection signatures**|Carlos A. Martinez et.al.|[2610.03987](https://arxiv.org/abs/2610.03987)|null|
+|**2026-10-02**|**Transcriptome-informed multi-modal AI for predicting neoadjuvant therapy response from breast cancer biopsies**|Jungkyu Park et.al.|[2610.03693](https://arxiv.org/abs/2610.03693)|null|
 |**2026-10-02**|**Generating eukaryotic reference genome assemblies: Earth BioGenome Project quality standards and recommendations**|Kerstin Howe et.al.|[2610.03075](https://arxiv.org/abs/2610.03075)|null|
 |**2026-10-02**|**SoftGene: Protein Language Model-Enhanced Soft Prompting for Interpretable Gene Set Annotation**|Drew Ross et.al.|[2610.03029](https://arxiv.org/abs/2610.03029)|null|
 |**2026-10-01**|**Validated Data Onboarding for AI Demand Forecasting on U.S. Building Meter Data: Design, Controlled Evaluation, and a Corrected Negative Result**|Yixuan Liang et.al.|[2610.02397](https://arxiv.org/abs/2610.02397)|null|
@@ -1034,6 +1047,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-04**|**PIT-GCL: Protein Interaction using Topological Graph Contrastive Learning**|Jae Won Choi et.al.|[2610.04850](https://arxiv.org/abs/2610.04850)|null|
 |**2026-10-01**|**TasteBench: Multimodal Benchmark for Sensory Prediction, from Molecules to Sustainable Foods**|Anna T. Thomas et.al.|[2610.02599](https://arxiv.org/abs/2610.02599)|null|
 |**2026-10-01**|**Prediction-powered Neural Architecture Search**|Pascal Janetzky et.al.|[2610.01317](https://arxiv.org/abs/2610.01317)|null|
 |**2026-10-01**|**Molecular architecture of TE-seeded chromosome-naive initiation networks of protein-protein interactions delineates the Human Protein Map of the assembly of multiprotein complexes**|Gennadi Glinsky et.al.|[2610.01078](https://arxiv.org/abs/2610.01078)|null|
@@ -1245,6 +1259,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**Bilinear Flow Policy: Distributional Extrapolation for Goal-Conditioned Visuomotor Imitation**|Wonsuhk Jung et.al.|[2610.05765](https://arxiv.org/abs/2610.05765)|null|
+|**2026-10-05**|**From Pixels, Without Pre-training: Joint Generative and Self-Supervised Representation Learning in One Model**|Vicente Balmaseda et.al.|[2610.05711](https://arxiv.org/abs/2610.05711)|null|
+|**2026-10-05**|**Benchmarking Generative Trajectory Models for Active-Inference Control**|Yulin Li et.al.|[2610.05692](https://arxiv.org/abs/2610.05692)|null|
+|**2026-10-04**|**LiFT: Loop Flow Transformers**|Mohammad Mahdi Derakhshani et.al.|[2610.05538](https://arxiv.org/abs/2610.05538)|null|
+|**2026-10-04**|**LEON: Location Embeddings from OSM Neighborhoods via Hexagonal Graph Masked Autoencoders**|Szymon Soltysiak et.al.|[2610.05497](https://arxiv.org/abs/2610.05497)|null|
+|**2026-10-04**|**Universality and Convergence of Generative Flows**|Leo Brunswic et.al.|[2610.05490](https://arxiv.org/abs/2610.05490)|null|
+|**2026-10-04**|**FLEX-WAM: Flexible Block-Causal World-Action Models for Long-Horizon Imagination and Planning**|R. Khorrambakht et.al.|[2610.05483](https://arxiv.org/abs/2610.05483)|null|
+|**2026-10-04**|**Efficient Graph Generation via Direct Prediction and Flow Matching**|Susie Lu et.al.|[2610.05397](https://arxiv.org/abs/2610.05397)|null|
+|**2026-10-04**|**Learning Conditional Source Distribution via Flow Reversal for Temporal Flow Matching**|Kuan-Hsun Tu et.al.|[2610.05349](https://arxiv.org/abs/2610.05349)|null|
+|**2026-10-04**|**Task-Aware Joint Pruning and Distillation for Efficient Audio Deepfake Detection**|Miao He et.al.|[2610.05264](https://arxiv.org/abs/2610.05264)|null|
 |**2026-10-02**|**Contextual Flow Matching: Adaptive Step Selection in Flow Models for Efficient Visual Generation**|Divya Jyoti Bajpai et.al.|[2610.03202](https://arxiv.org/abs/2610.03202)|null|
 |**2026-10-02**|**Safe Streaming Flow Planning by Aligning Sampling Dynamics with Execution Dynamics**|Seunghwan Jang et.al.|[2610.03132](https://arxiv.org/abs/2610.03132)|null|
 |**2026-10-02**|**Benchmarking Literature Retrieval for a Model Organism: A Dictyostelium Case Study**|Yun Wang et.al.|[2610.03130](https://arxiv.org/abs/2610.03130)|null|
@@ -2125,6 +2149,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**Mining Agent Skills from Production Traces**|Yue Ran Kang et.al.|[2610.05777](https://arxiv.org/abs/2610.05777)|null|
+|**2026-10-04**|**ColdDDI: Evaluating Knowledge Utilization in Cold-Start Drug-Drug Interaction Prediction**|Jiheng Liang et.al.|[2610.05590](https://arxiv.org/abs/2610.05590)|null|
+|**2026-10-04**|**The quantum-classical bipartite universe and the logical emergence of $\hbar$ from classical temporality**|Vincenzo Chilla et.al.|[2610.05083](https://arxiv.org/abs/2610.05083)|null|
+|**2026-10-03**|**Label Agreement Does Not Measure Authorization**|Amir Sabbaghziarani et.al.|[2610.04544](https://arxiv.org/abs/2610.04544)|null|
 |**2026-10-02**|**Ontological Instability and Statistical Amplification: The Paradox of "Humanizing" LLM-Generated Text**|Claudiu Creanga et.al.|[2610.03110](https://arxiv.org/abs/2610.03110)|null|
 |**2026-10-02**|**SoftGene: Protein Language Model-Enhanced Soft Prompting for Interpretable Gene Set Annotation**|Drew Ross et.al.|[2610.03029](https://arxiv.org/abs/2610.03029)|null|
 |**2026-10-02**|**LOCUS: Landmark-Oriented Container Discrimination Using Spatial Graphs**|Taylor Bergeron et.al.|[2610.02803](https://arxiv.org/abs/2610.02803)|null|
@@ -2616,6 +2644,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**Stochastic evolutionary dynamics in structured populations: Network degree governs evolutionary stability**|Vikash Kumar Dubey et.al.|[2610.05857](https://arxiv.org/abs/2610.05857)|null|
+|**2026-10-05**|**Feature identification for parameter extraction and defect detection using machine learning**|Yan Guo et.al.|[2610.05812](https://arxiv.org/abs/2610.05812)|null|
+|**2026-10-05**|**Image resolution enhancement for advanced semiconductor nodes**|Lucas Rencker et.al.|[2610.05809](https://arxiv.org/abs/2610.05809)|null|
+|**2026-10-05**|**Planetary Geospatial Foundation Models: A New Paradigm for Global Public Health**|Arbaaz Muslim et.al.|[2610.05699](https://arxiv.org/abs/2610.05699)|null|
+|**2026-10-04**|**Terahertz nanoscopy of quantum-geometric photovoltaics in bilayer graphene**|Bogdan Borodin et.al.|[2610.05620](https://arxiv.org/abs/2610.05620)|null|
+|**2026-10-04**|**FACET: Factorized Asymmetric Conditioning for Efficient Transport in High-Fidelity Fluorescence Microscopy Synthesis**|Sazan Mahbub et.al.|[2610.05353](https://arxiv.org/abs/2610.05353)|null|
+|**2026-10-04**|**Solid-state reaction synthesis of superconducting refractory-metal germanides for Ge/SiGe quantum devices**|Sebastiaan R. Roelofs et.al.|[2610.05210](https://arxiv.org/abs/2610.05210)|null|
+|**2026-10-04**|**Cross-Modal Contrastive Learning for the Retrieval of Immunotherapy-Associated Molecular Signatures from Histopathology**|Sigrid Vila-Bagaria et.al.|[2610.05157](https://arxiv.org/abs/2610.05157)|null|
+|**2026-10-04**|**What does two-sample Mendelian randomization estimate when the exposure-outcome relationship is nonlinear?**|Eric J. Tchetgen Tchetgen et.al.|[2610.05134](https://arxiv.org/abs/2610.05134)|null|
+|**2026-10-04**|**CoDG-Net: Structure-Guided Style Diffusion and Collaborative Learning to Mitigate Catastrophic Forgetting in Medical Image Domain Generalization**|Yucheng Song et.al.|[2610.05053](https://arxiv.org/abs/2610.05053)|null|
 |**2026-10-02**|**Consecutive Posterior Fusion for Diffusive Recovery of Unobservable Image Structures**|Elena Morotti et.al.|[2610.03261](https://arxiv.org/abs/2610.03261)|null|
 |**2026-10-02**|**Uncertainty as a Proxy for Semantic Correctness in Diffusion-Based Medical Image Synthesis**|Yuxuan Ou et.al.|[2610.03224](https://arxiv.org/abs/2610.03224)|null|
 |**2026-10-02**|**Bayesian Analysis of Covariate-Driven Hawkes Processes with Application in Plant Epidemiology**|Katarzyna Adamczyk-Chauvat et.al.|[2610.03189](https://arxiv.org/abs/2610.03189)|null|
