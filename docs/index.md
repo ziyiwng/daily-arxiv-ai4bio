@@ -2,20 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.10.12
+## Updated on 2026.10.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-09**|**Designing Protein Structures from Natural Language**|Joseph Lee et.al.|[2610.13917](https://arxiv.org/abs/2610.13917)|null|
 |**2026-10-08**|**La-Ribo: RNA Co-Design via Geometry-Latent Flow Matching**|Runze Ma et.al.|[2610.12236](https://arxiv.org/abs/2610.12236)|null|
 |**2026-10-08**|**legoESM: a modular, differentiable, multiscale, AI-ready Earth system model built with AI agents**|Pierre Gentine et.al.|[2610.11883](https://arxiv.org/abs/2610.11883)|null|
-|**2026-10-07**|**De novo design of monoclonal and bispecific antibodies with OFAntibody**|Valhalla Team et.al.|[2610.09548](https://arxiv.org/abs/2610.09548)|null|
+|**2026-10-07**|**De novo design of monoclonal and bispecific antibodies with OFAntibody**| Valhalla Team et.al.|[2610.09548](https://arxiv.org/abs/2610.09548)|null|
 |**2026-10-06**|**A Shortcut to Structure in AlphaFold 3**|Jonathan Feldman et.al.|[2610.08937](https://arxiv.org/abs/2610.08937)|null|
 |**2026-10-06**|**Multi-model ocean oxygen fields predicted by conditional diffusion models**|Linus Vogt et.al.|[2610.08523](https://arxiv.org/abs/2610.08523)|null|
 |**2026-10-06**|**Linear Fitness Subspace in Protein Language Models Enables Sample-Efficient Directed Evolution**|SiYuan Ma et.al.|[2610.07607](https://arxiv.org/abs/2610.07607)|null|
-|**2026-10-04**|**Inference-Time Projection for Physically Valid Biomolecular Diffusion Models**|Qurat-ul-ain et.al.|[2610.07037](https://arxiv.org/abs/2610.07037)|null|
+|**2026-10-04**|**Inference-Time Projection for Physically Valid Biomolecular Diffusion Models**| Qurat-ul-ain et.al.|[2610.07037](https://arxiv.org/abs/2610.07037)|null|
 |**2026-10-05**|**Valid Stopping in Adaptive Generator-Verifier Loops**|Mahmoud Hegazy et.al.|[2610.06432](https://arxiv.org/abs/2610.06432)|null|
 |**2026-10-05**|**TurboPairFormer: Fast and Stable Protein Folding Model Training with an Optimized Triangle Attention Kernel**|Yide Ran et.al.|[2610.05854](https://arxiv.org/abs/2610.05854)|null|
 |**2026-10-04**|**D-DOIT: Training-free Adaptation of Discrete Diffusion via Doob's h-Transform**|Jieke Wu et.al.|[2610.04938](https://arxiv.org/abs/2610.04938)|null|
@@ -321,7 +322,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-10-07**|**De novo design of monoclonal and bispecific antibodies with OFAntibody**|Valhalla Team et.al.|[2610.09548](https://arxiv.org/abs/2610.09548)|null|
+|**2026-10-07**|**De novo design of monoclonal and bispecific antibodies with OFAntibody**| Valhalla Team et.al.|[2610.09548](https://arxiv.org/abs/2610.09548)|null|
 |**2026-10-06**|**SCOPE: Certified Theorem Proving with a Language Model as the Policy Planner**|Hanchao Zhou et.al.|[2610.08319](https://arxiv.org/abs/2610.08319)|null|
 |**2026-10-05**|**Evaluate the Stack, Not the Layer: Do Deterministic and LLM Gates for Agent Actions Fail Independently?**|Chenglin Yang et.al.|[2610.07359](https://arxiv.org/abs/2610.07359)|null|
 |**2026-10-05**|**Synthetic Cultural Agents from Aggregate Anchors**|Augusto Gonzalez-Bonorino et.al.|[2610.06562](https://arxiv.org/abs/2610.06562)|null|
@@ -402,6 +403,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-09**|**When VLMs Destroy What They Know: Spatial Representations Fall Below Lexical Priors**|Shubh Garg et.al.|[2610.13910](https://arxiv.org/abs/2610.13910)|null|
+|**2026-10-09**|**Artificial Intelligence-Assisted Systems Biology Reconstruction of Diabetic Bone Marrow Dysfunction**|Paolo Madeddu et.al.|[2610.13721](https://arxiv.org/abs/2610.13721)|null|
+|**2026-10-09**|**Neural Polar Codes for Source Coding**|Bashar Huleihel et.al.|[2610.13554](https://arxiv.org/abs/2610.13554)|null|
 |**2026-10-09**|**Tensor-based Fusion of Multi-modal Data for Predicting Cancer Risk Levels**|Ali Anaissi et.al.|[2610.13221](https://arxiv.org/abs/2610.13221)|null|
 |**2026-10-09**|**Scaling RNA Foundation Models through Iterative Refinement**|Pengan Chen et.al.|[2610.13106](https://arxiv.org/abs/2610.13106)|null|
 |**2026-10-09**|**Double-Take: Improving Capacity, Binding, and Selectivity In Long-Context Within Bidirectional Memory**|Vakul Raghavan et.al.|[2610.13073](https://arxiv.org/abs/2610.13073)|null|
@@ -918,6 +922,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-09**|**PhySeqNet: physics-informed fluorescent foci detection for BARseq spatial transcriptomics**|Neha Goswami et.al.|[2610.13779](https://arxiv.org/abs/2610.13779)|null|
 |**2026-10-08**|**Data-Driven Free-Energy Learning from Trajectories via Structure-Preserving Exponential Time Differencing**|Wenshuai Hu et.al.|[2610.11931](https://arxiv.org/abs/2610.11931)|null|
 |**2026-10-08**|**Finsler Flow Matching: Dynamics-Aware Geodesic Interpolation for Single-Snapshot Trajectory Inference**|Niklas Canova et.al.|[2610.11318](https://arxiv.org/abs/2610.11318)|null|
 |**2026-10-08**|**Predictive Multiplicity in Cell-Fate Assignment: Label-Free Rashomon Sets and the Limits of Per-Cell Certification**|Arjun Bhupatiraju et.al.|[2610.11185](https://arxiv.org/abs/2610.11185)|null|
@@ -1080,6 +1085,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-09**|**VQIL: Visible Quantum Interference Learning for Perturbation Response Ranking on Graphs**|Seokjun Lee et.al.|[2610.13689](https://arxiv.org/abs/2610.13689)|null|
 |**2026-10-07**|**Cluster-Robust Prediction-Powered Inference**|David Broska et.al.|[2610.09601](https://arxiv.org/abs/2610.09601)|null|
 |**2026-10-06**|**Convex-Concave Reinforcement Learning**|Shripad V. Deshmukh et.al.|[2610.09108](https://arxiv.org/abs/2610.09108)|null|
 |**2026-10-06**|**Prediction-powered inference for time series across space**|Shahzar Rizvi et.al.|[2610.08715](https://arxiv.org/abs/2610.08715)|null|
@@ -1299,6 +1305,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-09**|**Noise Space Learning for VLA Adaptation**|Junjie Lu et.al.|[2610.13943](https://arxiv.org/abs/2610.13943)|null|
+|**2026-10-09**|**Where to Look Matters: Rethinking Sub-Volume Sampling in 3D Medical Self-supervised Learning**|Junkai Liu et.al.|[2610.13915](https://arxiv.org/abs/2610.13915)|null|
+|**2026-10-09**|**Spanning Diffusion and Flow-based Posterior Sampling via Exact Gaussian Conditioning**|Teo Deveney et.al.|[2610.13812](https://arxiv.org/abs/2610.13812)|null|
+|**2026-10-09**|**SimVTA: Simulation-Grounded Video-Trajectory Alignment for Driving World Action Models**|Changhui Jing et.al.|[2610.13781](https://arxiv.org/abs/2610.13781)|null|
+|**2026-10-09**|**Towards Understanding the Training of GFlowNets: A Theoretical Perspective**|Rui Hu et.al.|[2610.13711](https://arxiv.org/abs/2610.13711)|null|
+|**2026-10-09**|**Model-agnostic Knowledge Augmented Machine Learning for Weakly Annotated Bioimaging Data**|Jayanie Bogahawatte et.al.|[2610.13637](https://arxiv.org/abs/2610.13637)|null|
+|**2026-10-09**|**Some remarks on the connection between generative diffusion and optimal transport**|Giulio Biroli et.al.|[2610.13614](https://arxiv.org/abs/2610.13614)|null|
+|**2026-10-09**|**CorrFlow: Exact and Permutation-Equivariant Flow Matching on the Correlation Elliptope**|Gautier Marti et.al.|[2610.13606](https://arxiv.org/abs/2610.13606)|null|
 |**2026-10-09**|**CoVA: Composing VAE Representations for Generative Learning**|Zhaowei Chen et.al.|[2610.13322](https://arxiv.org/abs/2610.13322)|null|
 |**2026-10-09**|**QCLR: A Plug-in Robustification Module via Quantization for Contrastive Learning in Self-Supervised Skeleton-Based Human Action Recognition**|Nanzhu Chen et.al.|[2610.13281](https://arxiv.org/abs/2610.13281)|null|
 |**2026-10-09**|**Beyond Actions: Learning Future Operation Targets for Vision-Language-Action Models**|Min Lin et.al.|[2610.13212](https://arxiv.org/abs/2610.13212)|null|
@@ -2229,6 +2243,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-09**|**Artificial Intelligence-Assisted Systems Biology Reconstruction of Diabetic Bone Marrow Dysfunction**|Paolo Madeddu et.al.|[2610.13721](https://arxiv.org/abs/2610.13721)|null|
 |**2026-10-09**|**The AI Side of the Human-AI Companion Relationship: Contributions to Users' Mental Models**|Richard A. Fabes et.al.|[2610.12891](https://arxiv.org/abs/2610.12891)|null|
 |**2026-10-08**|**U4RASD at KnowledgeGraphEval-2026: Ontology-Constrained Encoder and LLM Systems for Arabic Relation Extraction**|Ahmad Abbas et.al.|[2610.12742](https://arxiv.org/abs/2610.12742)|null|
 |**2026-10-08**|**CLUE: A Contrastive Learning Framework for Unsupervised Event Type Induction and Annotation**|Pratik Maitra et.al.|[2610.12580](https://arxiv.org/abs/2610.12580)|null|
@@ -2744,6 +2759,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-09**|**Hide and Seek: HIDE Concepts to SEEK explanations for black box models**|Bhanu Tokas et.al.|[2610.13935](https://arxiv.org/abs/2610.13935)|null|
+|**2026-10-09**|**Where to Look Matters: Rethinking Sub-Volume Sampling in 3D Medical Self-supervised Learning**|Junkai Liu et.al.|[2610.13915](https://arxiv.org/abs/2610.13915)|null|
+|**2026-10-09**|**Doubly Metastable Synthesis for Accelerated Quantum Materials Discovery**|Kyuho Lee et.al.|[2610.13859](https://arxiv.org/abs/2610.13859)|null|
+|**2026-10-09**|**Detection of extremely rare dead cells in fluorescence microscopy images**|Prateek Verma et.al.|[2610.13780](https://arxiv.org/abs/2610.13780)|null|
+|**2026-10-09**|**Model-agnostic Knowledge Augmented Machine Learning for Weakly Annotated Bioimaging Data**|Jayanie Bogahawatte et.al.|[2610.13637](https://arxiv.org/abs/2610.13637)|null|
+|**2026-10-09**|**EchoTab: Learning Measurement-Grounded Representations for Echocardiographic Diagnosis through Tabular Reconstruction**|Michelle Espranita Liman et.al.|[2610.13599](https://arxiv.org/abs/2610.13599)|null|
 |**2026-10-09**|**Graph-theoretic framework for semi-Markov networks: transient and stationary occupation probabilities, hitting times and weak ergodicity breaking**|Julian Voits et.al.|[2610.13505](https://arxiv.org/abs/2610.13505)|null|
 |**2026-10-09**|**Regularisation and Parameter Choice Rules for Composite Linear Inverse Problems**|Christina Brandt et.al.|[2610.13483](https://arxiv.org/abs/2610.13483)|null|
 |**2026-10-09**|**Pulse-by-pulse imaging of reversible, collective reshaping in laser-excited gold nanorods**|Mees Dieperink et.al.|[2610.13383](https://arxiv.org/abs/2610.13383)|null|
