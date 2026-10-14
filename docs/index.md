@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.10.13
+## Updated on 2026.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-09**|**Multimodal Co-Generation With Continuous Bitstream Diffusion**|Georgios Batzolis et.al.|[2610.14349](https://arxiv.org/abs/2610.14349)|null|
+|**2026-10-09**|**UGME: A python package for non-Markovian protein folding dynamics**|Anthony J. Dominic et.al.|[2610.14234](https://arxiv.org/abs/2610.14234)|null|
 |**2026-10-09**|**Designing Protein Structures from Natural Language**|Joseph Lee et.al.|[2610.13917](https://arxiv.org/abs/2610.13917)|null|
 |**2026-10-08**|**La-Ribo: RNA Co-Design via Geometry-Latent Flow Matching**|Runze Ma et.al.|[2610.12236](https://arxiv.org/abs/2610.12236)|null|
 |**2026-10-08**|**legoESM: a modular, differentiable, multiscale, AI-ready Earth system model built with AI agents**|Pierre Gentine et.al.|[2610.11883](https://arxiv.org/abs/2610.11883)|null|
@@ -322,6 +324,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-10**|**Joint Discrete and SE(3) Diffusion for Protein Interface Design**|Zhenqiao Song et.al.|[2610.14699](https://arxiv.org/abs/2610.14699)|null|
 |**2026-10-07**|**De novo design of monoclonal and bispecific antibodies with OFAntibody**| Valhalla Team et.al.|[2610.09548](https://arxiv.org/abs/2610.09548)|null|
 |**2026-10-06**|**SCOPE: Certified Theorem Proving with a Language Model as the Policy Planner**|Hanchao Zhou et.al.|[2610.08319](https://arxiv.org/abs/2610.08319)|null|
 |**2026-10-05**|**Evaluate the Stack, Not the Layer: Do Deterministic and LLM Gates for Agent Actions Fail Independently?**|Chenglin Yang et.al.|[2610.07359](https://arxiv.org/abs/2610.07359)|null|
@@ -403,6 +406,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-10**|**Metric-Driven Reinforcement Learning for Object Hallucination Reduction in LVLM-Based Image Captioning**|Thanh Nguyen et.al.|[2610.14976](https://arxiv.org/abs/2610.14976)|null|
+|**2026-10-10**|**manylp: reproducible, exact, and batched linear programming for genome-scale dynamic flux balance analysis**|Fabio Cumbo et.al.|[2610.14566](https://arxiv.org/abs/2610.14566)|null|
 |**2026-10-09**|**When VLMs Destroy What They Know: Spatial Representations Fall Below Lexical Priors**|Shubh Garg et.al.|[2610.13910](https://arxiv.org/abs/2610.13910)|null|
 |**2026-10-09**|**Artificial Intelligence-Assisted Systems Biology Reconstruction of Diabetic Bone Marrow Dysfunction**|Paolo Madeddu et.al.|[2610.13721](https://arxiv.org/abs/2610.13721)|null|
 |**2026-10-09**|**Neural Polar Codes for Source Coding**|Bashar Huleihel et.al.|[2610.13554](https://arxiv.org/abs/2610.13554)|null|
@@ -922,6 +927,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-10**|**Strong Gaussian Approximation of Constant-Learning-Rate SGD: Bias and Trajectory Inference**|Joseph Keslin et.al.|[2610.14567](https://arxiv.org/abs/2610.14567)|null|
 |**2026-10-09**|**PhySeqNet: physics-informed fluorescent foci detection for BARseq spatial transcriptomics**|Neha Goswami et.al.|[2610.13779](https://arxiv.org/abs/2610.13779)|null|
 |**2026-10-08**|**Data-Driven Free-Energy Learning from Trajectories via Structure-Preserving Exponential Time Differencing**|Wenshuai Hu et.al.|[2610.11931](https://arxiv.org/abs/2610.11931)|null|
 |**2026-10-08**|**Finsler Flow Matching: Dynamics-Aware Geodesic Interpolation for Single-Snapshot Trajectory Inference**|Niklas Canova et.al.|[2610.11318](https://arxiv.org/abs/2610.11318)|null|
@@ -1085,6 +1091,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-10**|**Exact Phase-Type Point Processes for Certified Measurement and Prediction of Event Streams**|Sayak Dutta et.al.|[2610.14948](https://arxiv.org/abs/2610.14948)|null|
 |**2026-10-09**|**VQIL: Visible Quantum Interference Learning for Perturbation Response Ranking on Graphs**|Seokjun Lee et.al.|[2610.13689](https://arxiv.org/abs/2610.13689)|null|
 |**2026-10-07**|**Cluster-Robust Prediction-Powered Inference**|David Broska et.al.|[2610.09601](https://arxiv.org/abs/2610.09601)|null|
 |**2026-10-06**|**Convex-Concave Reinforcement Learning**|Shripad V. Deshmukh et.al.|[2610.09108](https://arxiv.org/abs/2610.09108)|null|
@@ -1305,6 +1312,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-10**|**Predicting Cognitive Tasks from Single-Channel EEG through Task-Semantic Alignment**|Ryota Kanai et.al.|[2610.15104](https://arxiv.org/abs/2610.15104)|null|
+|**2026-10-10**|**Anchors Enhance Controllability and Reasoning of Diffusion Language Models**|Feiyu Qu et.al.|[2610.15097](https://arxiv.org/abs/2610.15097)|null|
+|**2026-10-10**|**Compositional Average Velocity Modeling for Efficient Diffusion Offline Reinforcement Learning**|Thanh Nguyen et.al.|[2610.14941](https://arxiv.org/abs/2610.14941)|null|
+|**2026-10-10**|**Verify, Act, Distill: Turning Test-Time Compute into Test-Time Adaptation for Vision-Language-Action Models**|Kaneyoshi Hiratsuka et.al.|[2610.14885](https://arxiv.org/abs/2610.14885)|null|
+|**2026-10-10**|**Learning Dynamic Grasping**|Nga Kiu Kelly Ho et.al.|[2610.14848](https://arxiv.org/abs/2610.14848)|null|
+|**2026-10-10**|**YOUDrive: Driving Style as a Composable Direction for End-to-End Autonomous Driving**|Guantian Zheng et.al.|[2610.14802](https://arxiv.org/abs/2610.14802)|null|
+|**2026-10-10**|**PRISM: Precision Forcing for Generalist Vision-Language-Action Policies**|Chenghao Yue et.al.|[2610.14704](https://arxiv.org/abs/2610.14704)|null|
+|**2026-10-10**|**AlignAudio: A Unified Dual-Alignment Framework for Noise-Robust Speech-Conditioned Generation**|Yixuan Li et.al.|[2610.14697](https://arxiv.org/abs/2610.14697)|null|
+|**2026-10-10**|**AcrossVAM2.0: Conflict-Aware Point Supervision for Parameter-Efficient Video Diffusion Adaptation**|Nan Wu et.al.|[2610.14693](https://arxiv.org/abs/2610.14693)|null|
+|**2026-10-10**|**Flow-Support-Weighted Proposals for Test-Time Verified VLA Policies**|Chen Zhao et.al.|[2610.14588](https://arxiv.org/abs/2610.14588)|null|
 |**2026-10-09**|**Noise Space Learning for VLA Adaptation**|Junjie Lu et.al.|[2610.13943](https://arxiv.org/abs/2610.13943)|null|
 |**2026-10-09**|**Where to Look Matters: Rethinking Sub-Volume Sampling in 3D Medical Self-supervised Learning**|Junkai Liu et.al.|[2610.13915](https://arxiv.org/abs/2610.13915)|null|
 |**2026-10-09**|**Spanning Diffusion and Flow-based Posterior Sampling via Exact Gaussian Conditioning**|Teo Deveney et.al.|[2610.13812](https://arxiv.org/abs/2610.13812)|null|
@@ -2243,6 +2260,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-10**|**ScienceBuddy-PV: A Verifier-Governed Recursive Improvement Protocol for Panvascular Intervention Research**|Lingsen You et.al.|[2610.14523](https://arxiv.org/abs/2610.14523)|null|
+|**2026-10-09**|**Speech event detector: Timestamped detection of non-verbal vocalizations and background sounds for rich speech transcription**|Ayush Kumar Bar et.al.|[2610.14232](https://arxiv.org/abs/2610.14232)|null|
+|**2026-10-09**|**Culture in the Code: Anthropological Concepts Decoding AI's Hidden Assumptions**|Sonja Schmer-Galunder et.al.|[2610.14203](https://arxiv.org/abs/2610.14203)|null|
 |**2026-10-09**|**Artificial Intelligence-Assisted Systems Biology Reconstruction of Diabetic Bone Marrow Dysfunction**|Paolo Madeddu et.al.|[2610.13721](https://arxiv.org/abs/2610.13721)|null|
 |**2026-10-09**|**The AI Side of the Human-AI Companion Relationship: Contributions to Users' Mental Models**|Richard A. Fabes et.al.|[2610.12891](https://arxiv.org/abs/2610.12891)|null|
 |**2026-10-08**|**U4RASD at KnowledgeGraphEval-2026: Ontology-Constrained Encoder and LLM Systems for Arabic Relation Extraction**|Ahmad Abbas et.al.|[2610.12742](https://arxiv.org/abs/2610.12742)|null|
@@ -2759,6 +2779,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-10**|**Region Aware Squeeze-and-Excitation Networks for Image Segmentation**|Jack Roberts et.al.|[2610.15079](https://arxiv.org/abs/2610.15079)|null|
+|**2026-10-10**|**Graphene-Confined Growth of Few-Layer PtSe2 via One-Step Selenization**|Timea Ema Krajčovičová et.al.|[2610.15022](https://arxiv.org/abs/2610.15022)|null|
+|**2026-10-10**|**GaborFlow: Hardware-Software Co-Optimization of Gabor Filter Accelerator Design**|Priyanka Agarwal et.al.|[2610.15003](https://arxiv.org/abs/2610.15003)|null|
+|**2026-10-10**|**AD-GS: Anatomical Density-guided 3D Gaussian Splatting for Sparse-View Dental CBCT Reconstruction**|Zonglin Li et.al.|[2610.14963](https://arxiv.org/abs/2610.14963)|null|
+|**2026-10-10**|**Investigation on Thermal Stability of Epi-GeSn Directly on Si (001)**|Tharundev V et.al.|[2610.14947](https://arxiv.org/abs/2610.14947)|null|
+|**2026-10-10**|**Text-Guided Medical Image Segmentation via Residual Aggregation and Dense Alignment Representations**|Jie Gui et.al.|[2610.14944](https://arxiv.org/abs/2610.14944)|null|
+|**2026-10-10**|**Spiral Edge States in Topological 2D Sb2Te3 Crystals**|Timothy Carlson et.al.|[2610.14905](https://arxiv.org/abs/2610.14905)|null|
+|**2026-10-10**|**Contrastive Linearized Laplace: Loss Geometry, Valid Repairs, and Reliable Cores**|Francisco J. Sáez-Maldonado et.al.|[2610.14875](https://arxiv.org/abs/2610.14875)|null|
+|**2026-10-10**|**Selective faceting induced by Hexagonal Boron Nitride on curved Platinum substrate**|Alaa Mohammed Idris Bakhit et.al.|[2610.14825](https://arxiv.org/abs/2610.14825)|null|
+|**2026-10-10**|**TAG: Calibrating SAM3 for Universal Image Segmentation without Dense Supervision**|Hao Zhu et.al.|[2610.14651](https://arxiv.org/abs/2610.14651)|null|
 |**2026-10-09**|**Hide and Seek: HIDE Concepts to SEEK explanations for black box models**|Bhanu Tokas et.al.|[2610.13935](https://arxiv.org/abs/2610.13935)|null|
 |**2026-10-09**|**Where to Look Matters: Rethinking Sub-Volume Sampling in 3D Medical Self-supervised Learning**|Junkai Liu et.al.|[2610.13915](https://arxiv.org/abs/2610.13915)|null|
 |**2026-10-09**|**Doubly Metastable Synthesis for Accelerated Quantum Materials Discovery**|Kyuho Lee et.al.|[2610.13859](https://arxiv.org/abs/2610.13859)|null|
