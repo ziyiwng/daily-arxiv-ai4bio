@@ -2,16 +2,22 @@
 layout: default
 ---
 
-## Updated on 2026.10.14
+## Updated on 2026.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-13**|**ProTok: Unified Protein Tokenization via Modular Multi-Codebook Quantization**|Romain Hardy et.al.|[2610.18481](https://arxiv.org/abs/2610.18481)|null|
+|**2026-10-13**|**PROTEAN: Beyond De Novo Generation - Can LLM Agents Perform Text-Guided Protein Structure Editing?**|Encheng Su et.al.|[2610.17765](https://arxiv.org/abs/2610.17765)|null|
+|**2026-10-12**|**Calibrating AlphaFold confidence scores for interface quality**|Sagyndyk Sagadinov et.al.|[2610.17108](https://arxiv.org/abs/2610.17108)|null|
+|**2026-10-12**|**Multi-Objective Amortized CDRH3 Sequence Sampling Diversifies Promising Antibody Candidates**|Joseph D. Viviano et.al.|[2610.16920](https://arxiv.org/abs/2610.16920)|null|
+|**2026-10-12**|**The Bell Boundary of Shared Representations**|Yang Wu et.al.|[2610.16828](https://arxiv.org/abs/2610.16828)|null|
+|**2026-10-12**|**Heterogeneous Agentic Coevolution**|Wenqian Ye et.al.|[2610.16078](https://arxiv.org/abs/2610.16078)|null|
 |**2026-10-09**|**Multimodal Co-Generation With Continuous Bitstream Diffusion**|Georgios Batzolis et.al.|[2610.14349](https://arxiv.org/abs/2610.14349)|null|
 |**2026-10-09**|**UGME: A python package for non-Markovian protein folding dynamics**|Anthony J. Dominic et.al.|[2610.14234](https://arxiv.org/abs/2610.14234)|null|
-|**2026-10-09**|**Designing Protein Structures from Natural Language**|Joseph Lee et.al.|[2610.13917](https://arxiv.org/abs/2610.13917)|null|
+|**2026-10-13**|**Designing Protein Structures from Natural Language**|Joseph Lee et.al.|[2610.13917](https://arxiv.org/abs/2610.13917)|null|
 |**2026-10-08**|**La-Ribo: RNA Co-Design via Geometry-Latent Flow Matching**|Runze Ma et.al.|[2610.12236](https://arxiv.org/abs/2610.12236)|null|
 |**2026-10-08**|**legoESM: a modular, differentiable, multiscale, AI-ready Earth system model built with AI agents**|Pierre Gentine et.al.|[2610.11883](https://arxiv.org/abs/2610.11883)|null|
 |**2026-10-07**|**De novo design of monoclonal and bispecific antibodies with OFAntibody**| Valhalla Team et.al.|[2610.09548](https://arxiv.org/abs/2610.09548)|null|
@@ -285,6 +291,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-12**|**PRAISE: A Reproducible Workflow for Non-Programmer Scientists to Implement Published AI Models**|Max Achterweust et.al.|[2610.16980](https://arxiv.org/abs/2610.16980)|null|
 |**2026-09-28**|**Waggle: Learning One Anonymous Local Law for Self-Organizing LLM Swarms**|Mingxi Zou et.al.|[2609.34136](https://arxiv.org/abs/2609.34136)|null|
 |**2026-09-27**|**ANTMAN: Adaptive Need Tracking for Multi-Agent Navigation in Large Information Spaces**|Jerry Wang et.al.|[2609.33326](https://arxiv.org/abs/2609.33326)|null|
 |**2026-09-21**|**Decoding enzyme-substrate interaction topology reveals principles underlying catalytic efficiency and mutational outcomes**|Weiren Zhao et.al.|[2609.24157](https://arxiv.org/abs/2609.24157)|null|
@@ -324,6 +331,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-13**|**PROTEAN: Beyond De Novo Generation - Can LLM Agents Perform Text-Guided Protein Structure Editing?**|Encheng Su et.al.|[2610.17765](https://arxiv.org/abs/2610.17765)|null|
+|**2026-10-12**|**Can a Frontier VLM Serve as a Robot Policy for Memory-Dependent Manipulation?**|Jack B. Jedlicki et.al.|[2610.17350](https://arxiv.org/abs/2610.17350)|null|
+|**2026-10-12**|**Multi-Objective Amortized CDRH3 Sequence Sampling Diversifies Promising Antibody Candidates**|Joseph D. Viviano et.al.|[2610.16920](https://arxiv.org/abs/2610.16920)|null|
 |**2026-10-10**|**Joint Discrete and SE(3) Diffusion for Protein Interface Design**|Zhenqiao Song et.al.|[2610.14699](https://arxiv.org/abs/2610.14699)|null|
 |**2026-10-07**|**De novo design of monoclonal and bispecific antibodies with OFAntibody**| Valhalla Team et.al.|[2610.09548](https://arxiv.org/abs/2610.09548)|null|
 |**2026-10-06**|**SCOPE: Certified Theorem Proving with a Language Model as the Policy Planner**|Hanchao Zhou et.al.|[2610.08319](https://arxiv.org/abs/2610.08319)|null|
@@ -406,6 +416,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-13**|**HULK: An Efficient Algorithm for Enabling Fast Bulk Bitwise Operations on Homomorphically Encrypted Data**|Mayank Kabra et.al.|[2610.18391](https://arxiv.org/abs/2610.18391)|null|
+|**2026-10-13**|**Spatial Kernel Restricted Canonical Correlation Analysis: Population Targets, Identifiability, and Stability**|Zhen Miao et.al.|[2610.17830](https://arxiv.org/abs/2610.17830)|null|
+|**2026-10-13**|**Understanding Gene Expression-to-Image Learning: Spatial Structure and Information Fidelity**|Xiaoqing Lian et.al.|[2610.17699](https://arxiv.org/abs/2610.17699)|null|
+|**2026-10-12**|**Mixture of GFlowNets**|Omar G. Younis et.al.|[2610.17007](https://arxiv.org/abs/2610.17007)|null|
+|**2026-10-12**|**CellChain: Benchmarking Cross-Scale Evidence Use for Perturbation Reasoning**|Xue Xia et.al.|[2610.16346](https://arxiv.org/abs/2610.16346)|null|
+|**2026-10-12**|**CloneOT: predicting clone-specific perturbation responses with lineage-supervised neural inverse optimal transport**|Yanshuo Chen et.al.|[2610.16093](https://arxiv.org/abs/2610.16093)|null|
+|**2026-10-12**|**A 4-Qubit Variational Quantum Classifier for Sequence-Specific Classification of DNMT3A and DNMT3B Flanking Methylation Preferences**|Murat Isik et.al.|[2610.15998](https://arxiv.org/abs/2610.15998)|null|
+|**2026-10-11**|**What DNA Foundation Models Learn Beyond Sequence Composition**|Vincenzo Yuto Civale et.al.|[2610.15711](https://arxiv.org/abs/2610.15711)|null|
+|**2026-10-11**|**Training-Data Extraction from Genomic Language Models**|Tianhao Mao et.al.|[2610.15396](https://arxiv.org/abs/2610.15396)|null|
+|**2026-10-10**|**Homogeneity and heterogeneity of functional element composition of genome units across human and seven model organisms**|Yanying Wu et.al.|[2610.15182](https://arxiv.org/abs/2610.15182)|null|
 |**2026-10-10**|**Metric-Driven Reinforcement Learning for Object Hallucination Reduction in LVLM-Based Image Captioning**|Thanh Nguyen et.al.|[2610.14976](https://arxiv.org/abs/2610.14976)|null|
 |**2026-10-10**|**manylp: reproducible, exact, and batched linear programming for genome-scale dynamic flux balance analysis**|Fabio Cumbo et.al.|[2610.14566](https://arxiv.org/abs/2610.14566)|null|
 |**2026-10-09**|**When VLMs Destroy What They Know: Spatial Representations Fall Below Lexical Priors**|Shubh Garg et.al.|[2610.13910](https://arxiv.org/abs/2610.13910)|null|
@@ -927,6 +947,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-13**|**MIST: Multi-Scale Spatial Context for Gene Expression Prediction from Histology**|Koushik Howlader et.al.|[2610.18769](https://arxiv.org/abs/2610.18769)|null|
+|**2026-10-13**|**Understanding Gene Expression-to-Image Learning: Spatial Structure and Information Fidelity**|Xiaoqing Lian et.al.|[2610.17699](https://arxiv.org/abs/2610.17699)|null|
+|**2026-10-12**|**MP-MNCA: Morphology-Prior Masked Neighbor Cross-Attention for Efficient Spatial Domain Identification**|Sidharthan Sivacoumar Chitra et.al.|[2610.16212](https://arxiv.org/abs/2610.16212)|null|
 |**2026-10-10**|**Strong Gaussian Approximation of Constant-Learning-Rate SGD: Bias and Trajectory Inference**|Joseph Keslin et.al.|[2610.14567](https://arxiv.org/abs/2610.14567)|null|
 |**2026-10-09**|**PhySeqNet: physics-informed fluorescent foci detection for BARseq spatial transcriptomics**|Neha Goswami et.al.|[2610.13779](https://arxiv.org/abs/2610.13779)|null|
 |**2026-10-08**|**Data-Driven Free-Energy Learning from Trajectories via Structure-Preserving Exponential Time Differencing**|Wenshuai Hu et.al.|[2610.11931](https://arxiv.org/abs/2610.11931)|null|
@@ -1091,6 +1114,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-13**|**Mining Correlated Motifs with Wildcards in PPI Networks: Exact and Optimal**|Lucas P. Oliveira et.al.|[2610.17958](https://arxiv.org/abs/2610.17958)|null|
 |**2026-10-10**|**Exact Phase-Type Point Processes for Certified Measurement and Prediction of Event Streams**|Sayak Dutta et.al.|[2610.14948](https://arxiv.org/abs/2610.14948)|null|
 |**2026-10-09**|**VQIL: Visible Quantum Interference Learning for Perturbation Response Ranking on Graphs**|Seokjun Lee et.al.|[2610.13689](https://arxiv.org/abs/2610.13689)|null|
 |**2026-10-07**|**Cluster-Robust Prediction-Powered Inference**|David Broska et.al.|[2610.09601](https://arxiv.org/abs/2610.09601)|null|
@@ -1312,6 +1336,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-13**|**Dog-Breed Text-to-image Flow Matching from Pretraining to Fine-Tuning on 4 Consumer GPUs**|Reyhaneh Esmailizadeh et.al.|[2610.18870](https://arxiv.org/abs/2610.18870)|null|
+|**2026-10-13**|**PixelMoE: Scaling Pixel-Space Diffusion with LLM-Style Mixture-of-Experts**|Ruixiao Dong et.al.|[2610.18857](https://arxiv.org/abs/2610.18857)|null|
+|**2026-10-13**|**Interaction Latents as Actions for Contact-Rich Manipulation**|Yuhang Zheng et.al.|[2610.18855](https://arxiv.org/abs/2610.18855)|null|
+|**2026-10-13**|**Scaling Online Optimal Transport Minibatches for Flow Matching**|Peter Chen et.al.|[2610.18838](https://arxiv.org/abs/2610.18838)|null|
+|**2026-10-13**|**EqC: Equilibrium Energy Control for Introspective Lifelong Robot Learning**|Haodong Yang et.al.|[2610.18790](https://arxiv.org/abs/2610.18790)|null|
+|**2026-10-13**|**Deterministic Prediction as Global Velocity: Flow Matching for Probabilistic Time-Series Forecast**|Jiajing Hu et.al.|[2610.18621](https://arxiv.org/abs/2610.18621)|null|
+|**2026-10-13**|**Euclidean Distance-Based Flow Matching**|Paul-Henrik Heilmann et.al.|[2610.18534](https://arxiv.org/abs/2610.18534)|null|
+|**2026-10-13**|**DR-VLA: Learning Human-Like Quadruped Navigation from Egocentric Web Videos via Domain-Invariant Scene Representations**|Jun Tian et.al.|[2610.18373](https://arxiv.org/abs/2610.18373)|null|
+|**2026-10-13**|**Preliminary Exploration of Large Models Based on Self-Supervised Learning for Health Monitoring of Power Electronic Converters**|Xinyuan Liao et.al.|[2610.18138](https://arxiv.org/abs/2610.18138)|null|
+|**2026-10-13**|**ForeTac: Predictive Contact Guidance for Generative Robot Policies**|Zhiyuan Chen et.al.|[2610.18118](https://arxiv.org/abs/2610.18118)|null|
 |**2026-10-10**|**Predicting Cognitive Tasks from Single-Channel EEG through Task-Semantic Alignment**|Ryota Kanai et.al.|[2610.15104](https://arxiv.org/abs/2610.15104)|null|
 |**2026-10-10**|**Anchors Enhance Controllability and Reasoning of Diffusion Language Models**|Feiyu Qu et.al.|[2610.15097](https://arxiv.org/abs/2610.15097)|null|
 |**2026-10-10**|**Compositional Average Velocity Modeling for Efficient Diffusion Offline Reinforcement Learning**|Thanh Nguyen et.al.|[2610.14941](https://arxiv.org/abs/2610.14941)|null|
@@ -2260,6 +2294,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-13**|**SMI: Ontology-Grounded Semantic IDs for Hierarchy-Aware Medical Concept Representation**|Ziyang Song et.al.|[2610.18672](https://arxiv.org/abs/2610.18672)|null|
+|**2026-10-13**|**DTScribe: Generating Models for Digital Twin Reporting using Local Large Language Models**|Kérian Fiter et.al.|[2610.18635](https://arxiv.org/abs/2610.18635)|null|
+|**2026-10-13**|**ProTok: Unified Protein Tokenization via Modular Multi-Codebook Quantization**|Romain Hardy et.al.|[2610.18481](https://arxiv.org/abs/2610.18481)|null|
+|**2026-10-13**|**The influence of decay in dynamic models of gene regulatory networks**|Oleksandr Pokutnyi et.al.|[2610.18261](https://arxiv.org/abs/2610.18261)|null|
+|**2026-10-13**|**Neuro-Symbolic Graph Transformers for Hierarchical Intention Recognition from Multimodal Human Activity Sequences**|Farnaz Soleimani et.al.|[2610.18176](https://arxiv.org/abs/2610.18176)|null|
+|**2026-10-13**|**Computational framework NetBiF predicts and classifies steady-state bifurcations in biochemical systems via reaction network structure**|Al Jay Lan J. Alamin et.al.|[2610.18087](https://arxiv.org/abs/2610.18087)|null|
+|**2026-10-12**|**UMCR: Universal Medical Concept Recognition through Guideline Integration and Agentic Linking**|Fabrice Lamarche et.al.|[2610.17363](https://arxiv.org/abs/2610.17363)|null|
+|**2026-10-12**|**Bell's go theorem: regaining local causality with a new notion of realism**|Lorenzo Catani et.al.|[2610.16493](https://arxiv.org/abs/2610.16493)|null|
+|**2026-10-12**|**Ontology-Based Post-Coordinated Expression Assembly: from Clinical Narrative to Queryable Knowledge Graphs**|Johann Pignat et.al.|[2610.16474](https://arxiv.org/abs/2610.16474)|null|
+|**2026-10-12**|**DIGS: Distribution-Informed Gaussian Splatting for Training-Free Open-Vocabulary 3D Segmentation**|Zhifan Zeng et.al.|[2610.16177](https://arxiv.org/abs/2610.16177)|null|
 |**2026-10-10**|**ScienceBuddy-PV: A Verifier-Governed Recursive Improvement Protocol for Panvascular Intervention Research**|Lingsen You et.al.|[2610.14523](https://arxiv.org/abs/2610.14523)|null|
 |**2026-10-09**|**Speech event detector: Timestamped detection of non-verbal vocalizations and background sounds for rich speech transcription**|Ayush Kumar Bar et.al.|[2610.14232](https://arxiv.org/abs/2610.14232)|null|
 |**2026-10-09**|**Culture in the Code: Anthropological Concepts Decoding AI's Hidden Assumptions**|Sonja Schmer-Galunder et.al.|[2610.14203](https://arxiv.org/abs/2610.14203)|null|
@@ -2779,6 +2823,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-13**|**The Federated Tumor Segmentation and Classification (FeTS++) Challenge**|Wenyi Tang et.al.|[2610.18771](https://arxiv.org/abs/2610.18771)|null|
+|**2026-10-13**|**Direct correlation of intravoxel incoherent motion imaging based on implicit neural representations and histopathology in pediatric Wilms tumors: can it differentiate between subtypes?**|G. C. Arends et.al.|[2610.18728](https://arxiv.org/abs/2610.18728)|null|
+|**2026-10-13**|**CryoTracer: A Synthetic-to-Real System for Filament Instance Tracing in Cryo-EM**|Radosław Kuczbański et.al.|[2610.18696](https://arxiv.org/abs/2610.18696)|null|
+|**2026-10-13**|**Physics-Informed Deep Learning in Oncology**|Scindhiya Laxmi et.al.|[2610.18682](https://arxiv.org/abs/2610.18682)|null|
+|**2026-10-13**|**Dark state preparation in a zero-field-split molecular triplet**|Maria Pfahler et.al.|[2610.18661](https://arxiv.org/abs/2610.18661)|null|
+|**2026-10-13**|**Denoise X: Self-Supervised U-Net for Quantum Mottle Suppression in Chest Radiography**|Parth Giramkar et.al.|[2610.18556](https://arxiv.org/abs/2610.18556)|null|
+|**2026-10-13**|**Direct growth of crystalline spinel GaON films: A wide-bandgap mixed-anion semiconductor**|Baikui Li et.al.|[2610.18550](https://arxiv.org/abs/2610.18550)|null|
+|**2026-10-13**|**Substrate-controlled epitaxial-like growth and photochromic properties of yttrium oxyhydride thin films**|M. Zubkins et.al.|[2610.18448](https://arxiv.org/abs/2610.18448)|null|
+|**2026-10-13**|**Transition-Metal-Induced Uniaxial Anisotropy in YFe $_3$**|M. Nur Hasan et.al.|[2610.18303](https://arxiv.org/abs/2610.18303)|null|
+|**2026-10-13**|**Human-Inspired Asymmetric Collaboration for Dual-Student Semi-Supervised Medical Image Segmentation**|Huiyi Ren et.al.|[2610.18133](https://arxiv.org/abs/2610.18133)|null|
 |**2026-10-10**|**Region Aware Squeeze-and-Excitation Networks for Image Segmentation**|Jack Roberts et.al.|[2610.15079](https://arxiv.org/abs/2610.15079)|null|
 |**2026-10-10**|**Graphene-Confined Growth of Few-Layer PtSe2 via One-Step Selenization**|Timea Ema Krajčovičová et.al.|[2610.15022](https://arxiv.org/abs/2610.15022)|null|
 |**2026-10-10**|**GaborFlow: Hardware-Software Co-Optimization of Gabor Filter Accelerator Design**|Priyanka Agarwal et.al.|[2610.15003](https://arxiv.org/abs/2610.15003)|null|
