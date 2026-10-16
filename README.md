@@ -1,4 +1,4 @@
-## Updated on 2026.10.15
+## Updated on 2026.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-14**|**ReproBAIT: Can coding agents build their own biological AI tools?**|Shiv Muthupandiyan et.al.|[2610.19810](https://arxiv.org/abs/2610.19810)|null|
+|**2026-10-14**|**ProtModernBERT: Compute-Efficient Protein Language Modeling**|Alberto Martínez et.al.|[2610.19738](https://arxiv.org/abs/2610.19738)|null|
+|**2026-10-14**|**InstructPro2: Natural Language and Biological Grounding Guided De Novo Protein Design**|Charles Novak et.al.|[2610.19592](https://arxiv.org/abs/2610.19592)|null|
 |**2026-10-13**|**ProTok: Unified Protein Tokenization via Modular Multi-Codebook Quantization**|Romain Hardy et.al.|[2610.18481](https://arxiv.org/abs/2610.18481)|null|
 |**2026-10-13**|**PROTEAN: Beyond De Novo Generation - Can LLM Agents Perform Text-Guided Protein Structure Editing?**|Encheng Su et.al.|[2610.17765](https://arxiv.org/abs/2610.17765)|null|
 |**2026-10-12**|**Calibrating AlphaFold confidence scores for interface quality**|Sagyndyk Sagadinov et.al.|[2610.17108](https://arxiv.org/abs/2610.17108)|null|
@@ -298,7 +301,7 @@
 |**2026-01-08**|**Knowledge Distillation of a Protein Language Model Yields a Foundational Implicit Solvent Model**|Justin Airas et.al.|[2601.05388](http://arxiv.org/abs/2601.05388)|null|
 |**2026-01-07**|**Bayes-PD: Exploring a Sequence to Binding Bayesian Neural Network model trained on Phage Display data**|Ilann Amiaud-Plachy et.al.|[2601.03930](http://arxiv.org/abs/2601.03930)|null|
 
-<p align=right>(<a href=#updated-on-20261015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
 ## Enzyme Design & Prediction
 
@@ -340,12 +343,13 @@
 |**2025-11-29**|**EnzyCLIP: A Cross-Attention Dual Encoder Framework with Contrastive Learning for Predicting Enzyme Kinetic Constants**|Anas Aziz Khan et.al.|[2512.00379](http://arxiv.org/abs/2512.00379)|null|
 |**2025-11-24**|**Beyond Protein Language Models: An Agentic LLM Framework for Mechanistic Enzyme Design**|Bruno Jacob et.al.|[2511.19423](http://arxiv.org/abs/2511.19423)|null|
 
-<p align=right>(<a href=#updated-on-20261015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
 ## Antibody, Antigen & Vaccine
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-14**|**InstructPro2: Natural Language and Biological Grounding Guided De Novo Protein Design**|Charles Novak et.al.|[2610.19592](https://arxiv.org/abs/2610.19592)|null|
 |**2026-10-13**|**PROTEAN: Beyond De Novo Generation - Can LLM Agents Perform Text-Guided Protein Structure Editing?**|Encheng Su et.al.|[2610.17765](https://arxiv.org/abs/2610.17765)|null|
 |**2026-10-12**|**Can a Frontier VLM Serve as a Robot Policy for Memory-Dependent Manipulation?**|Jack B. Jedlicki et.al.|[2610.17350](https://arxiv.org/abs/2610.17350)|null|
 |**2026-10-12**|**Multi-Objective Amortized CDRH3 Sequence Sampling Diversifies Promising Antibody Candidates**|Joseph D. Viviano et.al.|[2610.16920](https://arxiv.org/abs/2610.16920)|null|
@@ -427,12 +431,15 @@
 |**2025-12-11**|**LLMs Can Assist with Proposal Selection at Large User Facilities**|Lijie Ding et.al.|[2512.10895](http://arxiv.org/abs/2512.10895)|null|
 |**2025-12-10**|**Exploring Protein Language Model Architecture-Induced Biases for Antibody Comprehension**|Mengren et.al.|[2512.09894](http://arxiv.org/abs/2512.09894)|null|
 
-<p align=right>(<a href=#updated-on-20261015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
 ## Genomics & Regulatory Sequence
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-14**|**RTAformer: Relation-Transition-Aware Transformer for Video Scene Graph Generation**|Jaeyeon Heo et.al.|[2610.20091](https://arxiv.org/abs/2610.20091)|null|
+|**2026-10-13**|**Deep learning-based virtual perturbation reveals increasing heterogeneity of gene regulatory responses with aging**|Yongjian He et.al.|[2610.19029](https://arxiv.org/abs/2610.19029)|null|
+|**2026-10-12**|**Physiology-Informed Sparse Identification of Dynamic Crop Models**|Corné Verburg et.al.|[2610.18920](https://arxiv.org/abs/2610.18920)|null|
 |**2026-10-13**|**HULK: An Efficient Algorithm for Enabling Fast Bulk Bitwise Operations on Homomorphically Encrypted Data**|Mayank Kabra et.al.|[2610.18391](https://arxiv.org/abs/2610.18391)|null|
 |**2026-10-13**|**Spatial Kernel Restricted Canonical Correlation Analysis: Population Targets, Identifiability, and Stability**|Zhen Miao et.al.|[2610.17830](https://arxiv.org/abs/2610.17830)|null|
 |**2026-10-13**|**Understanding Gene Expression-to-Image Learning: Spatial Structure and Information Fidelity**|Xiaoqing Lian et.al.|[2610.17699](https://arxiv.org/abs/2610.17699)|null|
@@ -960,16 +967,18 @@
 |**2026-01-12**|**Histopathology-centered Computational Evolution of Spatial Omics: Integration, Mapping, and Foundation Models**|Ninghui Hao et.al.|[2601.07826](http://arxiv.org/abs/2601.07826)|null|
 |**2026-01-12**|**Estimators for Substitution Rates in Genomes from Read Data**|Shiv Pratap Singh Rathore et.al.|[2601.07546](http://arxiv.org/abs/2601.07546)|null|
 
-<p align=right>(<a href=#updated-on-20261015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
 ## Single-cell & Spatial Multi-omics
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-14**|**Compound p-values for competition-based testing**|Junu Lee et.al.|[2610.20411](https://arxiv.org/abs/2610.20411)|null|
+|**2026-10-14**|**Neural Wasserstein Splines: Representation-Invariant Second-Order Priors for Trajectory Inference**|Amartya Banerjee et.al.|[2610.19878](https://arxiv.org/abs/2610.19878)|null|
 |**2026-10-13**|**MIST: Multi-Scale Spatial Context for Gene Expression Prediction from Histology**|Koushik Howlader et.al.|[2610.18769](https://arxiv.org/abs/2610.18769)|null|
 |**2026-10-13**|**Understanding Gene Expression-to-Image Learning: Spatial Structure and Information Fidelity**|Xiaoqing Lian et.al.|[2610.17699](https://arxiv.org/abs/2610.17699)|null|
 |**2026-10-12**|**MP-MNCA: Morphology-Prior Masked Neighbor Cross-Attention for Efficient Spatial Domain Identification**|Sidharthan Sivacoumar Chitra et.al.|[2610.16212](https://arxiv.org/abs/2610.16212)|null|
-|**2026-10-10**|**Strong Gaussian Approximation of Constant-Learning-Rate SGD: Bias and Trajectory Inference**|Joseph Keslin et.al.|[2610.14567](https://arxiv.org/abs/2610.14567)|null|
+|**2026-10-14**|**Strong Gaussian Approximation of Constant Learning Rate SGD: Bias and Trajectory Inference**|Joseph Keslin et.al.|[2610.14567](https://arxiv.org/abs/2610.14567)|null|
 |**2026-10-09**|**PhySeqNet: physics-informed fluorescent foci detection for BARseq spatial transcriptomics**|Neha Goswami et.al.|[2610.13779](https://arxiv.org/abs/2610.13779)|null|
 |**2026-10-08**|**Data-Driven Free-Energy Learning from Trajectories via Structure-Preserving Exponential Time Differencing**|Wenshuai Hu et.al.|[2610.11931](https://arxiv.org/abs/2610.11931)|null|
 |**2026-10-08**|**Finsler Flow Matching: Dynamics-Aware Geodesic Interpolation for Single-Snapshot Trajectory Inference**|Niklas Canova et.al.|[2610.11318](https://arxiv.org/abs/2610.11318)|null|
@@ -1129,12 +1138,13 @@
 |**2025-12-24**|**INSIGHT: Spatially resolved survival modelling from routine histology crosslinked with molecular profiling reveals prognostic epithelial-immune axes in stage II/III colorectal cancer**|Piotr Keller et.al.|[2512.22262](http://arxiv.org/abs/2512.22262)|null|
 |**2026-01-05**|**SpatialBench: Can Agents Analyze Real-World Spatial Biology Data?**|Kenny Workman et.al.|[2512.21907](http://arxiv.org/abs/2512.21907)|null|
 
-<p align=right>(<a href=#updated-on-20261015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
 ## Drug Discovery & Interaction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-13**|**PMO-Dock: Benchmarking Docking, Specificity, and Generalization in Molecular Optimization**|Gor Simonyan et.al.|[2610.19011](https://arxiv.org/abs/2610.19011)|null|
 |**2026-10-13**|**Mining Correlated Motifs with Wildcards in PPI Networks: Exact and Optimal**|Lucas P. Oliveira et.al.|[2610.17958](https://arxiv.org/abs/2610.17958)|null|
 |**2026-10-10**|**Exact Phase-Type Point Processes for Certified Measurement and Prediction of Event Streams**|Sayak Dutta et.al.|[2610.14948](https://arxiv.org/abs/2610.14948)|null|
 |**2026-10-09**|**VQIL: Visible Quantum Interference Learning for Perturbation Response Ranking on Graphs**|Seokjun Lee et.al.|[2610.13689](https://arxiv.org/abs/2610.13689)|null|
@@ -1353,12 +1363,22 @@
 |**2026-01-08**|**Surface-based Molecular Design with Multi-modal Flow Matching**|Fang Wu et.al.|[2601.04506](http://arxiv.org/abs/2601.04506)|null|
 |**2026-01-07**|**A Comprehensive Computational Framework for Materials Design, Ab Initio Modeling, and Molecular Docking**|Md Rakibul Karim Akanda et.al.|[2601.04186](http://arxiv.org/abs/2601.04186)|null|
 
-<p align=right>(<a href=#updated-on-20261015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
 ## Biological Generative & Foundation Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-14**|**VITAL: From Visual Motion to Precise Action**|Ao Liang et.al.|[2610.20604](https://arxiv.org/abs/2610.20604)|null|
+|**2026-10-14**|**Physical Time as a Missing Dimension of Robot Policy Memory Dynamics**|Yushen Liang et.al.|[2610.20524](https://arxiv.org/abs/2610.20524)|null|
+|**2026-10-14**|**When Do Discrete Actions Make Good Continuous Controllers?**|Zeji Yi et.al.|[2610.20429](https://arxiv.org/abs/2610.20429)|null|
+|**2026-10-14**|**ReAl: Refine neural operators via aligning dynamical flow**|Jing Xu et.al.|[2610.20369](https://arxiv.org/abs/2610.20369)|null|
+|**2026-10-14**|**Are We Overthinking One-Step Generation?**|Woobin Park et.al.|[2610.20331](https://arxiv.org/abs/2610.20331)|null|
+|**2026-10-14**|**Predicting Unseen Scientific Interactions: Conditional Flow Models Hallucinate Non-Additive Effects**|Sam Gijsen et.al.|[2610.20288](https://arxiv.org/abs/2610.20288)|null|
+|**2026-10-14**|**FlowSep-RF: Rectified Flow Matching for Single-Channel Radio-Frequency Signal Separation**|Mohamed Kamel et.al.|[2610.20269](https://arxiv.org/abs/2610.20269)|null|
+|**2026-10-14**|**Noise-Aware Lombard Speech Synthesis via Flow-GRPO for Intelligibility Optimization**|Zhaoyang Wang et.al.|[2610.20181](https://arxiv.org/abs/2610.20181)|null|
+|**2026-10-14**|**Dataset-Level Regularization for Joint-Embedding Self-Supervised Learning**|Konstantinos Almpanakis et.al.|[2610.20158](https://arxiv.org/abs/2610.20158)|null|
+|**2026-10-14**|**In-Context Batch Black-box Optimization via Flow Matching**|Quoc-Anh Hoang Nguyen et.al.|[2610.20138](https://arxiv.org/abs/2610.20138)|null|
 |**2026-10-13**|**Dog-Breed Text-to-image Flow Matching from Pretraining to Fine-Tuning on 4 Consumer GPUs**|Reyhaneh Esmailizadeh et.al.|[2610.18870](https://arxiv.org/abs/2610.18870)|null|
 |**2026-10-13**|**PixelMoE: Scaling Pixel-Space Diffusion with LLM-Style Mixture-of-Experts**|Ruixiao Dong et.al.|[2610.18857](https://arxiv.org/abs/2610.18857)|null|
 |**2026-10-13**|**Interaction Latents as Actions for Contact-Rich Manipulation**|Yuhang Zheng et.al.|[2610.18855](https://arxiv.org/abs/2610.18855)|null|
@@ -2313,12 +2333,16 @@
 |**2026-01-13**|**Contrastive and Multi-Task Learning on Noisy Brain Signals with Nonlinear Dynamical Signatures**|Sucheta Ghosh et.al.|[2601.08549](http://arxiv.org/abs/2601.08549)|null|
 |**2026-01-13**|**Reverse Flow Matching: A Unified Framework for Online Reinforcement Learning with Diffusion and Flow Policies**|Zeyang Li et.al.|[2601.08136](http://arxiv.org/abs/2601.08136)|null|
 
-<p align=right>(<a href=#updated-on-20261015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
 ## Systems Biology & Knowledge Graphs
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-14**|**Revise-TTS: A Non-Masking Refinement Framework for Masked Diffusion Models in Text-to-Speech**|Wanli Sun et.al.|[2610.19499](https://arxiv.org/abs/2610.19499)|null|
+|**2026-10-13**|**From Qualitative Text to Integrated Evidence: The Parallel-Then-Integrated (PTI) Procedure**|Elyas Irankhah et.al.|[2610.19164](https://arxiv.org/abs/2610.19164)|null|
+|**2026-10-13**|**Plant Memory: Technical Language Processing and a Verified Maintenance Ontology for Agent-Accessible Failure Knowledge from SAP PM Work Orders**|Akash Raj et.al.|[2610.19131](https://arxiv.org/abs/2610.19131)|null|
+|**2026-10-13**|**Deep learning-based virtual perturbation reveals increasing heterogeneity of gene regulatory responses with aging**|Yongjian He et.al.|[2610.19029](https://arxiv.org/abs/2610.19029)|null|
 |**2026-10-13**|**SMI: Ontology-Grounded Semantic IDs for Hierarchy-Aware Medical Concept Representation**|Ziyang Song et.al.|[2610.18672](https://arxiv.org/abs/2610.18672)|null|
 |**2026-10-13**|**DTScribe: Generating Models for Digital Twin Reporting using Local Large Language Models**|Kérian Fiter et.al.|[2610.18635](https://arxiv.org/abs/2610.18635)|null|
 |**2026-10-13**|**ProTok: Unified Protein Tokenization via Modular Multi-Codebook Quantization**|Romain Hardy et.al.|[2610.18481](https://arxiv.org/abs/2610.18481)|null|
@@ -2844,12 +2868,22 @@
 |**2026-01-12**|**Building Faculty Expertise Ontology using Protege: Enhancing Academic Library Research Services**|Snehasish Paul et.al.|[2601.07451](http://arxiv.org/abs/2601.07451)|null|
 |**2026-01-12**|**Einstein's Worries and Actual Physics: Beyond Pilot Waves**|Partha Ghose et.al.|[2601.07441](http://arxiv.org/abs/2601.07441)|null|
 
-<p align=right>(<a href=#updated-on-20261015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
 ## Medical Imaging & Evolution
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-14**|**Quantifying privacy risks in foundation model representations of brain MRI**|Imen Bajar et.al.|[2610.20494](https://arxiv.org/abs/2610.20494)|null|
+|**2026-10-14**|**Dynamic morphing of non-Euclidean active shells enabled by flutter under a steady stimulus**|Roberto Marchello et.al.|[2610.20330](https://arxiv.org/abs/2610.20330)|null|
+|**2026-10-14**|**Photoacoustic-guided reflection-mode wavefront shaping through dynamic biological tissue**|Xuan Liu et.al.|[2610.20237](https://arxiv.org/abs/2610.20237)|null|
+|**2026-10-14**|**Continual pretraining Prostate MRI ViT Encoder for task alignment**|Bilal A. Sidiqi et.al.|[2610.20217](https://arxiv.org/abs/2610.20217)|null|
+|**2026-10-14**|**GDBA-Net: A Gated Dual-Branch Adaptation of SAM2 for Robust Cross-Domain Nuclei Segmentation**|Biplab Poudel et.al.|[2610.20073](https://arxiv.org/abs/2610.20073)|null|
+|**2026-10-14**|**Interactive event-driven 4D-STEM with Timepix4 and live analytical ptychography**|Arno Annys et.al.|[2610.19978](https://arxiv.org/abs/2610.19978)|null|
+|**2026-10-14**|**Multimodal Medical Image Parsing with Task-Specific Low-Rank Adapters**|Taha Sabir et.al.|[2610.19901](https://arxiv.org/abs/2610.19901)|null|
+|**2026-10-14**|**MIPS: Mitigating Mode Collapse in Reinforcement Learning for Large Outcome Spaces**|Armaan Sandhu et.al.|[2610.19457](https://arxiv.org/abs/2610.19457)|null|
+|**2026-10-14**|**EpiGuard: An Autonomous Infectious-Disease Early Warning Agent Platform**|Tonglong Wei et.al.|[2610.19396](https://arxiv.org/abs/2610.19396)|null|
+|**2026-10-13**|**Adaptive Computation with Conformal Certification**|Shehtab Zaman et.al.|[2610.19189](https://arxiv.org/abs/2610.19189)|null|
 |**2026-10-13**|**The Federated Tumor Segmentation and Classification (FeTS++) Challenge**|Wenyi Tang et.al.|[2610.18771](https://arxiv.org/abs/2610.18771)|null|
 |**2026-10-13**|**Direct correlation of intravoxel incoherent motion imaging based on implicit neural representations and histopathology in pediatric Wilms tumors: can it differentiate between subtypes?**|G. C. Arends et.al.|[2610.18728](https://arxiv.org/abs/2610.18728)|null|
 |**2026-10-13**|**CryoTracer: A Synthetic-to-Real System for Filament Instance Tracing in Cryo-EM**|Radosław Kuczbański et.al.|[2610.18696](https://arxiv.org/abs/2610.18696)|null|
@@ -3929,7 +3963,7 @@
 |**2026-01-16**|**Self-learned representation-guided latent diffusion model for breast cancer classification in deep ultraviolet whole surface images**|Pouya Afshin et.al.|[2601.10917](http://arxiv.org/abs/2601.10917)|null|
 |**2026-01-15**|**Combining laser ablation and Sol-Gel techniques for the synthesis of nanostructured organic-inorganic matrices**|E. Haro-Poniatowski et.al.|[2601.10889](http://arxiv.org/abs/2601.10889)|null|
 
-<p align=right>(<a href=#updated-on-20261015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/ai4bio-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/ai4bio-arxiv-daily/graphs/contributors
