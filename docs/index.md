@@ -26,11 +26,11 @@ layout: default
 |**2026-10-13**|**Designing Protein Structures from Natural Language**|Joseph Lee et.al.|[2610.13917](https://arxiv.org/abs/2610.13917)|null|
 |**2026-10-08**|**La-Ribo: RNA Co-Design via Geometry-Latent Flow Matching**|Runze Ma et.al.|[2610.12236](https://arxiv.org/abs/2610.12236)|null|
 |**2026-10-08**|**legoESM: a modular, differentiable, multiscale, AI-ready Earth system model built with AI agents**|Pierre Gentine et.al.|[2610.11883](https://arxiv.org/abs/2610.11883)|null|
-|**2026-10-07**|**De novo design of monoclonal and bispecific antibodies with OFAntibody**| Valhalla Team et.al.|[2610.09548](https://arxiv.org/abs/2610.09548)|null|
+|**2026-10-07**|**De novo design of monoclonal and bispecific antibodies with OFAntibody**|Valhalla Team et.al.|[2610.09548](https://arxiv.org/abs/2610.09548)|null|
 |**2026-10-06**|**A Shortcut to Structure in AlphaFold 3**|Jonathan Feldman et.al.|[2610.08937](https://arxiv.org/abs/2610.08937)|null|
 |**2026-10-06**|**Multi-model ocean oxygen fields predicted by conditional diffusion models**|Linus Vogt et.al.|[2610.08523](https://arxiv.org/abs/2610.08523)|null|
 |**2026-10-06**|**Linear Fitness Subspace in Protein Language Models Enables Sample-Efficient Directed Evolution**|SiYuan Ma et.al.|[2610.07607](https://arxiv.org/abs/2610.07607)|null|
-|**2026-10-04**|**Inference-Time Projection for Physically Valid Biomolecular Diffusion Models**| Qurat-ul-ain et.al.|[2610.07037](https://arxiv.org/abs/2610.07037)|null|
+|**2026-10-04**|**Inference-Time Projection for Physically Valid Biomolecular Diffusion Models**|Qurat-ul-ain et.al.|[2610.07037](https://arxiv.org/abs/2610.07037)|null|
 |**2026-10-05**|**Valid Stopping in Adaptive Generator-Verifier Loops**|Mahmoud Hegazy et.al.|[2610.06432](https://arxiv.org/abs/2610.06432)|null|
 |**2026-10-05**|**TurboPairFormer: Fast and Stable Protein Folding Model Training with an Optimized Triangle Attention Kernel**|Yide Ran et.al.|[2610.05854](https://arxiv.org/abs/2610.05854)|null|
 |**2026-10-04**|**D-DOIT: Training-free Adaptation of Discrete Diffusion via Doob's h-Transform**|Jieke Wu et.al.|[2610.04938](https://arxiv.org/abs/2610.04938)|null|
@@ -342,7 +342,7 @@ layout: default
 |**2026-10-12**|**Can a Frontier VLM Serve as a Robot Policy for Memory-Dependent Manipulation?**|Jack B. Jedlicki et.al.|[2610.17350](https://arxiv.org/abs/2610.17350)|null|
 |**2026-10-12**|**Multi-Objective Amortized CDRH3 Sequence Sampling Diversifies Promising Antibody Candidates**|Joseph D. Viviano et.al.|[2610.16920](https://arxiv.org/abs/2610.16920)|null|
 |**2026-10-10**|**Joint Discrete and SE(3) Diffusion for Protein Interface Design**|Zhenqiao Song et.al.|[2610.14699](https://arxiv.org/abs/2610.14699)|null|
-|**2026-10-07**|**De novo design of monoclonal and bispecific antibodies with OFAntibody**| Valhalla Team et.al.|[2610.09548](https://arxiv.org/abs/2610.09548)|null|
+|**2026-10-07**|**De novo design of monoclonal and bispecific antibodies with OFAntibody**|Valhalla Team et.al.|[2610.09548](https://arxiv.org/abs/2610.09548)|null|
 |**2026-10-15**|**SCOPE: Certified Theorem Proving with a Language Model as the Policy Planner**|Hanchao Zhou et.al.|[2610.08319](https://arxiv.org/abs/2610.08319)|null|
 |**2026-10-05**|**Evaluate the Stack, Not the Layer: Do Deterministic and LLM Gates for Agent Actions Fail Independently?**|Chenglin Yang et.al.|[2610.07359](https://arxiv.org/abs/2610.07359)|null|
 |**2026-10-05**|**Synthetic Cultural Agents from Aggregate Anchors**|Augusto Gonzalez-Bonorino et.al.|[2610.06562](https://arxiv.org/abs/2610.06562)|null|
