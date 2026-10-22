@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.10.21
+## Updated on 2026.10.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-19**|**Stronger artificial intelligence breakthroughs hasten their own exhaustion**|Beichen Lu et.al.|[2610.27296](https://arxiv.org/abs/2610.27296)|null|
+|**2026-10-19**|**HierDTA: Hierarchical Structure-Aware Representation Learning for Drug--Target Affinity Prediction**|Huangchao Xu et.al.|[2610.27001](https://arxiv.org/abs/2610.27001)|null|
 |**2026-10-19**|**recAMPLIFY: Large-Scale Pretraining of Recursive Protein Language Models**|Saurav Jha et.al.|[2610.26747](https://arxiv.org/abs/2610.26747)|null|
 |**2026-10-19**|**Parallel Language Models via Variational Decoding**|Felix Draxler et.al.|[2610.26693](https://arxiv.org/abs/2610.26693)|null|
 |**2026-10-19**|**The Effectiveness and Durability of Pretraining Data Filtering in Protein Language Models**|Aaron Maiwald et.al.|[2610.26651](https://arxiv.org/abs/2610.26651)|null|
@@ -438,7 +440,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-10-19**|**HGASurv: Hierarchical Granularity-Aware Integration for Multimodal Survival Prediction**|Peike Yu et.al.|[2610.26357](https://arxiv.org/abs/2610.26357)|null|
+|**2026-10-20**|**RECAP: Representation-Based Calibration with Amortized Pooling for Frequentist Simulation-Based Inference**|Runshi Tang et.al.|[2610.28332](https://arxiv.org/abs/2610.28332)|null|
+|**2026-10-20**|**BARRR: Bidimensional Augmented Reduced Rank Regression for Multi-View Multi-Cohort Data**|Jiuzhou Wang et.al.|[2610.27647](https://arxiv.org/abs/2610.27647)|null|
+|**2026-10-20**|**Secure Multimodal Federated Optimization via Hierarchical DNA-Based Key Management**|Yuping Yan et.al.|[2610.27644](https://arxiv.org/abs/2610.27644)|null|
+|**2026-10-19**|**Reading Between the Reads: A Decade On, Revisiting Sequencing Protocol Annotation in the Sequence Read Archive**|Jamie J. Alnasir et.al.|[2610.27331](https://arxiv.org/abs/2610.27331)|null|
+|**2026-10-19**|**VampPrior Unleashed**|Andrew A. Stirn et.al.|[2610.27322](https://arxiv.org/abs/2610.27322)|null|
+|**2026-10-19**|**SweepANN: A GPU-Accelerated Large-K Approximate Vector Search for Drug Discovery**|Zhenyu Zhang et.al.|[2610.27306](https://arxiv.org/abs/2610.27306)|null|
+|**2026-10-20**|**HGASurv: Hierarchical Granularity-Aware Multimodal Integration for Survival Prediction**|Peike Yu et.al.|[2610.26357](https://arxiv.org/abs/2610.26357)|null|
 |**2026-10-19**|**Distributions of metric $n$ -point invariants and applications to molecular evolution**|Michael Bleher et.al.|[2610.26070](https://arxiv.org/abs/2610.26070)|null|
 |**2026-10-19**|**HyperTaxa: Multiscale Genome Representations for Generalized Microbial Taxonomic Inference**|Akash Rao et.al.|[2610.25673](https://arxiv.org/abs/2610.25673)|null|
 |**2026-10-18**|**panvram: GPU-resident random access to a human pangenome cohort**|Yakiv Shavidze et.al.|[2610.25149](https://arxiv.org/abs/2610.25149)|null|
@@ -990,6 +998,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-20**|**Spatially Informed and Direction Sensitive Representation Learning for Spatial Transcriptomics**|Azim Dehghani Amirabad et.al.|[2610.28579](https://arxiv.org/abs/2610.28579)|null|
+|**2026-10-20**|**HistoLoop: Iterative Contextual Inference with a Looped Transformer for Histology-Based Spatial Gene Expression Prediction**|Ziang Liu et.al.|[2610.28339](https://arxiv.org/abs/2610.28339)|null|
+|**2026-10-20**|**VGL-stGen: Learning a shared multimodal model for lung histology and spatial transcriptomics**|Haenara Shin et.al.|[2610.28266](https://arxiv.org/abs/2610.28266)|null|
+|**2026-10-20**|**TrajEvolve: Trajectory Evolution for Reinforcement Learning with Hindsight Credit Assignment**|Yi Wen et.al.|[2610.28060](https://arxiv.org/abs/2610.28060)|null|
+|**2026-10-19**|**REST: Reliability-Guided Spatial Transcriptomics Supervision for Gene Expression Prediction from Histopathological HE-Stained Images**|Lanfeng Zhong et.al.|[2610.26988](https://arxiv.org/abs/2610.26988)|null|
 |**2026-10-19**|**GeoSplit: Selective Edge--Server Map Acquisition for Cross-User Travel-Mode Recognition**|Zepu Wang et.al.|[2610.26707](https://arxiv.org/abs/2610.26707)|null|
 |**2026-10-19**|**PoSTCache: From Forecasting to Postdictive Smoothing for Revisable Diffusion Caching**|Liwei Lan et.al.|[2610.25664](https://arxiv.org/abs/2610.25664)|null|
 |**2026-10-16**|**Dynamic Neural Optimal Transport for Subset Alignment**|Austin J. Brockmeier et.al.|[2610.24258](https://arxiv.org/abs/2610.24258)|null|
@@ -1164,6 +1177,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-19**|**HierDTA: Hierarchical Structure-Aware Representation Learning for Drug--Target Affinity Prediction**|Huangchao Xu et.al.|[2610.27001](https://arxiv.org/abs/2610.27001)|null|
 |**2026-10-19**|**Bayesian Analysis of Inclusion Transaction Fee Mechanisms with Multiple Concurrent Proposers**|Jason Milionis et.al.|[2610.26570](https://arxiv.org/abs/2610.26570)|null|
 |**2026-10-17**|**Generative Retrieval for Reverse Target Fishing with a Proteome-Scale Benchmark**|Zhichao Deng et.al.|[2610.24458](https://arxiv.org/abs/2610.24458)|null|
 |**2026-10-16**|**"You" Is Not Toxic: How LLM Labelers Rewrite the Web's Conversation Laws**|Liang Yue et.al.|[2610.23446](https://arxiv.org/abs/2610.23446)|null|
@@ -1393,6 +1407,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-20**|**UniWALM: Unified World Action Language Model for Embodied Robot Control**|Rahul Sajnani et.al.|[2610.28626](https://arxiv.org/abs/2610.28626)|null|
+|**2026-10-20**|**Large Flow Language Models**|Arnav Chavan et.al.|[2610.28559](https://arxiv.org/abs/2610.28559)|null|
+|**2026-10-20**|**LocaLeJEPA: Maximum Entropy Representations under Geometric Priors**|Kartik Tandon et.al.|[2610.28458](https://arxiv.org/abs/2610.28458)|null|
+|**2026-10-20**|**Perceives but Doesn't Brake: A Perception-Action Binding Gap in Reasoning Driving VLAs**|Matteo Cercola et.al.|[2610.28184](https://arxiv.org/abs/2610.28184)|null|
+|**2026-10-20**|**LoCA: Local Credit Assignment for Reinforcement Learning of Autoregressive Flow-Matching TTS**|Jie Liu et.al.|[2610.28035](https://arxiv.org/abs/2610.28035)|null|
+|**2026-10-20**|**Inverse domain uncertainty quantification in hemodynamics: sampling virtual patient cohorts under constraints**|Francesco Romor et.al.|[2610.27869](https://arxiv.org/abs/2610.27869)|null|
+|**2026-10-20**|**Multi-View Latent Action Pretraining for Cross-Embodiment Robot Learning from Videos**|Oliver Hausdörfer et.al.|[2610.27794](https://arxiv.org/abs/2610.27794)|null|
+|**2026-10-20**|**TokenFlow: Latent Token Rectified Flow Matching for 3D Point Cloud Generation**|Linhao Wang et.al.|[2610.27418](https://arxiv.org/abs/2610.27418)|null|
+|**2026-10-19**|**PerQ: Inverse Generative Modeling for Neural Image Compression via Quantization Error Compensation**|Tianhao Peng et.al.|[2610.27374](https://arxiv.org/abs/2610.27374)|null|
+|**2026-10-19**|**EmbodyHOI: Embodiment-Aware Generation of Hand-Object Interactions for Humanoid Dexterous Manipulation**|Chaitanya Chawla et.al.|[2610.27242](https://arxiv.org/abs/2610.27242)|null|
 |**2026-10-19**|**From Short Clips to Real-Time Streams: Identity-Aware Supervision and Context-Efficient Generation for Video Face Swapping**|Zekai Luo et.al.|[2610.26681](https://arxiv.org/abs/2610.26681)|null|
 |**2026-10-19**|**Dual-Scale Condition-Shift Editing for Robust Real-World Image Demoiréing**|Shiyang Zhou et.al.|[2610.26644](https://arxiv.org/abs/2610.26644)|null|
 |**2026-10-19**|**SleepPairNet: Learning Multimodal Pediatric Sleep Representations with Random-Pair Cross-Attention**|Saurav Raj Pandey et.al.|[2610.26628](https://arxiv.org/abs/2610.26628)|null|
@@ -2391,6 +2415,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-20**|**Semantic Observability for Autonomous Systems Diagnostics**|Jitendra Solanki et.al.|[2610.28611](https://arxiv.org/abs/2610.28611)|null|
+|**2026-10-20**|**Gated Prototype Transfer for Zero-Support Medical Vision Language Model**|Sumaiya Fazal et.al.|[2610.28350](https://arxiv.org/abs/2610.28350)|null|
+|**2026-10-20**|**SCODEL: Shared Canonical Ontology Definitions for Food Entity Linking and Ontology-Grounded Recipe Knowledge Graphs**|Nuhu Ibrahim et.al.|[2610.27637](https://arxiv.org/abs/2610.27637)|null|
+|**2026-10-19**|**Discrete Neural Interlingua for Ontology-Agnostic EHR Modeling**|Tong Ding et.al.|[2610.27047](https://arxiv.org/abs/2610.27047)|null|
 |**2026-10-19**|**A Semantic Knowledge Graph Construction Pipeline for Vehicle Intention Prediction in nuScenes**|Khaled Nowara et.al.|[2610.26528](https://arxiv.org/abs/2610.26528)|null|
 |**2026-10-19**|**Simulation-free approximate Bayesian computation for stochastic reaction networks**|Zekai Li et.al.|[2610.26361](https://arxiv.org/abs/2610.26361)|null|
 |**2026-10-19**|**A Pitfall in the Evaluation of Gene Perturbation Models**|George Panagopoulos et.al.|[2610.26267](https://arxiv.org/abs/2610.26267)|null|
@@ -2938,6 +2966,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-20**|**Correcting topographic artifacts in three-dimensional ToF-SIMS: A practical guide from data-only reconstruction to correlative AFM**|Jacob Shusterman et.al.|[2610.28593](https://arxiv.org/abs/2610.28593)|null|
+|**2026-10-20**|**Brain2Vec: A Self-Supervised 3D Foundation Model for Structural Brain MRI**|Spiros Maggioros et.al.|[2610.28411](https://arxiv.org/abs/2610.28411)|null|
+|**2026-10-20**|**A Multi-Agent Framework for Automated Machine Learning with Evidence-based Planning for Medical Image Analysis**|Yiqing Shen et.al.|[2610.28410](https://arxiv.org/abs/2610.28410)|null|
+|**2026-10-20**|**Convergent Performance, Divergent Mechanisms in LoRA-Adapted Vision Foundation Models for Brain MRI**|Cecilia Diana-Albelda et.al.|[2610.28255](https://arxiv.org/abs/2610.28255)|null|
+|**2026-10-20**|**Dramatic pressure-induced slowdown and the soft glassy rheology of water at 2D material interface**|Guilhem Mariette et.al.|[2610.28254](https://arxiv.org/abs/2610.28254)|null|
+|**2026-10-20**|**Turning-Point Impact Compromises the Biomechanical Integrity of Cortical Bone during Oscillating Sawing**|Han Wang et.al.|[2610.28234](https://arxiv.org/abs/2610.28234)|null|
+|**2026-10-20**|**Africa-Papers: A 10-Billion-Token Multi-Domain Academic Corpus for African Foundation Language Models**|Mich-Seth Owusu et.al.|[2610.28173](https://arxiv.org/abs/2610.28173)|null|
+|**2026-10-20**|**Reliability-Guided Vision-Language Decoding with Text-Aware Skip Refinement for Medical Image Segmentation**|Sivan Talaei et.al.|[2610.28118](https://arxiv.org/abs/2610.28118)|null|
+|**2026-10-20**|**LatticeRank: Spacing-Ranked Consistency for Native-Grid 3D Medical Image Segmentation**|Jingjia Yan et.al.|[2610.28091](https://arxiv.org/abs/2610.28091)|null|
+|**2026-10-20**|**Quantum Limits of Blind Superresolution Imaging**|Qiushuang Lian et.al.|[2610.28089](https://arxiv.org/abs/2610.28089)|null|
 |**2026-10-19**|**EpiLens: Lightweight RAG for Epidemiological Knowledge Acquisition**|Vincenzo Perri et.al.|[2610.26730](https://arxiv.org/abs/2610.26730)|null|
 |**2026-10-19**|**VoxLogicA2: A Spatial Model Checker for Neuro-symbolic Medical Imaging (extended version)**|Gina Belmonte et.al.|[2610.26626](https://arxiv.org/abs/2610.26626)|null|
 |**2026-10-19**|**Stabilization of Ferroelectric Domains via Interfacial Strain in HoFeO3- BaTiO3 Nanofiber Heterostructures for Enhanced Hybrid Energy Harvesting**|Smita Chaturvedi et.al.|[2610.26611](https://arxiv.org/abs/2610.26611)|null|
