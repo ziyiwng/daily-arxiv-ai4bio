@@ -378,7 +378,7 @@
 |**2026-10-16**|**Can a Frontier VLM Serve as a Robot Policy for Memory-Dependent Manipulation?**|Jack B. Jedlicki et.al.|[2610.17350](https://arxiv.org/abs/2610.17350)|null|
 |**2026-10-12**|**Multi-Objective Amortized CDRH3 Sequence Sampling Diversifies Promising Antibody Candidates**|Joseph D. Viviano et.al.|[2610.16920](https://arxiv.org/abs/2610.16920)|null|
 |**2026-10-10**|**Joint Discrete and SE(3) Diffusion for Protein Interface Design**|Zhenqiao Song et.al.|[2610.14699](https://arxiv.org/abs/2610.14699)|null|
-|**2026-10-07**|**De novo design of monoclonal and bispecific antibodies with OFAntibody**| Valhalla Team et.al.|[2610.09548](https://arxiv.org/abs/2610.09548)|null|
+|**2026-10-07**|**De novo design of monoclonal and bispecific antibodies with OFAntibody**|Valhalla Team et.al.|[2610.09548](https://arxiv.org/abs/2610.09548)|null|
 |**2026-10-15**|**SCOPE: Certified Theorem Proving with a Language Model as the Policy Planner**|Hanchao Zhou et.al.|[2610.08319](https://arxiv.org/abs/2610.08319)|null|
 |**2026-10-05**|**Evaluate the Stack, Not the Layer: Do Deterministic and LLM Gates for Agent Actions Fail Independently?**|Chenglin Yang et.al.|[2610.07359](https://arxiv.org/abs/2610.07359)|null|
 |**2026-10-05**|**Synthetic Cultural Agents from Aggregate Anchors**|Augusto Gonzalez-Bonorino et.al.|[2610.06562](https://arxiv.org/abs/2610.06562)|null|
@@ -3035,7 +3035,7 @@
 |**2026-10-22**|**A Visual Grounding Benchmark for Retinal OCT with Multimodal Large Language Models**|Ronald Fecso et.al.|[2610.31205](https://arxiv.org/abs/2610.31205)|null|
 |**2026-10-22**|**A General-Purpose Dual-Path Interaction Framework for Multi-View Medical Image Segmentation: Alleviating Data Volume Dependency in Small-Sample Regimes**|Shuhuan Wang et.al.|[2610.31065](https://arxiv.org/abs/2610.31065)|null|
 |**2026-10-22**|**Report the tolerance, not the count: exact phylogenetic distance deconvolution with incomplete references**|Haotian Tang et.al.|[2610.30776](https://arxiv.org/abs/2610.30776)|null|
-|**2026-10-22**|**GWDM: A Guided Wavelet Diffusion Model for Realistic Histopathology Image Generation**| Abdullah et.al.|[2610.30775](https://arxiv.org/abs/2610.30775)|null|
+|**2026-10-22**|**GWDM: A Guided Wavelet Diffusion Model for Realistic Histopathology Image Generation**|Abdullah et.al.|[2610.30775](https://arxiv.org/abs/2610.30775)|null|
 |**2026-10-21**|**Expandable Modality Experts for Medical Vision-Language Learning**|DM BAPPY et.al.|[2610.29881](https://arxiv.org/abs/2610.29881)|null|
 |**2026-10-21**|**Revealing Hidden Failure Modes in Chest X-ray Classification via Spectral Domain Analysis**|Samuel Halimi et.al.|[2610.29830](https://arxiv.org/abs/2610.29830)|null|
 |**2026-10-21**|**Kinematic and Dynamic Parameters of Anisotropic Models with Inflaton, Without A Priori Relation Between the Scale Factors and with A Posteriori Isotropization**|Maressa Perovano et.al.|[2610.29827](https://arxiv.org/abs/2610.29827)|null|
