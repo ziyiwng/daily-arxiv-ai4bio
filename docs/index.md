@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.10.27
+## Updated on 2026.10.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**The Vocabulary Is Already Here: Adapting Pretrained Interpretable Features for Generative Recommendation**|Ziluowen Luo et.al.|[2610.36763](https://arxiv.org/abs/2610.36763)|null|
+|**2026-10-27**|**MM-Net: A Multimodal Multi-Task Network for Sleep Staging and Sleep Apnea Assessment After Ischemic Stroke**|Md Wahiduzzaman Suva et.al.|[2610.36583](https://arxiv.org/abs/2610.36583)|null|
+|**2026-10-26**|**TimeWorld: Towards Action-Conditioned Multimodal World Models for Time Series Forecasting**|Hang Ni et.al.|[2610.34797](https://arxiv.org/abs/2610.34797)|null|
+|**2026-10-25**|**Entity Matching using Decision Models**|Aaron Steiner et.al.|[2610.34626](https://arxiv.org/abs/2610.34626)|null|
 |**2026-10-24**|**Beyond Static Structures: Linking Protein Dynamics to Function via DynaReason-Pro**|Zhaokang Liang et.al.|[2610.33804](https://arxiv.org/abs/2610.33804)|null|
 |**2026-10-23**|**Agent-guided epitope excision enables economical de novo binder design**|Jun W. Kim et.al.|[2610.33195](https://arxiv.org/abs/2610.33195)|null|
 |**2026-10-23**|**Computational De Novo Design of Miniprotein Candidate Neutralizers Targeting the IL-23 Cytokine Subunit p19**|Raghav Paladugu et.al.|[2610.32779](https://arxiv.org/abs/2610.32779)|null|
@@ -447,6 +451,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**Replica Analysis of Overfitting in Vector Generalized Linear Models**|M Diaz-Ortiz et.al.|[2610.36904](https://arxiv.org/abs/2610.36904)|null|
+|**2026-10-27**|**Peak-DNA: Recurrent Morphology in Global Narrative Propagation**|Joosung Kim et.al.|[2610.36571](https://arxiv.org/abs/2610.36571)|null|
+|**2026-10-27**|**ACOR: incremental evidence accumulation towards real-time DNA storage reconstruction**|Linxuan Han et.al.|[2610.36500](https://arxiv.org/abs/2610.36500)|null|
+|**2026-10-26**|**HELICS: Biobank-scale Conditional Synthetic Genome Generation via Latent Flow Matching**|Ahmad Abdel-Azim et.al.|[2610.36361](https://arxiv.org/abs/2610.36361)|null|
+|**2026-10-26**|**Enhancing Clinical Classifier Robustness with Deep Representation Learning Based OOD Detection on DNA Methylation Data**|Md Zahangir Alom et.al.|[2610.36344](https://arxiv.org/abs/2610.36344)|null|
+|**2026-10-26**|**Infinity Machine: a self-improving AI agent for research**|Harish Santhanalakshmi Ganesan et.al.|[2610.35579](https://arxiv.org/abs/2610.35579)|null|
+|**2026-10-26**|**mdRNAcat: A Molecular Dynamics RNA Catalog of REST2 Conformational Ensembles**|Anton E. Dorn et.al.|[2610.35204](https://arxiv.org/abs/2610.35204)|null|
+|**2026-10-26**|**Critic's Eye: Review-Grounded Graph Reasoning for Long-Form Motif Discovery**|Xinyu Sun et.al.|[2610.35011](https://arxiv.org/abs/2610.35011)|null|
+|**2026-10-26**|**A new categorical correlation measure**|Saparya Suresh et.al.|[2610.34932](https://arxiv.org/abs/2610.34932)|null|
 |**2026-10-25**|**Benchmarking miRNA Target Prediction Methods**|Congliang Jin et.al.|[2610.33960](https://arxiv.org/abs/2610.33960)|null|
 |**2026-10-23**|**Tree Depth and Sample-Quality-Associated Features: Two Hidden Factors in Boruta Selection for RNA-Seq Data Classification**|Tareque Mohmud Chowdhury et.al.|[2610.33307](https://arxiv.org/abs/2610.33307)|null|
 |**2026-10-23**|**Shared clones make random cell halves look reproducible in pooled screens**|Xuanrui Huang et.al.|[2610.32962](https://arxiv.org/abs/2610.32962)|null|
@@ -1014,6 +1027,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**Trace-WAM: Learning to Act via 3D Motion Prediction for World Action Models**|Xu Hu et.al.|[2610.36840](https://arxiv.org/abs/2610.36840)|null|
+|**2026-10-26**|**Biology-Guided Context-Aware Residual Propagation for Spatial Gene Expression Prediction from Histology**|Vu Van An et.al.|[2610.35167](https://arxiv.org/abs/2610.35167)|null|
 |**2026-10-24**|**Learning Population Dynamics with Variational Doob-Wasserstein Flow**|Weizhu Qian et.al.|[2610.33922](https://arxiv.org/abs/2610.33922)|null|
 |**2026-10-24**|**Multiscale Topology-Regulated Nonlinear Dynamics for Protein B-Factor Prediction and Single-Cell Type Classification**|Zihan Wang et.al.|[2610.33727](https://arxiv.org/abs/2610.33727)|null|
 |**2026-10-22**|**Benchmarking Recent Single-Cell Synthetic Data Generation Methods on the OneK1K Dataset**|Buse Giledereli et.al.|[2610.31454](https://arxiv.org/abs/2610.31454)|null|
@@ -1196,6 +1211,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**A State Augmented Approach to Paralle Modeling in High-Level Synthesis**|Nicholas Kovacs et.al.|[2610.36481](https://arxiv.org/abs/2610.36481)|null|
+|**2026-10-26**|**An open EFT for dark matter searches with matter-wave interferometers**|Leonardo Badurina et.al.|[2610.36044](https://arxiv.org/abs/2610.36044)|null|
+|**2026-10-26**|**TRON: Transferring Naturally Evolved Network Architectures into Neuroevolution**|Konstantinos Zacharopoulos et.al.|[2610.35647](https://arxiv.org/abs/2610.35647)|null|
+|**2026-10-26**|**Interpretable Brain Age Prediction Using White Matter Fiber Orientation Distributions with Rotation-Equivariant Deep Learning**|Chenyang Fan et.al.|[2610.34825](https://arxiv.org/abs/2610.34825)|null|
 |**2026-10-24**|**Krylov geometry and optimal recovery under uncertain coherent noise**|Abhishek Chowdhury et.al.|[2610.33607](https://arxiv.org/abs/2610.33607)|null|
 |**2026-10-23**|**A curated multi-endpoint drug-protein bioactivity dataset with construct-aware protein targets**|Lina Abou-Abbas et.al.|[2610.32490](https://arxiv.org/abs/2610.32490)|null|
 |**2026-10-23**|**Phase-based Edge Coupling: Modeling Overlapping Functional Architectures and High-Order Edge-to-Edge Interactions in EEG Networks**|Chengcheng Wu et.al.|[2610.32286](https://arxiv.org/abs/2610.32286)|null|
@@ -1430,6 +1449,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**Expressive Guitar Synthesis via Controllable Latent Flow Matching**|Hsueh-Wei Fu et.al.|[2610.36786](https://arxiv.org/abs/2610.36786)|null|
+|**2026-10-27**|**TOPS: Reshaping Flow Source and Transport for Multi-Task Robot Manipulation**|Tuo An et.al.|[2610.36694](https://arxiv.org/abs/2610.36694)|null|
+|**2026-10-26**|**HELICS: Biobank-scale Conditional Synthetic Genome Generation via Latent Flow Matching**|Ahmad Abdel-Azim et.al.|[2610.36361](https://arxiv.org/abs/2610.36361)|null|
+|**2026-10-26**|**A generative foundation model for 2D magnetized plasma turbulence**|Junyi Guo et.al.|[2610.36155](https://arxiv.org/abs/2610.36155)|null|
+|**2026-10-26**|**Improving Signals, Declining Encoder: A Known-Answer Test of Label-Free Monitoring in Self-Supervised Learning**|Nilotpal Kakati et.al.|[2610.35766](https://arxiv.org/abs/2610.35766)|null|
+|**2026-10-26**|**CounterFlow: Target-Conditioned Flow Matching for Visual Counterfactuals**|Paul Sevellec et.al.|[2610.35679](https://arxiv.org/abs/2610.35679)|null|
+|**2026-10-26**|**Active Learning of Conditional Generative Models via the Transport Neural Tangent Kernel**|Jayoung Ryu et.al.|[2610.35652](https://arxiv.org/abs/2610.35652)|null|
+|**2026-10-26**|**TransECG-SSL: Hybrid Self-Supervised Representation Learning for ECG Arrhythmia Classification**|Ahtisham Ayyub et.al.|[2610.35378](https://arxiv.org/abs/2610.35378)|null|
+|**2026-10-26**|**A JiT-Based Denoising Defense Method Against Adversarial Examples for Radio Signal Automatic Modulation Classification**|Shiwei Liu et.al.|[2610.35084](https://arxiv.org/abs/2610.35084)|null|
+|**2026-10-26**|**AutoPRL: Automated Path Representation Learning via a Learnable View Generator**|Sean Bin Yang et.al.|[2610.35032](https://arxiv.org/abs/2610.35032)|null|
 |**2026-10-25**|**QECGBERT: A Scalable ECG Foundation Model Based on Self-Supervised Language Learning via VQ-VAE Waveform Tokenization**|Aruna Mohan et.al.|[2610.33964](https://arxiv.org/abs/2610.33964)|null|
 |**2026-10-24**|**How Geometry Shapes Generative Model Evaluation on Riemannian Manifolds**|Misha Oberski et.al.|[2610.33731](https://arxiv.org/abs/2610.33731)|null|
 |**2026-10-24**|**H-GLow: Accelerating Graph Generation via Hazard-Guided Discrete Flow Matching**|Sirine Ayadi et.al.|[2610.33599](https://arxiv.org/abs/2610.33599)|null|
@@ -2468,6 +2497,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**LociArt: A Unified Paradigm for Free-Style Local Video Stylization**|Yuxuan Chen et.al.|[2610.36456](https://arxiv.org/abs/2610.36456)|null|
+|**2026-10-26**|**OA-RAG: Ontology-based Agentic RAG for Faithful LLM Reasoning**|Hui Yang et.al.|[2610.36335](https://arxiv.org/abs/2610.36335)|null|
+|**2026-10-26**|**Ontology-guided multi-agent reasoning for explainable differential diagnosis**|Roxana Ramona Szomiu et.al.|[2610.36325](https://arxiv.org/abs/2610.36325)|null|
+|**2026-10-26**|**TRON: Transferring Naturally Evolved Network Architectures into Neuroevolution**|Konstantinos Zacharopoulos et.al.|[2610.35647](https://arxiv.org/abs/2610.35647)|null|
+|**2026-10-26**|**Before Blaming the LLM, Diagnose the Workflow: A Role-Level Difficulty Profile for Translating Natural Language into Ontology-Grounded Statements**|Liang Zhang et.al.|[2610.35267](https://arxiv.org/abs/2610.35267)|null|
+|**2026-10-25**|**AV-QTSS: Class-Query Target Sound Spatialization in Multi-Source 360 $^\circ$ Videos**|Qingyu Luo et.al.|[2610.34401](https://arxiv.org/abs/2610.34401)|null|
 |**2026-10-24**|**Affine-invariant Cubic Newton with Weak Learners**|Nikita Zozoulenko et.al.|[2610.33516](https://arxiv.org/abs/2610.33516)|null|
 |**2026-10-23**|**Scoped Semantic Invariance as a Foundation for LLM Reliability**|Rosario Uceda-Sosa et.al.|[2610.33267](https://arxiv.org/abs/2610.33267)|null|
 |**2026-10-23**|**Reimagining Enterprise RAG for Multi-Agent Systems: A Knowledge Layer That Organizes Before It Retrieves**|Garima Agrawal et.al.|[2610.32851](https://arxiv.org/abs/2610.32851)|null|
@@ -3029,6 +3064,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**Magnetic Imaging with High Spatial Resolution Using a Single Niobium-Nitride-Based Three-Dimensional Nanobridge Junction**|Yinping Pan et.al.|[2610.36856](https://arxiv.org/abs/2610.36856)|null|
+|**2026-10-27**|**Fracture Mechanics and Self-Healing in Molecular Crystal Resonators for Lasing**|Melchi Chosenyah et.al.|[2610.36692](https://arxiv.org/abs/2610.36692)|null|
+|**2026-10-27**|**Normalized Cuts and Data Clustering via Matrix Fractional Programming**|Yannan Chen et.al.|[2610.36616](https://arxiv.org/abs/2610.36616)|null|
+|**2026-10-27**|**Spin-Charge Conversion in an Epitaxial Kagome Flat-Band Metal**|Wenyi Zhou et.al.|[2610.36501](https://arxiv.org/abs/2610.36501)|null|
+|**2026-10-27**|**Learning Multiscale Dynamics of Nanoparticle Self-Assembly**|Shuaifeng Li et.al.|[2610.36498](https://arxiv.org/abs/2610.36498)|null|
+|**2026-10-27**|**Spatial-Frequency Learning for Scanning Transmission Electron Microscopy Image Enhancement**|Hesong Li et.al.|[2610.36487](https://arxiv.org/abs/2610.36487)|null|
+|**2026-10-27**|**Nano-Nb Superconducting 3D Josephson Junctions Arrays in Cu-Normal Matrix: Superconducting Phase Coherence and Quantum Fluctuations Properties**|R. L. de Almeida et.al.|[2610.36482](https://arxiv.org/abs/2610.36482)|null|
+|**2026-10-26**|**When Slides Met Scans: Cross-Attention for Renal Cancer Prognosis**|Anusha Krishnamoorthy et.al.|[2610.36364](https://arxiv.org/abs/2610.36364)|null|
+|**2026-10-26**|**Multi-day single-cell magnetic imaging of living cancer cells using Quantum Cell Monitoring**|Andre Pointner et.al.|[2610.36359](https://arxiv.org/abs/2610.36359)|null|
+|**2026-10-26**|**Oxygen partial pressure induced dielectric phase evolution in PLD deposited Barium Strontium Titanate thin films**|Shashi Pandey et.al.|[2610.36313](https://arxiv.org/abs/2610.36313)|null|
 |**2026-10-24**|**Polarized X-rays from table-top free-electron-driven van der Waals crystals**|Nikhil Pramanik et.al.|[2610.33774](https://arxiv.org/abs/2610.33774)|null|
 |**2026-10-24**|**PathKGen: Pathology Knowledge Assisted MLLM for Explainable Histopathology**|Nadun Rajapaksha et.al.|[2610.33691](https://arxiv.org/abs/2610.33691)|null|
 |**2026-10-24**|**Perpendicular Anisotropy and g-Factor of Sputtered Ni Films on Si(111) Studied by Angle-Dependent Ferromagnetic Resonance**|Dushyant Singh et.al.|[2610.33637](https://arxiv.org/abs/2610.33637)|null|
