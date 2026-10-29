@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.10.28
+## Updated on 2026.10.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops**|Aakash Sarkar et.al.|[2610.37656](https://arxiv.org/abs/2610.37656)|null|
+|**2026-10-27**|**Accurate structural modelling of protein-glycan recognition with GlycoWeave**|Huifeng Zhao et.al.|[2610.37410](https://arxiv.org/abs/2610.37410)|null|
 |**2026-10-27**|**The Vocabulary Is Already Here: Adapting Pretrained Interpretable Features for Generative Recommendation**|Ziluowen Luo et.al.|[2610.36763](https://arxiv.org/abs/2610.36763)|null|
 |**2026-10-27**|**MM-Net: A Multimodal Multi-Task Network for Sleep Staging and Sleep Apnea Assessment After Ischemic Stroke**|Md Wahiduzzaman Suva et.al.|[2610.36583](https://arxiv.org/abs/2610.36583)|null|
 |**2026-10-26**|**TimeWorld: Towards Action-Conditioned Multimodal World Models for Time Series Forecasting**|Hang Ni et.al.|[2610.34797](https://arxiv.org/abs/2610.34797)|null|
@@ -361,6 +363,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**From 12 to 200 Demonstrations: How ACT, Diffusion Policy, SmolVLA and $π_{0.5}$ Scale on a Low-Cost Arm**|Simon Cowling et.al.|[2610.37170](https://arxiv.org/abs/2610.37170)|null|
 |**2026-10-22**|**Beyond Better Ideas: How Human-AI Collaboration Shapes Scientific Ideas and Human Perceptions**|Qian Chen et.al.|[2610.30568](https://arxiv.org/abs/2610.30568)|null|
 |**2026-10-19**|**Inside the Scorer: Mechanistic Evidence on Rubric Control in LLM-Based Automated Essay Scoring from 25 Base Models**|Chungche Huang et.al.|[2610.25724](https://arxiv.org/abs/2610.25724)|null|
 |**2026-10-18**|**When Empathy Misses the Goal: A Benchmark for Goal Displacement in LLM Advice**|Dean Ariel et.al.|[2610.25522](https://arxiv.org/abs/2610.25522)|null|
@@ -451,13 +454,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**pyTransRate: 1 reference-free quality assessment of de novo transcriptome assemblies with current aligners and quantifiers**|Matthew MacManes et.al.|[2610.37031](https://arxiv.org/abs/2610.37031)|null|
 |**2026-10-27**|**Replica Analysis of Overfitting in Vector Generalized Linear Models**|M Diaz-Ortiz et.al.|[2610.36904](https://arxiv.org/abs/2610.36904)|null|
 |**2026-10-27**|**Peak-DNA: Recurrent Morphology in Global Narrative Propagation**|Joosung Kim et.al.|[2610.36571](https://arxiv.org/abs/2610.36571)|null|
 |**2026-10-27**|**ACOR: incremental evidence accumulation towards real-time DNA storage reconstruction**|Linxuan Han et.al.|[2610.36500](https://arxiv.org/abs/2610.36500)|null|
 |**2026-10-26**|**HELICS: Biobank-scale Conditional Synthetic Genome Generation via Latent Flow Matching**|Ahmad Abdel-Azim et.al.|[2610.36361](https://arxiv.org/abs/2610.36361)|null|
 |**2026-10-26**|**Enhancing Clinical Classifier Robustness with Deep Representation Learning Based OOD Detection on DNA Methylation Data**|Md Zahangir Alom et.al.|[2610.36344](https://arxiv.org/abs/2610.36344)|null|
 |**2026-10-26**|**Infinity Machine: a self-improving AI agent for research**|Harish Santhanalakshmi Ganesan et.al.|[2610.35579](https://arxiv.org/abs/2610.35579)|null|
-|**2026-10-26**|**mdRNAcat: A Molecular Dynamics RNA Catalog of REST2 Conformational Ensembles**|Anton E. Dorn et.al.|[2610.35204](https://arxiv.org/abs/2610.35204)|null|
+|**2026-10-27**|**mdRNAcat: A Molecular Dynamics RNA Catalog of REST2 Conformational Ensembles**|Anton E. Dorn et.al.|[2610.35204](https://arxiv.org/abs/2610.35204)|null|
 |**2026-10-26**|**Critic's Eye: Review-Grounded Graph Reasoning for Long-Form Motif Discovery**|Xinyu Sun et.al.|[2610.35011](https://arxiv.org/abs/2610.35011)|null|
 |**2026-10-26**|**A new categorical correlation measure**|Saparya Suresh et.al.|[2610.34932](https://arxiv.org/abs/2610.34932)|null|
 |**2026-10-25**|**Benchmarking miRNA Target Prediction Methods**|Congliang Jin et.al.|[2610.33960](https://arxiv.org/abs/2610.33960)|null|
@@ -1449,6 +1453,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**ALADDIN: Adversarial Latent Diffusion Distillation for One-Step Identity Swapping**|Ivan Shchekotov et.al.|[2610.37503](https://arxiv.org/abs/2610.37503)|null|
+|**2026-10-27**|**Retrospective macromolecular pool fraction mapping from conventional clinical MRI: a physics-guided self-supervised deep learning framework**|Jelmer van Lune et.al.|[2610.37213](https://arxiv.org/abs/2610.37213)|null|
+|**2026-10-27**|**Physics-Guided Flow Matching: A Generative AI Framework for Global Total Electron Content Forecasting**|Si-Tong Yang et.al.|[2610.37159](https://arxiv.org/abs/2610.37159)|null|
+|**2026-10-27**|**Multibranch Ensemble Head in Vision Foundation Models for Efficient Cucumber Phenological Stage Classification**|Kostiantyn Khabarlak et.al.|[2610.37118](https://arxiv.org/abs/2610.37118)|null|
+|**2026-10-27**|**Systematic Morphometric Brain Autoencoding for Representation Learning in Neurodegenerative Diseases**|Nuria Balbás-Esteban et.al.|[2610.37074](https://arxiv.org/abs/2610.37074)|null|
 |**2026-10-27**|**Expressive Guitar Synthesis via Controllable Latent Flow Matching**|Hsueh-Wei Fu et.al.|[2610.36786](https://arxiv.org/abs/2610.36786)|null|
 |**2026-10-27**|**TOPS: Reshaping Flow Source and Transport for Multi-Task Robot Manipulation**|Tuo An et.al.|[2610.36694](https://arxiv.org/abs/2610.36694)|null|
 |**2026-10-26**|**HELICS: Biobank-scale Conditional Synthetic Genome Generation via Latent Flow Matching**|Ahmad Abdel-Azim et.al.|[2610.36361](https://arxiv.org/abs/2610.36361)|null|
@@ -2497,6 +2506,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**Constraining the Commit Boundary: A DIO/ODI-Informed Authorization Guardrail for Agentic Entity Resolution**|Daniel Beránek et.al.|[2610.37407](https://arxiv.org/abs/2610.37407)|null|
+|**2026-10-27**|**SFE-O: An Ontology for Knowledge-Grounded AI in Supercritical CO $_2$ Biomass Extraction and Fractionation**|Thomas Pallet et.al.|[2610.37123](https://arxiv.org/abs/2610.37123)|null|
 |**2026-10-27**|**LociArt: A Unified Paradigm for Free-Style Local Video Stylization**|Yuxuan Chen et.al.|[2610.36456](https://arxiv.org/abs/2610.36456)|null|
 |**2026-10-26**|**OA-RAG: Ontology-based Agentic RAG for Faithful LLM Reasoning**|Hui Yang et.al.|[2610.36335](https://arxiv.org/abs/2610.36335)|null|
 |**2026-10-26**|**Ontology-guided multi-agent reasoning for explainable differential diagnosis**|Roxana Ramona Szomiu et.al.|[2610.36325](https://arxiv.org/abs/2610.36325)|null|
@@ -3064,6 +3075,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**Water at the molecular frontier**|Mischa Bonn et.al.|[2610.37581](https://arxiv.org/abs/2610.37581)|null|
+|**2026-10-27**|**The Noise Plane: A Diffusion Bridge Across Exponent and Dispersion**|Xuran Hu et.al.|[2610.37576](https://arxiv.org/abs/2610.37576)|null|
+|**2026-10-27**|**Segmentation Confidence for Arbitrary CNNs**|Baris Oguz et.al.|[2610.37431](https://arxiv.org/abs/2610.37431)|null|
+|**2026-10-27**|**Superconductivity and local stacking polymorphism in LaNiGa2 thin films**|Pengcheng Wang et.al.|[2610.37366](https://arxiv.org/abs/2610.37366)|null|
+|**2026-10-27**|**The First Deep Learning all-sky List of Fermi-LAT Gamma-ray Sources**|Saptashwa Bhattacharyya et.al.|[2610.37287](https://arxiv.org/abs/2610.37287)|null|
+|**2026-10-27**|**INTR++: INterpretable TRansformer with better Accuracy, Interpretability, and Adaptability**|Dipanjyoti Paul et.al.|[2610.37178](https://arxiv.org/abs/2610.37178)|null|
+|**2026-10-27**|**Reducing Complexity of Pseudo-Marginal Sequential Monte Carlo via Hierarchical Tempering**|Josef Martínek et.al.|[2610.37082](https://arxiv.org/abs/2610.37082)|null|
+|**2026-10-27**|**Interpretable Deep Learning Models for Breast Cancer Diagnosis Using Medical Imaging**|Sami Alnawali et.al.|[2610.37026](https://arxiv.org/abs/2610.37026)|null|
+|**2026-10-27**|**Prussian blue and Prussian white thin-film electrodes: Single-step electrodeposition for anode and cathode applications**|Michael Pohlitz et.al.|[2610.37023](https://arxiv.org/abs/2610.37023)|null|
 |**2026-10-27**|**Magnetic Imaging with High Spatial Resolution Using a Single Niobium-Nitride-Based Three-Dimensional Nanobridge Junction**|Yinping Pan et.al.|[2610.36856](https://arxiv.org/abs/2610.36856)|null|
 |**2026-10-27**|**Fracture Mechanics and Self-Healing in Molecular Crystal Resonators for Lasing**|Melchi Chosenyah et.al.|[2610.36692](https://arxiv.org/abs/2610.36692)|null|
 |**2026-10-27**|**Normalized Cuts and Data Clustering via Matrix Fractional Programming**|Yannan Chen et.al.|[2610.36616](https://arxiv.org/abs/2610.36616)|null|
