@@ -376,7 +376,7 @@ layout: default
 |**2026-10-16**|**Can a Frontier VLM Serve as a Robot Policy for Memory-Dependent Manipulation?**|Jack B. Jedlicki et.al.|[2610.17350](https://arxiv.org/abs/2610.17350)|null|
 |**2026-10-12**|**Multi-Objective Amortized CDRH3 Sequence Sampling Diversifies Promising Antibody Candidates**|Joseph D. Viviano et.al.|[2610.16920](https://arxiv.org/abs/2610.16920)|null|
 |**2026-10-10**|**Joint Discrete and SE(3) Diffusion for Protein Interface Design**|Zhenqiao Song et.al.|[2610.14699](https://arxiv.org/abs/2610.14699)|null|
-|**2026-10-07**|**De novo design of monoclonal and bispecific antibodies with OFAntibody**| Valhalla Team et.al.|[2610.09548](https://arxiv.org/abs/2610.09548)|null|
+|**2026-10-07**|**De novo design of monoclonal and bispecific antibodies with OFAntibody**|Valhalla Team et.al.|[2610.09548](https://arxiv.org/abs/2610.09548)|null|
 |**2026-10-15**|**SCOPE: Certified Theorem Proving with a Language Model as the Policy Planner**|Hanchao Zhou et.al.|[2610.08319](https://arxiv.org/abs/2610.08319)|null|
 |**2026-10-05**|**Evaluate the Stack, Not the Layer: Do Deterministic and LLM Gates for Agent Actions Fail Independently?**|Chenglin Yang et.al.|[2610.07359](https://arxiv.org/abs/2610.07359)|null|
 |**2026-10-05**|**Synthetic Cultural Agents from Aggregate Anchors**|Augusto Gonzalez-Bonorino et.al.|[2610.06562](https://arxiv.org/abs/2610.06562)|null|
