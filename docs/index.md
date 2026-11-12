@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.11.11
+## Updated on 2026.11.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**Looking One Step Ahead: An Anticipation-guided Agent for Object State Readout in Videos**|Yuanhe Tian et.al.|[2611.14113](https://arxiv.org/abs/2611.14113)|null|
 |**2026-11-09**|**HyPLM Technical Report**|Haowei Lin et.al.|[2611.12000](https://arxiv.org/abs/2611.12000)|null|
 |**2026-11-09**|**HyInv Technical Report**|Haowei Lin et.al.|[2611.11997](https://arxiv.org/abs/2611.11997)|null|
 |**2026-11-08**|**Rescene-ESM: an Earth system model built around a frozen AI weather model**|Minjong Cheon et.al.|[2611.11066](https://arxiv.org/abs/2611.11066)|null|
@@ -486,6 +487,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**Bridging Graph and Pairwise Learning for Gene Regulatory Network Inference from scRNA-seq Data**|Hang Li et.al.|[2611.13801](https://arxiv.org/abs/2611.13801)|null|
+|**2026-11-10**|**Detection of local recombination and mutation hotspots in bacterial genomes using neural posterior estimation**|Haochu Liu et.al.|[2611.13763](https://arxiv.org/abs/2611.13763)|null|
+|**2026-11-10**|**When Covariance Is Not Enough: Kernel-Based Regularization for Single-Cell Counterfactuals**|Korbinian Traeuble et.al.|[2611.13748](https://arxiv.org/abs/2611.13748)|null|
 |**2026-11-09**|**EvoSurv: Evolution-Aware Multimodal Survival Modeling Reveals Complementary Prognostic Signals**|Wei Wang et.al.|[2611.13190](https://arxiv.org/abs/2611.13190)|null|
 |**2026-11-09**|**The Gene Is Not the Gate: Conceptualizing the Semantic Genome of Quantum Software**|Jiongchi Yu et.al.|[2611.13049](https://arxiv.org/abs/2611.13049)|null|
 |**2026-11-09**|**Bias in Method-of-Moments Heritability Estimation Under Model Misspecification**|Jonathan Gal et.al.|[2611.12615](https://arxiv.org/abs/2611.12615)|null|
@@ -1113,6 +1117,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**Continuous 3D Spatial Transcriptomics Reconstruction via Histology-Informed Implicit Neural Representations**|Kaito Shiku et.al.|[2611.14129](https://arxiv.org/abs/2611.14129)|null|
+|**2026-11-10**|**Bridging Graph and Pairwise Learning for Gene Regulatory Network Inference from scRNA-seq Data**|Hang Li et.al.|[2611.13801](https://arxiv.org/abs/2611.13801)|null|
+|**2026-11-10**|**When Covariance Is Not Enough: Kernel-Based Regularization for Single-Cell Counterfactuals**|Korbinian Traeuble et.al.|[2611.13748](https://arxiv.org/abs/2611.13748)|null|
 |**2026-11-09**|**stMIND: Learning multiscale interaction dynamics from spatial-temporal transcriptomics**|Longquan Li et.al.|[2611.12228](https://arxiv.org/abs/2611.12228)|null|
 |**2026-11-09**|**Publications as benchmarks: auditing AI agents on spatial transcriptomics alignment**|Yiqun T. Chen et.al.|[2611.11796](https://arxiv.org/abs/2611.11796)|null|
 |**2026-11-06**|**Synaptic Dendritic Neuron Model (scDNM) for Cell Type Classification in Single-Cell RNA Sequencing Data**|Deniz Karapınar et.al.|[2611.10207](https://arxiv.org/abs/2611.10207)|null|
@@ -1315,6 +1322,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**ANTIOCH-VS: From Sequence to Hits with Modular, Open-Source Ensemble Virtual Screening**|Hale S. Hasdemir et.al.|[2611.14287](https://arxiv.org/abs/2611.14287)|null|
+|**2026-11-10**|**DrugCoding: A Scientific Programming Agent for Drug Discovery**|Junwei Hu et.al.|[2611.13651](https://arxiv.org/abs/2611.13651)|null|
 |**2026-11-09**|**Sensitivity of diffusion MRI to white matter pathology: a comparison between ROI-based effect size and TBSS analysis under different diffusion protocols, field strengths and post-processing strategies**|Evgenios N. Kornaropoulos et.al.|[2611.12430](https://arxiv.org/abs/2611.12430)|null|
 |**2026-11-07**|**ProtLink: Sequence and Multispecies Graph Context for Protein Interaction Prediction**|Xingyuan Zhang et.al.|[2611.11017](https://arxiv.org/abs/2611.11017)|null|
 |**2026-11-06**|**Decoupled Mode Connectivity for Base-to-Novel Generalization in Vision-Language Models**|Imad Eddine Marouf et.al.|[2611.09655](https://arxiv.org/abs/2611.09655)|null|
@@ -1569,6 +1578,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge**|Ilia Larchenko et.al.|[2611.14432](https://arxiv.org/abs/2611.14432)|null|
+|**2026-11-10**|**UniFlow-RS: Unified Generative Prediction for Heterogeneous Remote-Sensing Tasks**|Jianlong He et.al.|[2611.14281](https://arxiv.org/abs/2611.14281)|null|
+|**2026-11-10**|**CroCoMAE: Cross-modal self-supervised collaborative representation learning for SAR-optical remote sensing data**|Vito Recchia et.al.|[2611.14124](https://arxiv.org/abs/2611.14124)|null|
+|**2026-11-10**|**ScaleBrain: A Scale-Consistent Framework for EEG Foundation Models**|Minyu Zhou et.al.|[2611.14035](https://arxiv.org/abs/2611.14035)|null|
+|**2026-11-10**|**Lipschitz-Controlled Flow Matching for Robust Image Restoration**|Sedjro Salomon Hotegni et.al.|[2611.13995](https://arxiv.org/abs/2611.13995)|null|
+|**2026-11-10**|**BioXArena-Pro: a research-grade benchmark for autonomous biomedical machine learning agents**|Loka Li et.al.|[2611.13994](https://arxiv.org/abs/2611.13994)|null|
+|**2026-11-10**|**MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing**|Teysir Baoueb et.al.|[2611.13834](https://arxiv.org/abs/2611.13834)|null|
+|**2026-11-10**|**Plug-and-Play ADMM for Inverse Problems with Flow Matching Denoiser**|Dibyanshu Kumar et.al.|[2611.13742](https://arxiv.org/abs/2611.13742)|null|
+|**2026-11-10**|**Market-Conditioned JEPA: Learning from Unpredictable Market Shocks**|Yuqi Wang et.al.|[2611.13572](https://arxiv.org/abs/2611.13572)|null|
 |**2026-11-10**|**DeRep: Learning Depth Representations for End-to-End Navigation in Cluttered Environments**|Hanyu Jin et.al.|[2611.13499](https://arxiv.org/abs/2611.13499)|null|
 |**2026-11-09**|**Robust Flow Matching under Target Corruption and Label Noise**|Mert Can Kurucu et.al.|[2611.13324](https://arxiv.org/abs/2611.13324)|null|
 |**2026-11-09**|**One Trajectory, Two Requirements: Accuracy and Local Stability in Euler Sampling for Flow Matching Policies**|Mahindra Rautela et.al.|[2611.13311](https://arxiv.org/abs/2611.13311)|null|
@@ -2711,6 +2729,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**CLADE: Category-Level Answering from Deficient Evidence in Retrieval-Augmented Language Models**|S M Rayeed et.al.|[2611.14355](https://arxiv.org/abs/2611.14355)|null|
+|**2026-11-10**|**Ontology-Guided Knowledge Graph Construction and Robust Evidence Retrieval for Indian Knowledge Systems**|Anand Kaniyaar Sriranga Prasad et.al.|[2611.14050](https://arxiv.org/abs/2611.14050)|null|
+|**2026-11-10**|**From Show Programs to Linked Data**|Clarisse Bardiot et.al.|[2611.14037](https://arxiv.org/abs/2611.14037)|null|
+|**2026-11-10**|**Taxonomy-Agnostic Neurosymbolic Grounding of Robot Kinematics**|Bastien Dussard et.al.|[2611.13850](https://arxiv.org/abs/2611.13850)|null|
+|**2026-11-10**|**Bridging Graph and Pairwise Learning for Gene Regulatory Network Inference from scRNA-seq Data**|Hang Li et.al.|[2611.13801](https://arxiv.org/abs/2611.13801)|null|
+|**2026-11-10**|**Ayurvedic Rasayana Restores Lipid Homeostasis in Liver: Insights from Systems Biology Studies**|Harshit B Joshi et.al.|[2611.13551](https://arxiv.org/abs/2611.13551)|null|
 |**2026-11-09**|**From Process Models to Composable Agentic Workflows: Combining BPMN, Agents and Enterprise Knowledge**|Christian Fillies et.al.|[2611.13196](https://arxiv.org/abs/2611.13196)|null|
 |**2026-11-09**|**Answering Conjunctive Queries over Linear Existential Rules with Transitivity**|Cristina Feier et.al.|[2611.13138](https://arxiv.org/abs/2611.13138)|null|
 |**2026-11-09**|**An Alternative to Quantum Theory**|Julian Barbour et.al.|[2611.12494](https://arxiv.org/abs/2611.12494)|null|
@@ -3315,6 +3339,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training**|Emre Kutlusan et.al.|[2611.14519](https://arxiv.org/abs/2611.14519)|null|
+|**2026-11-10**|**Toward Foundation Detection Models via Example-Based Grounding in EM-DETR**|Sheethal Bhat et.al.|[2611.14518](https://arxiv.org/abs/2611.14518)|null|
+|**2026-11-10**|**Causal Concept Explanations for Deep Neural Models**|Josh Rountree et.al.|[2611.14407](https://arxiv.org/abs/2611.14407)|null|
+|**2026-11-10**|**What Factors Matter for Collection-Level Counting with Human-AI Collaboration?**|Seoyun Jeong et.al.|[2611.14380](https://arxiv.org/abs/2611.14380)|null|
+|**2026-11-10**|**Nanostructuring Semiconductor Surfaces Using Self-Assembled Metal Nanoparticles for Optoelectronic Applications**|S. Catalán-Gomez et.al.|[2611.14292](https://arxiv.org/abs/2611.14292)|null|
+|**2026-11-10**|**From Growth to Devices: Oxygen-Controlled Superconductivity in BSCCO Thin Films**|Sohini Guin et.al.|[2611.14231](https://arxiv.org/abs/2611.14231)|null|
+|**2026-11-10**|**Counterfactual Analysis of Extent Leakage from Annotation-Derived Prompts in Vision-Language Medical Image Segmentation**|Niran Nataraj et.al.|[2611.13970](https://arxiv.org/abs/2611.13970)|null|
+|**2026-11-10**|**The BRIDGE dataset: paired brightfield whole-slide images of prostate core-needle biopsies in paraffin, after deparaffinization and H&E staining**|Julia A. Mielcarz et.al.|[2611.13883](https://arxiv.org/abs/2611.13883)|null|
+|**2026-11-10**|**Eigenmode and field imaging of a compact superconducting resonator array**|Benedek Gaál et.al.|[2611.13791](https://arxiv.org/abs/2611.13791)|null|
+|**2026-11-10**|**Lightweight Deep Learning Framework for Astrocyte-Centric 3D Reconstruction across Normal and Stress-associated Ultrastructural States**|Bowen Deng et.al.|[2611.13581](https://arxiv.org/abs/2611.13581)|null|
 |**2026-11-09**|**Do AI Agents need Preventive Care? An Epidemiologic Cohort Design for Agentic AI**|Shu Jiang et.al.|[2611.13333](https://arxiv.org/abs/2611.13333)|null|
 |**2026-11-09**|**Domain-Adversarial Adaptation from MURA to In-House Radiographs for Improved Adult Elbow Fracture Classification**|M. Bolhassani et.al.|[2611.13308](https://arxiv.org/abs/2611.13308)|null|
 |**2026-11-09**|**Domain adaptation of a video Foundation model for Heart Failure Diagnosis from Echocardiography**|Mahyar Bolhassani et.al.|[2611.13297](https://arxiv.org/abs/2611.13297)|null|
