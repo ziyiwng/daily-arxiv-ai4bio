@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.11.12
+## Updated on 2026.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-09**|**Deep learning-guided discovery reveals the diversity and mutational potential of environmental beta-lactamases**|Liangjun Ge et.al.|[2611.14568](https://arxiv.org/abs/2611.14568)|null|
 |**2026-11-10**|**Looking One Step Ahead: An Anticipation-guided Agent for Object State Readout in Videos**|Yuanhe Tian et.al.|[2611.14113](https://arxiv.org/abs/2611.14113)|null|
 |**2026-11-09**|**HyPLM Technical Report**|Haowei Lin et.al.|[2611.12000](https://arxiv.org/abs/2611.12000)|null|
 |**2026-11-09**|**HyInv Technical Report**|Haowei Lin et.al.|[2611.11997](https://arxiv.org/abs/2611.11997)|null|
@@ -487,6 +488,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**Source Assignment: Hardness, Approximation, and Parameterized Algorithms**|Ruxandra Marinescu-Ghemeci et.al.|[2611.14786](https://arxiv.org/abs/2611.14786)|null|
+|**2026-11-09**|**Deep learning-guided discovery reveals the diversity and mutational potential of environmental beta-lactamases**|Liangjun Ge et.al.|[2611.14568](https://arxiv.org/abs/2611.14568)|null|
 |**2026-11-10**|**Bridging Graph and Pairwise Learning for Gene Regulatory Network Inference from scRNA-seq Data**|Hang Li et.al.|[2611.13801](https://arxiv.org/abs/2611.13801)|null|
 |**2026-11-10**|**Detection of local recombination and mutation hotspots in bacterial genomes using neural posterior estimation**|Haochu Liu et.al.|[2611.13763](https://arxiv.org/abs/2611.13763)|null|
 |**2026-11-10**|**When Covariance Is Not Enough: Kernel-Based Regularization for Single-Cell Counterfactuals**|Korbinian Traeuble et.al.|[2611.13748](https://arxiv.org/abs/2611.13748)|null|
@@ -1578,6 +1581,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-11**|**Moving Beyond the DRW Model: Learning Quasar Variability with Generative Models**|Nadav Bojan Sellam et.al.|[2611.15040](https://arxiv.org/abs/2611.15040)|null|
+|**2026-11-10**|**Distributionally Robust BEST-RQ For Speech Representation Learning**|Muhammad Khan et.al.|[2611.14801](https://arxiv.org/abs/2611.14801)|null|
 |**2026-11-10**|**One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge**|Ilia Larchenko et.al.|[2611.14432](https://arxiv.org/abs/2611.14432)|null|
 |**2026-11-10**|**UniFlow-RS: Unified Generative Prediction for Heterogeneous Remote-Sensing Tasks**|Jianlong He et.al.|[2611.14281](https://arxiv.org/abs/2611.14281)|null|
 |**2026-11-10**|**CroCoMAE: Cross-modal self-supervised collaborative representation learning for SAR-optical remote sensing data**|Vito Recchia et.al.|[2611.14124](https://arxiv.org/abs/2611.14124)|null|
@@ -3339,6 +3344,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-11**|**A symmetry on Young tableaux with walls and holes**|Zhicong Lin et.al.|[2611.15038](https://arxiv.org/abs/2611.15038)|null|
+|**2026-11-11**|**Depth determination from core-loss 4D-STEM**|Michael Deimetry et.al.|[2611.15037](https://arxiv.org/abs/2611.15037)|null|
+|**2026-11-11**|**Reducing TLS Losses in Superconducting Circuits Using Solid Neon**|A. Palmer et.al.|[2611.15021](https://arxiv.org/abs/2611.15021)|null|
+|**2026-11-11**|**Detrital Remanent Magnetization Analysis at the Particle Scale: Implications for Prebiotic Origins of Homochirality**|S. Furkan Ozturk et.al.|[2611.14905](https://arxiv.org/abs/2611.14905)|null|
 |**2026-11-10**|**Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training**|Emre Kutlusan et.al.|[2611.14519](https://arxiv.org/abs/2611.14519)|null|
 |**2026-11-10**|**Toward Foundation Detection Models via Example-Based Grounding in EM-DETR**|Sheethal Bhat et.al.|[2611.14518](https://arxiv.org/abs/2611.14518)|null|
 |**2026-11-10**|**Causal Concept Explanations for Deep Neural Models**|Josh Rountree et.al.|[2611.14407](https://arxiv.org/abs/2611.14407)|null|
