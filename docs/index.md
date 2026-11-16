@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.11.15
+## Updated on 2026.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-12**|**Confident and Wrong: Structure Confidence Is a Poor Selection Filter for Protein Function**|Eric LoPrete et.al.|[2611.17391](https://arxiv.org/abs/2611.17391)|null|
 |**2026-11-12**|**Library of peptides: Analysis of a complex reactive mixture with the use of statistical physics and inference**|Laura Messio et.al.|[2611.17130](https://arxiv.org/abs/2611.17130)|null|
 |**2026-11-12**|**Protein Language Models Fail To Capture Contact Predictions Under Invariant Relabeling**|Paarth Batra et.al.|[2611.16881](https://arxiv.org/abs/2611.16881)|null|
 |**2026-11-12**|**MutAtlas: A PDB-Wide Energy-Guided Atlas of Protein Mutation Effects**|Ruihan Guo et.al.|[2611.16361](https://arxiv.org/abs/2611.16361)|null|
@@ -493,6 +494,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**S1Pert: Scalable Target-Specific Gene Response Prediction with System-One Intelligence**|Xiaoqi Sheng et.al.|[2611.17705](https://arxiv.org/abs/2611.17705)|null|
+|**2026-11-13**|**Data-driven exploration of the strength-ductility synergy in refractory high-entropy alloys**|Feng Zhao et.al.|[2611.17615](https://arxiv.org/abs/2611.17615)|null|
+|**2026-11-12**|**LinearKnot: Linear-Time Approximation of the Pseudoknot Partition Function**|Milan Gautam et.al.|[2611.17602](https://arxiv.org/abs/2611.17602)|null|
+|**2026-11-12**|**Domain-repetition patterns in protein domain trigrams are uniform across chromosomes and conserved among multicellular eukaryotes**|Yanying Wu et.al.|[2611.17580](https://arxiv.org/abs/2611.17580)|null|
+|**2026-11-12**|**Envelope Model for GTEx Data**|Lisa Chang et.al.|[2611.17448](https://arxiv.org/abs/2611.17448)|null|
 |**2026-11-12**|**Tight Cycle-Cover Inequalities and Improved Approximation for Shortest Common Superstring with Reverse Complements**|Ryosuke Yamano et.al.|[2611.16573](https://arxiv.org/abs/2611.16573)|null|
 |**2026-11-12**|**MutAtlas: A PDB-Wide Energy-Guided Atlas of Protein Mutation Effects**|Ruihan Guo et.al.|[2611.16361](https://arxiv.org/abs/2611.16361)|null|
 |**2026-11-11**|**GrAFT-PDX: Growth and Failure-Time Modeling of Patient-Derived Xenograft Experiments**|Nihar Mauskar et.al.|[2611.15793](https://arxiv.org/abs/2611.15793)|null|
@@ -1131,6 +1137,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**More Genes, Faster Inference: Efficient Large-Panel Spatial Transcriptomics Prediction from Histology**|Songming Zhang et.al.|[2611.17899](https://arxiv.org/abs/2611.17899)|null|
+|**2026-11-13**|**A Consistent Bayesian Adaptive Quotient Graph Framework for Graph-Informed Random Partition Models**|Kun Huang et.al.|[2611.17778](https://arxiv.org/abs/2611.17778)|null|
 |**2026-11-10**|**Continuous 3D Spatial Transcriptomics Reconstruction via Histology-Informed Implicit Neural Representations**|Kaito Shiku et.al.|[2611.14129](https://arxiv.org/abs/2611.14129)|null|
 |**2026-11-10**|**Bridging Graph and Pairwise Learning for Gene Regulatory Network Inference from scRNA-seq Data**|Hang Li et.al.|[2611.13801](https://arxiv.org/abs/2611.13801)|null|
 |**2026-11-10**|**When Covariance Is Not Enough: Kernel-Based Regularization for Single-Cell Counterfactuals**|Korbinian Traeuble et.al.|[2611.13748](https://arxiv.org/abs/2611.13748)|null|
@@ -1336,6 +1344,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-12**|**Mechanism-Level Chemical Reaction Simulation with Electron Bookkeeping Transformer**|Sarah Cao et.al.|[2611.17548](https://arxiv.org/abs/2611.17548)|null|
 |**2026-11-12**|**Augmented Hybrid TV Services. Habits, Preferences, Opinions and Expectations of Spanish Consumers**|Fernando Boronat et.al.|[2611.17284](https://arxiv.org/abs/2611.17284)|null|
 |**2026-11-12**|**SPEC CPU2026 Under the Microscope: Programs, Phases, and Samples**|Peijun Li et.al.|[2611.16376](https://arxiv.org/abs/2611.16376)|null|
 |**2026-11-11**|**A disease-contextualized atlas of proteome-scale molecular influences of natural products**|Boyang Wang et.al.|[2611.15608](https://arxiv.org/abs/2611.15608)|null|
@@ -1595,6 +1604,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**More Genes, Faster Inference: Efficient Large-Panel Spatial Transcriptomics Prediction from Histology**|Songming Zhang et.al.|[2611.17899](https://arxiv.org/abs/2611.17899)|null|
+|**2026-11-13**|**Learning Anisotropic Prediction Targets for Flow Models**|Rayhan Zirvi et.al.|[2611.17767](https://arxiv.org/abs/2611.17767)|null|
+|**2026-11-13**|**Finite speed Ornstein-Uhlenbeck-Kac processes and their applications in generative modeling**|Richard Duong et.al.|[2611.17625](https://arxiv.org/abs/2611.17625)|null|
+|**2026-11-12**|**Where to Predict in Retinal OCT? Anatomy-Guided Target Selection for I-JEPA**|Yunchu Feng et.al.|[2611.17586](https://arxiv.org/abs/2611.17586)|null|
+|**2026-11-12**|**Agentic-Teacher: An Agentic Data Engine for Failure-Driven VLA Post-Training**|Gongyue Teng et.al.|[2611.17394](https://arxiv.org/abs/2611.17394)|null|
 |**2026-11-12**|**Temporal Regularized Learning: Self-Supervised Learning Local in Space and Time**|Davide Wiest et.al.|[2611.17019](https://arxiv.org/abs/2611.17019)|null|
 |**2026-11-12**|**AI for Biologists: The Knowledge Boundaries of Foundation Models in the Age of Agentic Systems**|Tian Cai et.al.|[2611.17015](https://arxiv.org/abs/2611.17015)|null|
 |**2026-11-12**|**MusicRWKV: A Multimodal RWKV Framework for Music Representation Learning**|Terry Tan et.al.|[2611.16718](https://arxiv.org/abs/2611.16718)|null|
@@ -2758,6 +2772,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-12**|**Use-case-driven ontology modeling with the NeOn methodology for ambient assisted living**|Daniele Spoladore et.al.|[2611.17466](https://arxiv.org/abs/2611.17466)|null|
 |**2026-11-12**|**Al-Ghasali: A Computational Framework for Simulating Islamic Jurisprudential Rulings via Finite State Automata and Large Language Models**|Elnaserledinellah Mahmoud Abdelwahab et.al.|[2611.17235](https://arxiv.org/abs/2611.17235)|null|
 |**2026-11-12**|**Luenberger observers for two-gene regulatory networks with sigmoidal regulation: explicit observability conditioning, polytopic convergence certificates, and a logistic--Hill comparison**|Ismail Belgacem et.al.|[2611.17232](https://arxiv.org/abs/2611.17232)|null|
 |**2026-11-12**|**Causals: An Open Knowledge Graph for Research on Causal Reasoning**|Miaozhe Lin et.al.|[2611.16267](https://arxiv.org/abs/2611.16267)|null|
@@ -3378,6 +3393,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**Cracks in Embeddings: Robustness and Stability of JEPA-Based Chest X-Ray Representations**|Zahid Mansur et.al.|[2611.17905](https://arxiv.org/abs/2611.17905)|null|
+|**2026-11-13**|**Causally Constrained and Uncertainty-Aware Cardiopulmonary Risk Prediction**|Yuxiang Lai et.al.|[2611.17819](https://arxiv.org/abs/2611.17819)|null|
+|**2026-11-13**|**Ultrafast Imaging Reveals Energy Transport Anisotropy Grows from Bulk to Monolayer Black Phosphorus**|Stephanie M. Hart et.al.|[2611.17731](https://arxiv.org/abs/2611.17731)|null|
+|**2026-11-13**|**Crystal Structure Prediction from Search to Learning: A 30-Year Expedition**|Jianjun Hu et.al.|[2611.17670](https://arxiv.org/abs/2611.17670)|null|
+|**2026-11-12**|**Deep, label-free, volumetric lifetime microscopy via low-noise, single pulse sampling**|Jack Tomkiewicz et.al.|[2611.17588](https://arxiv.org/abs/2611.17588)|null|
+|**2026-11-12**|**High-harmonic generation along a structural phase transition in silicon**|D. N. Purschke et.al.|[2611.17516](https://arxiv.org/abs/2611.17516)|null|
+|**2026-11-12**|**A thorough review on Deep Learning approaches to 2D-to-3D Registration in Medical Imaging**|Andrea Borghesi et.al.|[2611.17468](https://arxiv.org/abs/2611.17468)|null|
 |**2026-11-12**|**FLEX-LBP: Learning Local Binary Patterns with Exact Binary Inference for Texture Classification**|Mohamed Alimoussa et.al.|[2611.17302](https://arxiv.org/abs/2611.17302)|null|
 |**2026-11-12**|**Capacity-Constrained Delayed Feedback for Online Conformal Risk Control**|Bowen Wang et.al.|[2611.17059](https://arxiv.org/abs/2611.17059)|null|
 |**2026-11-12**|**Tailored magnetic domain-wall ratchet effects through density gradients in triangular-hole arrays**|Julia Herrero-Albillos et.al.|[2611.16735](https://arxiv.org/abs/2611.16735)|null|
