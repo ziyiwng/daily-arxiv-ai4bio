@@ -375,7 +375,7 @@
 |---|---|---|---|---|
 |**2026-11-09**|**KineCouple: Substrate-conditioned residual readout for enzyme kinetic prediction**|Chun Kang et.al.|[2611.09377](https://arxiv.org/abs/2611.09377)|null|
 |**2026-11-05**|**RIVER: Evidence-guided multi-agent retrieval for enzyme--reaction discovery**|Yifan Chang et.al.|[2611.07757](https://arxiv.org/abs/2611.07757)|null|
-|**2026-11-08**|**EnzymeRSI: A dual-loop recursive self-improvement system for enzyme design**| Genoria AI Team et.al.|[2611.06321](https://arxiv.org/abs/2611.06321)|null|
+|**2026-11-08**|**EnzymeRSI: A dual-loop recursive self-improvement system for enzyme design**|Genoria AI Team et.al.|[2611.06321](https://arxiv.org/abs/2611.06321)|null|
 |**2026-10-17**|**Do in-silico metrics filter designed enzymes for catalysis?**|Ziqi Zhang et.al.|[2610.24437](https://arxiv.org/abs/2610.24437)|null|
 |**2026-10-12**|**PRAISE: A Reproducible Workflow for Non-Programmer Scientists to Implement Published AI Models**|Max Achterweust et.al.|[2610.16980](https://arxiv.org/abs/2610.16980)|null|
 |**2026-09-28**|**Waggle: Learning One Anonymous Local Law for Self-Organizing LLM Swarms**|Mingxi Zou et.al.|[2609.34136](https://arxiv.org/abs/2609.34136)|null|
@@ -1717,7 +1717,7 @@
 |**2026-11-18**|**Geometry-bridge flow matching for blind rigid-motion correction in head cone-beam CT**|Sungho Yun et.al.|[2611.23788](https://arxiv.org/abs/2611.23788)|null|
 |**2026-11-18**|**RecallFlow: Episodic Memory as the Source Distribution of Generative Robot Policies**|Xuji Zhang et.al.|[2611.23731](https://arxiv.org/abs/2611.23731)|null|
 |**2026-11-17**|**RageVLA: Augmentation-Trained Perception and Action for State-of-the-Art Robustness on LIBERO**|Amrit Lal Singh et.al.|[2611.23517](https://arxiv.org/abs/2611.23517)|null|
-|**2026-11-17**|**Autoregressive View Model**| Jensen et.al.|[2611.23417](https://arxiv.org/abs/2611.23417)|null|
+|**2026-11-17**|**Autoregressive View Model**|Jensen et.al.|[2611.23417](https://arxiv.org/abs/2611.23417)|null|
 |**2026-11-17**|**Correcting Flows with Marginal Matching**|Meital Bojan et.al.|[2611.23134](https://arxiv.org/abs/2611.23134)|null|
 |**2026-11-17**|**Uncovering the Invisible in Routine Radiology: Cross-Modal Detection of MRI-Verified Soft-Tissue Pathologies from CBCT via Physics-Guided 3D Self-Supervised Learning**|Evgeny Alves Limarenko et.al.|[2611.23042](https://arxiv.org/abs/2611.23042)|null|
 |**2026-11-17**|**Sub-Meter Canopy Height Synthesis from Sentinel-2 via Anchored Residual Flow**|Kiarie Ndegwa et.al.|[2611.22636](https://arxiv.org/abs/2611.22636)|null|
