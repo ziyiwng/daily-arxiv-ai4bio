@@ -2,17 +2,22 @@
 layout: default
 ---
 
-## Updated on 2026.11.23
+## Updated on 2026.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-11-20**|**Hierarchical Hybrid-Coordinate Flow Matching for Accurate and Physically Plausible Apo-to-Holo Protein Generation**|Minjong Kim et.al.|[2611.27162](https://arxiv.org/abs/2611.27162)|null|
+|**2026-11-23**|**Impact of Topology and Sequence Length on the Pressure-Dependent Collapsibility of Proteins**|Jiayi Wang et.al.|[2611.30336](https://arxiv.org/abs/2611.30336)|null|
+|**2026-11-23**|**GABIF: An Adaptive Guided Graph Denoising Framework for Antibody Conditional Inverse Folding**|Mingwei Liu et.al.|[2611.29935](https://arxiv.org/abs/2611.29935)|null|
+|**2026-11-22**|**RumiFold: Teaching an LLM to Natively Fold Proteins and Reason About Their Function**|Kevin Lu et.al.|[2611.29444](https://arxiv.org/abs/2611.29444)|null|
+|**2026-11-21**|**General-purpose language models are neurosymbolic reasoners able to annotate proteins from sequence**|Christopher J. Mungall et.al.|[2611.28529](https://arxiv.org/abs/2611.28529)|null|
+|**2026-11-21**|**ESM-Bench: A Benchmark for Evaluating Whether AI Agents Understand Earth System Model Physics and Code**|Koutian Wu et.al.|[2611.28477](https://arxiv.org/abs/2611.28477)|null|
+|**2026-11-23**|**Hierarchical Hybrid-Coordinate Flow Matching for Accurate and Physically Plausible Apo-to-Holo Protein Generation**|Minjong Kim et.al.|[2611.27162](https://arxiv.org/abs/2611.27162)|null|
 |**2026-11-20**|**Topology-only Local Network Alignment, Part 2. DijSLA: Stochastic Greedy Extension for Cross-Species GO Annotation Prediction**|Yiran Jin et.al.|[2611.26926](https://arxiv.org/abs/2611.26926)|null|
 |**2026-11-19**|**Protein Functional Semantic Alignment via Representation Rectification**|Chuyang Zhou et.al.|[2611.25396](https://arxiv.org/abs/2611.25396)|null|
-|**2026-11-18**|**Biases and Limits of AlphaFold Predictions for Non-Globular Proteins**|Maria Cristina Aspromonte et.al.|[2611.24546](https://arxiv.org/abs/2611.24546)|null|
+|**2026-11-20**|**Biases and Limits of AlphaFold Predictions for Non-Globular Proteins**|Maria Cristina Aspromonte et.al.|[2611.24546](https://arxiv.org/abs/2611.24546)|null|
 |**2026-11-16**|**tmol: a GPU-accelerated implementation of the Rosetta energy function for machine learning**|Andrew Leaver-Fay et.al.|[2611.21857](https://arxiv.org/abs/2611.21857)|null|
 |**2026-11-14**|**Simulated Annealing with Topological Spatial Chunking for De Novo Protein Sequence Design**|Kandula Eswara Sai Kumar et.al.|[2611.19158](https://arxiv.org/abs/2611.19158)|null|
 |**2026-11-13**|**Multi-Assay Antibody Developability Prediction with Shared Structure-Language Representations**|Daria B. Kokh et.al.|[2611.18846](https://arxiv.org/abs/2611.18846)|null|
@@ -362,7 +367,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-11-09**|**KineCouple: Substrate-conditioned residual readout for enzyme kinetic prediction**|Chun Kang et.al.|[2611.09377](https://arxiv.org/abs/2611.09377)|null|
 |**2026-11-05**|**RIVER: Evidence-guided multi-agent retrieval for enzyme--reaction discovery**|Yifan Chang et.al.|[2611.07757](https://arxiv.org/abs/2611.07757)|null|
-|**2026-11-08**|**EnzymeRSI: A dual-loop recursive self-improvement system for enzyme design**|Genoria AI Team et.al.|[2611.06321](https://arxiv.org/abs/2611.06321)|null|
+|**2026-11-08**|**EnzymeRSI: A dual-loop recursive self-improvement system for enzyme design**| Genoria AI Team et.al.|[2611.06321](https://arxiv.org/abs/2611.06321)|null|
 |**2026-10-17**|**Do in-silico metrics filter designed enzymes for catalysis?**|Ziqi Zhang et.al.|[2610.24437](https://arxiv.org/abs/2610.24437)|null|
 |**2026-10-12**|**PRAISE: A Reproducible Workflow for Non-Programmer Scientists to Implement Published AI Models**|Max Achterweust et.al.|[2610.16980](https://arxiv.org/abs/2610.16980)|null|
 |**2026-09-28**|**Waggle: Learning One Anonymous Local Law for Self-Organizing LLM Swarms**|Mingxi Zou et.al.|[2609.34136](https://arxiv.org/abs/2609.34136)|null|
@@ -404,6 +409,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-23**|**Do learned image captioning metrics generalize? Auditing duplicated samples in human-judgment benchmarks**|Xiaochen Zhang et.al.|[2611.30488](https://arxiv.org/abs/2611.30488)|null|
+|**2026-11-23**|**Scoring L2 Pronunciation Without Synthesis: Counterfactual Velocity Contrast in Frozen Flow-Matching TTS**|Zehan Liu et.al.|[2611.29985](https://arxiv.org/abs/2611.29985)|null|
+|**2026-11-23**|**GABIF: An Adaptive Guided Graph Denoising Framework for Antibody Conditional Inverse Folding**|Mingwei Liu et.al.|[2611.29935](https://arxiv.org/abs/2611.29935)|null|
+|**2026-11-21**|**When Rubrics Do Not Decide: Silent Value Completion in LLM Evaluation**|Zhuangzhuang Pan et.al.|[2611.28940](https://arxiv.org/abs/2611.28940)|null|
+|**2026-11-21**|**Beyond Unit Tests: Path-Aware Rubric-Guided LLM Autograding of Notebooks**|Salman Hajizada et.al.|[2611.28565](https://arxiv.org/abs/2611.28565)|null|
 |**2026-11-19**|**Lecture Board Readability as an AI-Measurable Predictor of Perceived Teaching Clarity**|Nachshon Hirschenberger et.al.|[2611.26894](https://arxiv.org/abs/2611.26894)|null|
 |**2026-11-18**|**Large Language Models or AI Agents for English to Arabic Translation? An assessment on WikiEn-Ar190**|Fatima Zahra Iguenfer et.al.|[2611.24588](https://arxiv.org/abs/2611.24588)|null|
 |**2026-11-11**|**Verifier Choice is a Benchmark Design Variable: Auditing Structural Counting Evaluation in Text-to-Image Models**|Shurun Li et.al.|[2611.15433](https://arxiv.org/abs/2611.15433)|null|
@@ -504,6 +514,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-23**|**Learning Multimodal Representations from Partially Paired, Small-Scale Data**|Merel Kuijs et.al.|[2611.30601](https://arxiv.org/abs/2611.30601)|null|
+|**2026-11-23**|**Separating Genetic and Protein Evidence in Open Targets: An Auditable Re-ranking Study**|Ye Ye et.al.|[2611.29978](https://arxiv.org/abs/2611.29978)|null|
+|**2026-11-23**|**Yggdrasil: Tree-Routed Recurrent Experts for State Tracking and Fast CPU Inference**|Cosmo Santoni et.al.|[2611.29954](https://arxiv.org/abs/2611.29954)|null|
+|**2026-11-22**|**Motivo: A Motif-Based Algorithm-Architecture Co-Design for Fast and Energy-Efficient Graph-Based Genome Analysis**|Eirini Maria Tzermpou et.al.|[2611.29410](https://arxiv.org/abs/2611.29410)|null|
+|**2026-11-22**|**HGDNA: Overlapping k-mer Tokenization for Efficient Autoregressive Genomic Language Models**|Xudong Wang et.al.|[2611.29400](https://arxiv.org/abs/2611.29400)|null|
+|**2026-11-22**|**BQDNA: Multi-Head Binary Spherical Quantization for Genomic Sequence Modeling**|Xudong Wang et.al.|[2611.29395](https://arxiv.org/abs/2611.29395)|null|
+|**2026-11-22**|**Towards Edge Artificial Intelligence for Predicting Antimicrobial Resistance in Mycobacterium tuberculosis**|Nishat Tasnim et.al.|[2611.29143](https://arxiv.org/abs/2611.29143)|null|
+|**2026-11-21**|**Stochastic non-metric MDS for noisy high-dimensional data**|Sebastian Damrich et.al.|[2611.28985](https://arxiv.org/abs/2611.28985)|null|
+|**2026-11-21**|**VEGA: A Scalable Software-Hardware Co-design for Genome Alignment using RVV Extension**|Weihong Xu et.al.|[2611.28741](https://arxiv.org/abs/2611.28741)|null|
+|**2026-11-21**|**General-purpose language models are neurosymbolic reasoners able to annotate proteins from sequence**|Christopher J. Mungall et.al.|[2611.28529](https://arxiv.org/abs/2611.28529)|null|
 |**2026-11-20**|**Fix Where It Fails: Root-Cause-Guided Agentic Harness Optimization for Scene Graph Generation**|Jee Eun Kim et.al.|[2611.27529](https://arxiv.org/abs/2611.27529)|null|
 |**2026-11-20**|**GaLF-ST: Gaussian Latent Fields for Spatial Transcriptomics Reconstruction**|Baichuan Yang et.al.|[2611.27143](https://arxiv.org/abs/2611.27143)|null|
 |**2026-11-20**|**Semi-regular admixed arrays: asymptotic enumeration and when information is additive**|Alan J. Aw et.al.|[2611.26990](https://arxiv.org/abs/2611.26990)|null|
@@ -1175,6 +1195,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-21**|**Stochastic non-metric MDS for noisy high-dimensional data**|Sebastian Damrich et.al.|[2611.28985](https://arxiv.org/abs/2611.28985)|null|
 |**2026-11-20**|**GaLF-ST: Gaussian Latent Fields for Spatial Transcriptomics Reconstruction**|Baichuan Yang et.al.|[2611.27143](https://arxiv.org/abs/2611.27143)|null|
 |**2026-11-18**|**Horizontal Flow Matching for Single-Cell Spatiotemporal Dynamics**|Zihan Wang et.al.|[2611.24764](https://arxiv.org/abs/2611.24764)|null|
 |**2026-11-18**|**SCOPE: Single-Cell Omics Prediction from Histology via RNA-Protein Prior Enhancement**|Leyang Tao et.al.|[2611.24104](https://arxiv.org/abs/2611.24104)|null|
@@ -1392,12 +1413,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-23**|**Quantum Amplitude Estimation for Ligand and Pose Index Retrieval**|Pei-Kun Yang et.al.|[2611.30028](https://arxiv.org/abs/2611.30028)|null|
 |**2026-11-20**|**Ruby: State-of-the-Art Potency Prediction across Discovery Regimes Using Learned Structural Representations**|Michael Atkin et.al.|[2611.27015](https://arxiv.org/abs/2611.27015)|null|
 |**2026-11-20**|**Topology-only Local Network Alignment, Part 2. DijSLA: Stochastic Greedy Extension for Cross-Species GO Annotation Prediction**|Yiran Jin et.al.|[2611.26926](https://arxiv.org/abs/2611.26926)|null|
 |**2026-11-19**|**From Benchmarks to the Bench: Preference, Correspondence and Selectivity in Bidirectional Drug-Target Screening**|Jiangjie Qiu et.al.|[2611.26369](https://arxiv.org/abs/2611.26369)|null|
 |**2026-11-19**|**ResVision: Spectrum-Matched Resizing and Context-Preserving Inspection for Visual Reasoning**|Guojian Zhan et.al.|[2611.26318](https://arxiv.org/abs/2611.26318)|null|
 |**2026-11-19**|**GPU-Accelerated Secure Inference for Drug--Target Interaction Prediction**|Sikha Pentyala et.al.|[2611.25664](https://arxiv.org/abs/2611.25664)|null|
-|**2026-11-18**|**ShEPhERD-score: Fast, adaptable three-dimensional alignment of molecular features**|Nate Somers et.al.|[2611.25076](https://arxiv.org/abs/2611.25076)|null|
+|**2026-11-20**|**ShEPhERD-score: Fast, adaptable three-dimensional alignment of molecular features**|Nate Somers et.al.|[2611.25076](https://arxiv.org/abs/2611.25076)|null|
 |**2026-11-18**|**STORM: A Lightweight Structure-Free Model for Binding Affinity Prediction**|Ayush Pandit et.al.|[2611.23777](https://arxiv.org/abs/2611.23777)|null|
 |**2026-11-16**|**When Does Discrete Ricci Curvature Help? An Edge-Level Analysis of Curvature-Enhanced GCNs for PPI Prediction**|Clara Joswig et.al.|[2611.21849](https://arxiv.org/abs/2611.21849)|null|
 |**2026-11-15**|**MT-RGCN-DTI: A Multi-Task Relational Graph Convolutional Network for Drug-Target Interaction Prediction**|Dheeran Sankaran et.al.|[2611.20109](https://arxiv.org/abs/2611.20109)|null|
@@ -1664,6 +1686,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-23**|**Predicting Rare-Mode Collapse in Recursive Generative Training from Single-Generation Calibration**|Jingyao Zhang et.al.|[2611.30897](https://arxiv.org/abs/2611.30897)|null|
+|**2026-11-23**|**Joint Flow-Matching Posteriors for Overlapping LISA Galactic Binaries**|Davide Sartor et.al.|[2611.30872](https://arxiv.org/abs/2611.30872)|null|
+|**2026-11-23**|**HIVE-Bench: Evaluating Patch-Level Visual Representations for Egocentric Robot Manipulation**|Qiwei Liang et.al.|[2611.30813](https://arxiv.org/abs/2611.30813)|null|
+|**2026-11-23**|**BiSAT: Bidirectionally Aligned Semantic-Acoustic Tokenization for Speech Language Models**|Y. Lu et.al.|[2611.30723](https://arxiv.org/abs/2611.30723)|null|
+|**2026-11-23**|**Target-Part Preference Optimization for Part-Aware 3D Generation**|Zishan Qin et.al.|[2611.30472](https://arxiv.org/abs/2611.30472)|null|
+|**2026-11-23**|**BASE: A Backend-Agnostic Streaming Embodiment Layer for Full-Duplex Conversational Avatars**|Chenye Yang et.al.|[2611.30388](https://arxiv.org/abs/2611.30388)|null|
+|**2026-11-23**|**FMSNO: Scaling Surface Neural Operators by Learned Flow Matching Reparametrisation**|Vasilii Liamin et.al.|[2611.30341](https://arxiv.org/abs/2611.30341)|null|
+|**2026-11-23**|**SonicRender: Structured and Time-Grounded Rendering of Multi-Event Audio Scene Generation**|Yunrui Cai et.al.|[2611.30241](https://arxiv.org/abs/2611.30241)|null|
+|**2026-11-23**|**SF-Flow: Spectral Flow Matching with High Structural Fidelity for Hallucination-Suppressed Scientific Image Generation**|Zehua Wang et.al.|[2611.30073](https://arxiv.org/abs/2611.30073)|null|
+|**2026-11-23**|**Scoring L2 Pronunciation Without Synthesis: Counterfactual Velocity Contrast in Frozen Flow-Matching TTS**|Zehan Liu et.al.|[2611.29985](https://arxiv.org/abs/2611.29985)|null|
 |**2026-11-20**|**Late-Time Dynamics of Flow Matching: Distance Geometry and Learning**|Umberto Biccari et.al.|[2611.27653](https://arxiv.org/abs/2611.27653)|null|
 |**2026-11-20**|**ReCoFlow-MRI: Few-Step Conditional Flow Matching for GNL-Induced Nonlinear MRI Reconstruction**|Qidi Luo et.al.|[2611.27590](https://arxiv.org/abs/2611.27590)|null|
 |**2026-11-20**|**Solar-Conditioned Flow Matching for Multitemporal Aerial Visible-to-Infrared Image Translation**|Wenwen Fang et.al.|[2611.27501](https://arxiv.org/abs/2611.27501)|null|
@@ -2885,6 +2917,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-23**|**A statistical measure of trust in generative AI**|Alina Ermilova et.al.|[2611.30286](https://arxiv.org/abs/2611.30286)|null|
+|**2026-11-23**|**EditGRN: Inversion-Free Image Editing by Source-Target Generative Synchronization**|Jiahuan Wang et.al.|[2611.30224](https://arxiv.org/abs/2611.30224)|null|
+|**2026-11-23**|**Ontology-Compiled 2D Clinical State Fields with Bidirectional Diffusion Encoders for Zero-Training Cross-Ontology Medical Coding**|Zeqiang Wang et.al.|[2611.30218](https://arxiv.org/abs/2611.30218)|null|
+|**2026-11-22**|**Seeing Beyond Names: Image-Grounded Concept Linking for Robust Vision-Language Recognition**|Behraj Khan et.al.|[2611.29735](https://arxiv.org/abs/2611.29735)|null|
+|**2026-11-22**|**Neutron Imaging Enhancement for Lithium Batteries Based on Swin-Transformer and Image Fusion**|Hansheng Ding et.al.|[2611.29479](https://arxiv.org/abs/2611.29479)|null|
+|**2026-11-22**|**RumiFold: Teaching an LLM to Natively Fold Proteins and Reason About Their Function**|Kevin Lu et.al.|[2611.29444](https://arxiv.org/abs/2611.29444)|null|
+|**2026-11-22**|**DataRecycle: Trustworthy Distillation of Structured Data from Scattered Web Evidence**|Can Liu et.al.|[2611.29206](https://arxiv.org/abs/2611.29206)|null|
+|**2026-11-21**|**Shoonya: Zero-Socket In-Process Small Language Models for Graph Databases with Schema-Epoch KV Caching, Live Catalog Logit Masking, and Verifier-Advantage Distillation**|Madhulatha Mandarapu et.al.|[2611.28502](https://arxiv.org/abs/2611.28502)|null|
 |**2026-11-20**|**AutoOntologyBench: A Task-Grounded Benchmark for Agentic Knowledge Engineering**|Minye Shao et.al.|[2611.27734](https://arxiv.org/abs/2611.27734)|null|
 |**2026-11-20**|**Bounded Treewidth Rulesets Are Not Finitely Controllable**|Piotr Ostropolski-Nalewaja et.al.|[2611.27461](https://arxiv.org/abs/2611.27461)|null|
 |**2026-11-20**|**Observed, Curated, Reused: Observation Bias in Clinical AI Evaluation**|Md Shamim Ahmed et.al.|[2611.27301](https://arxiv.org/abs/2611.27301)|null|
@@ -3531,6 +3571,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-23**|**Big Tree Viewer: A high-performance browser-based phylogenetic tree viewer with agentic AI integration**|John B. Allard et.al.|[2611.30920](https://arxiv.org/abs/2611.30920)|null|
+|**2026-11-23**|**Gallium at germanium surfaces: links to superconducting films and correlated adatom lattices**|Peter Jacobson et.al.|[2611.30809](https://arxiv.org/abs/2611.30809)|null|
+|**2026-11-23**|**Foundation Model and Radiomics Distance Scores for Post-Hoc Segmentation Failure Detection**|Simon Johannes Joham et.al.|[2611.30582](https://arxiv.org/abs/2611.30582)|null|
+|**2026-11-23**|**Quantum Imaging of Nonlinear Magnetization Reversal and Dissipative Domain Dynamics**|Manali Verma et.al.|[2611.30575](https://arxiv.org/abs/2611.30575)|null|
+|**2026-11-23**|**Scanning nanowire quantum dot with radio-frequency read-out**|Aurèle Kamber et.al.|[2611.30427](https://arxiv.org/abs/2611.30427)|null|
+|**2026-11-23**|**Interactions with hidden traits induce diversification and conceal its origin**|Vikas Kumar Jha et.al.|[2611.30408](https://arxiv.org/abs/2611.30408)|null|
+|**2026-11-23**|**WaDiS: Boundary-Preserving Diffusion Segmentation via Multi-Scale Wavelet Conditioning and Frequency-Aware Gating**|Qiang Gao et.al.|[2611.30164](https://arxiv.org/abs/2611.30164)|null|
+|**2026-11-23**|**Indentation-induced polar domain reconfiguration in the charge-density-wave semiconductor EuTe4**|Hidefumi Takahashi et.al.|[2611.30121](https://arxiv.org/abs/2611.30121)|null|
+|**2026-11-23**|**When Should We Trust Medical Image Models? Evaluating Confidence Reliability under Cross-Dataset Shift**|Haoran Zhang et.al.|[2611.29955](https://arxiv.org/abs/2611.29955)|null|
+|**2026-11-23**|**Benchmarking VLM Medical Hallucination across 5 Modalities**|Zhixing Cao et.al.|[2611.29934](https://arxiv.org/abs/2611.29934)|null|
 |**2026-11-20**|**Silver/alumina-capped Janus particles: a dispersible hyperbolic metamaterial**|Samhita Kattekola et.al.|[2611.27736](https://arxiv.org/abs/2611.27736)|null|
 |**2026-11-20**|**Leakage-Free Is Not Confounder-Free: What a Patient-Level Split Cannot Certify About a Medical Imaging Benchmark**|Ignazio Gallo et.al.|[2611.27585](https://arxiv.org/abs/2611.27585)|null|
 |**2026-11-20**|**Edge-dislocation interactions with sub 3 nm vacancy and interstitial clusters in FeCr alloys: Mechanisms, Obstacle strength and Fate**|Layatmika Sahoo et.al.|[2611.27583](https://arxiv.org/abs/2611.27583)|null|
