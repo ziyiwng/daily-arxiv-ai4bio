@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.11.25
+## Updated on 2026.11.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Protein Structure & Engineering
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**Same Seed, Different Top Prediction: Cross-Platform Reproducibility of AlphaFold 3 Inference on TPUs, GPUs, and CPUs**|Lorenzo Pazienza et.al.|[2611.34462](https://arxiv.org/abs/2611.34462)|null|
+|**2026-11-25**|**Spatial Transcriptomics Prediction from Histology via Topology-Informed Graph Attention and Gene-Semantics Conditioning**|Yuqi Cheng et.al.|[2611.33792](https://arxiv.org/abs/2611.33792)|null|
+|**2026-11-24**|**Evolutionary constraints on protein fold diversity**|Harutyun Sahakyan et.al.|[2611.33104](https://arxiv.org/abs/2611.33104)|null|
 |**2026-11-24**|**Beyond Hard Tokens: Predictive Memory for Multimodal Protein Generation**|Xiaoliang Shi et.al.|[2611.32347](https://arxiv.org/abs/2611.32347)|null|
 |**2026-11-24**|**Start Where the Data Are: Statistical Priors for One-Step Generation on Manifolds**|Yuyao Wang et.al.|[2611.31856](https://arxiv.org/abs/2611.31856)|null|
 |**2026-11-23**|**Impact of Topology and Sequence Length on the Pressure-Dependent Collapsibility of Proteins**|Jiayi Wang et.al.|[2611.30336](https://arxiv.org/abs/2611.30336)|null|
@@ -516,6 +519,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**BADGERS: Bayesian Adaptive Graph-Guided Errors-in-Variables Regression Solution for Structured High-Dimensional Data**|Zeyu Hu et.al.|[2611.34378](https://arxiv.org/abs/2611.34378)|null|
+|**2026-11-25**|**RHOPE: LLM-Augmented Adaptive Experimental Design with Complex Contextual Information**|Bowen Shi et.al.|[2611.33767](https://arxiv.org/abs/2611.33767)|null|
+|**2026-11-25**|**The evolution of extreme spatial heterochiasmy in amphibians: interactions between sex-specific meiotic program and chromosome architecture**|Ezgi Unal et.al.|[2611.33634](https://arxiv.org/abs/2611.33634)|null|
+|**2026-11-24**|**Bayesian Learning of Spatially Heterogeneous Causal Structure in Spatial Transcriptomics**|Kyungwook Back et.al.|[2611.33094](https://arxiv.org/abs/2611.33094)|null|
 |**2026-11-24**|**Cancer multi-omics joint dimension reduction leads to reliable and interpretable survival predictions**|Vincent Le Goff et.al.|[2611.32382](https://arxiv.org/abs/2611.32382)|null|
 |**2026-11-24**|**Toward Database-Native Genomics: A Vision for Declarative Genomic Analysis**|Dhruv Aron et.al.|[2611.31893](https://arxiv.org/abs/2611.31893)|null|
 |**2026-11-23**|**How Far Can Linear Go? BiPert, a Unified Framework for Single-Cell Perturbation Modelling**|Abhishek Sharma et.al.|[2611.31227](https://arxiv.org/abs/2611.31227)|null|
@@ -1203,6 +1210,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**A gene informed benchmark for BioScoring of pathology foundation models**|Paul Vilars et.al.|[2611.34930](https://arxiv.org/abs/2611.34930)|null|
+|**2026-11-25**|**Resolving cell states in spatial transcriptomics with SCATTER**|Lei Huang et.al.|[2611.34798](https://arxiv.org/abs/2611.34798)|null|
+|**2026-11-25**|**Spatial Transcriptomics Prediction from Histology via Topology-Informed Graph Attention and Gene-Semantics Conditioning**|Yuqi Cheng et.al.|[2611.33792](https://arxiv.org/abs/2611.33792)|null|
+|**2026-11-24**|**Bayesian Learning of Spatially Heterogeneous Causal Structure in Spatial Transcriptomics**|Kyungwook Back et.al.|[2611.33094](https://arxiv.org/abs/2611.33094)|null|
 |**2026-11-24**|**PHM-ensemble: Scalable and Stable Probabilistic Multiresolution Clustering via Ensemble Density Estimation**|Ali Turfah et.al.|[2611.32945](https://arxiv.org/abs/2611.32945)|null|
 |**2026-11-23**|**CASPER: Discovering Spatially Resolved Causal Cell-Cell Communications**|Yang Ni et.al.|[2611.31108](https://arxiv.org/abs/2611.31108)|null|
 |**2026-11-23**|**LeCellModel: Interpretable Density Estimation over the Gene Expression Manifold**|Gil Karin et.al.|[2611.30955](https://arxiv.org/abs/2611.30955)|null|
@@ -1698,6 +1709,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**ChemoMAE: Self-Supervised Spectral Representation Learning Reveals Chemical Heterogeneity in Historical Wood**|Ryuji Yamaguchi et.al.|[2611.34581](https://arxiv.org/abs/2611.34581)|null|
+|**2026-11-25**|**A Head-Level Investigative Study of Self-Supervised Backbones for Synthetic Speech Detection**|Mohamed Mallat et.al.|[2611.34426](https://arxiv.org/abs/2611.34426)|null|
+|**2026-11-25**|**GeoCAM: Self-Supervised Sonar-Optical Representation Learning via Geographic Overlap Supervision**|Fadi Abdeladhim Zidi et.al.|[2611.34218](https://arxiv.org/abs/2611.34218)|null|
+|**2026-11-25**|**Ground Your Steps: Optimizing Sampling Schedules in Flow Matching Robot Policies**|Licheng Yang et.al.|[2611.34148](https://arxiv.org/abs/2611.34148)|null|
+|**2026-11-25**|**AlignPre: Skill-Aligned Post-Training for Latent-Free Generative Precipitation Nowcasting**|Demin Yu et.al.|[2611.34101](https://arxiv.org/abs/2611.34101)|null|
+|**2026-11-25**|**Wasserstein-Fisher-Rao Reconstruction of Discrete space Population Dynamics**|Junda Ying et.al.|[2611.33923](https://arxiv.org/abs/2611.33923)|null|
+|**2026-11-25**|**Event-WAM: Learning to Act with Event-Derived Futures**|Jongseong Bae et.al.|[2611.33917](https://arxiv.org/abs/2611.33917)|null|
+|**2026-11-25**|**X-Matte: VAE-Free Pixel-Space Flow Matching for Single-Step Image Matting**|Zanyi Wang et.al.|[2611.33874](https://arxiv.org/abs/2611.33874)|null|
+|**2026-11-25**|**Probabilistic Monocular Biomechanical Reconstruction via Guided Flow Matching**|R. James Cotton et.al.|[2611.33809](https://arxiv.org/abs/2611.33809)|null|
+|**2026-11-25**|**FreshVLA: Frequency-Regularized Time Scale Hierarchical Latent Actions for Vision-Language-Action Models**|Jiaming Liang et.al.|[2611.33635](https://arxiv.org/abs/2611.33635)|null|
 |**2026-11-24**|**DiffGR00T: Execution-Aware Differentiable Training for Humanoid Whole-Body Vision-Language-Action Models**|Sichen Wu et.al.|[2611.32665](https://arxiv.org/abs/2611.32665)|null|
 |**2026-11-24**|**HazeFlux: Few-Step Generative Priors for Real-World Image Dehazing**|Yunong Liu et.al.|[2611.32632](https://arxiv.org/abs/2611.32632)|null|
 |**2026-11-24**|**Self-supervised quality evaluation of grid maps without ground truth**|Unal Artan et.al.|[2611.32550](https://arxiv.org/abs/2611.32550)|null|
@@ -2939,6 +2960,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**Schrödinger's Legacy: The Wave Function and Quantum Reality**|Davide Romano et.al.|[2611.34895](https://arxiv.org/abs/2611.34895)|null|
+|**2026-11-25**|**Did the Model Forecast It, or Already Know It? Evaluating Large Language Models for Novel Drug-Target Prioritisation with a Temporal Knowledge-Graph Oracle**|Pui Chung Siu et.al.|[2611.34247](https://arxiv.org/abs/2611.34247)|null|
+|**2026-11-25**|**SysBio-SR: Benchmarking Symbolic Regression for Trajectory Fidelity and Mechanism Recovery in Systems Biology**|Heng Rao et.al.|[2611.34106](https://arxiv.org/abs/2611.34106)|null|
+|**2026-11-25**|**FasterGRN: Reducing the Refinement Redundancy for Accelerating Generative Refinement Networks**|Ziqian Zhang et.al.|[2611.33982](https://arxiv.org/abs/2611.33982)|null|
+|**2026-11-25**|**FIG-MAC: A Fine-grained Inspiration Graph Empowered Multi-Agent Collaboration for Automated Scientific Hypothesis Generation**|Siyuan Chen et.al.|[2611.33563](https://arxiv.org/abs/2611.33563)|null|
+|**2026-11-24**|**CA-RAG: Constraint-Aligned Retrieval for Structurally Faithful Long-Form Generation**|Vimal Kumar Kumar et.al.|[2611.33497](https://arxiv.org/abs/2611.33497)|null|
+|**2026-11-24**|**Escape Time with Quenched Extrinsic Fluctuations in Positive Feedback Systems**|Manuel Eduardo Hernandez-Garcia et.al.|[2611.33341](https://arxiv.org/abs/2611.33341)|null|
+|**2026-11-24**|**A Causal Energy Prior for Learning Directed Acyclic Graphs**|Marco Scutari et.al.|[2611.33225](https://arxiv.org/abs/2611.33225)|null|
+|**2026-11-24**|**Bayesian Learning of Spatially Heterogeneous Causal Structure in Spatial Transcriptomics**|Kyungwook Back et.al.|[2611.33094](https://arxiv.org/abs/2611.33094)|null|
 |**2026-11-24**|**When the Miner is the Generator: Rethinking the Separation Axiom in LLM-Driven Data Mining**|Xi Chen et.al.|[2611.32207](https://arxiv.org/abs/2611.32207)|null|
 |**2026-11-24**|**Network topology imposes spectral constraints on collective nonequilibrium responses**|Dingjie Wu et.al.|[2611.32130](https://arxiv.org/abs/2611.32130)|null|
 |**2026-11-23**|**What You See Is What You Certify: Concept-Based Certificates for Unseen Compositions**|Phuc Linh Ngo et.al.|[2611.31627](https://arxiv.org/abs/2611.31627)|null|
@@ -3596,6 +3626,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**Privileged On-Policy Distillation for Calibrated Alzheimer's Diagnosis With Missing Modalities**|Vo Minh Khoi Nguyen et.al.|[2611.34721](https://arxiv.org/abs/2611.34721)|null|
+|**2026-11-25**|**Blind spatially varying PSF estimation for fluorescence microscopy**|Minh Hai Nguyen et.al.|[2611.34607](https://arxiv.org/abs/2611.34607)|null|
+|**2026-11-25**|**AFM metrology for 3D high aspect ratio semiconductor structures**|Hokyun Chin et.al.|[2611.34507](https://arxiv.org/abs/2611.34507)|null|
+|**2026-11-25**|**Collective relaxation dynamics and vitrification in hexatic smectic binary equimolar mixtures containing component with varying C $_3$F$_7$CH$_2$OC$_m$H$_{2m}$ - chain length**|Aleksandra Deptuch et.al.|[2611.34286](https://arxiv.org/abs/2611.34286)|null|
+|**2026-11-25**|**EGSE: Evidence-Grounded Skill Evolution for Medical Reasoning Agents**|Mingyuan Li et.al.|[2611.33909](https://arxiv.org/abs/2611.33909)|null|
+|**2026-11-25**|**SPiXSeg: Rethinking MLLM-based Image Segmentation as Superpixel Classification**|Piyush Tiwary et.al.|[2611.33842](https://arxiv.org/abs/2611.33842)|null|
+|**2026-11-25**|**Can Its Own Misses Teach an MLLM to Find Small Brain Metastases?**|Yixuan Duan et.al.|[2611.33836](https://arxiv.org/abs/2611.33836)|null|
+|**2026-11-25**|**Evaluating Cine and Tagged MRI-to-Speech Synthesis with Complementary Metrics and MRI-Free Controls**|Karlo Vrancic et.al.|[2611.33786](https://arxiv.org/abs/2611.33786)|null|
+|**2026-11-25**|**The evolution of extreme spatial heterochiasmy in amphibians: interactions between sex-specific meiotic program and chromosome architecture**|Ezgi Unal et.al.|[2611.33634](https://arxiv.org/abs/2611.33634)|null|
+|**2026-11-25**|**PICE: Prototype-Informed Conditional Model Evolution Toward Self-Evolving Medical Image Recognition**|Yifan Zhu et.al.|[2611.33626](https://arxiv.org/abs/2611.33626)|null|
 |**2026-11-24**|**Evolutionary constraints on protein fold diversity**|Harutyun Sahakyan et.al.|[2611.33104](https://arxiv.org/abs/2611.33104)|null|
 |**2026-11-24**|**From dispersal to patrol: the extracellular matrix shapes an annealing-like search by Drosophila embryonic macrophages**|Nickolay Korabel et.al.|[2611.33097](https://arxiv.org/abs/2611.33097)|null|
 |**2026-11-24**|**A model colloidal gel former for the measurement of inter-particle forces**|Rui Cheng et.al.|[2611.33091](https://arxiv.org/abs/2611.33091)|null|
